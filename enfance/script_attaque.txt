@@ -16,6 +16,10 @@ Ils décident de garder l'enfant et de l'élever comme le leur.
 
 Cette petite fille sur la plage, ramenée chez elle, n'était autre qu'Emma Watson.
 
+- atk_jeux_d_enfants_au_15_aout_01
+
+Cette petite fille ayant jouée avec nous n'était autre qu'Emma Watson à nouveau.
+
 - atk_porter_les_enfants_de_taka_01
 
 Il vient une idée du côté de Philippe, faire croire à Molly qu'ils ont retrouvé Taka, 
