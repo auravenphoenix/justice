@@ -1,11 +1,11 @@
 
-- script_obscurs_objectifs_01
+- obscurs_objectifs_01
 
 Molly fait la rencontre de Taka(o) (alias Peter Pandamour, un mirmim).
 Elle sympathise, devient ami avec lui, puis devient amoureuse de cet être qui apparaît-disparaît.
 Elle aimerait faire sa vie avec lui.
 
-- script_obscurs_objectifs_02
+- obscurs_objectifs_02
 
 La famille Lystat a elle aussi une apparition similaire.
 Cet être se présente comme 'l'homme de de la Lune'. 
@@ -14,20 +14,20 @@ Leur enfant serait une personne correspondant plus ou moins à certains personna
 Il portera cette histoire légendaire et ses leçons, et il sera l'un des premiers humains a obtenir des 
   pouvoirs surnaturels dans ce monde.
 Via cette histoire, le fonctionnement de la magie est présenté. Cette dernière serait liée notamment à l'ADN.
-La légende met en garde contre celui ou celle, avide de mage, qui manipulerait les ADN avec vice.
+La légende met en garde contre celui ou celle, avide de magie, qui manipulerait les ADN avec vice.
 
-- script_obscurs_objectifs_03
+- obscurs_objectifs_03
 
 Les renseignements américains et français ont connaissance alors de cet être surnaturel.
 Les premiers avec l'expérience de Molly, les seconds avec l'expérience de la famille Lystat.
 Chacun de ses groupes de renseignements voit ces manifestations surnaturelles comme une aubaine et une menace.
 La magie est vue comme une nouvelle ressource, une nouvelle technologie à obtenir et que le camp d'en face ne doit pas obtenir.
-Cahcun de ses groupes applique une logique suivant des intérêts non humanistes.
+Chacun de ses groupes applique une logique suivant des intérêts non humanistes.
 C'est la course à qui obtiendra et qui n'obtiendra pas cette nouvelle force ayant le potentiel 
 de faire bouger les lignes géostratégiques. La recherche de cette personne et sa décendance sont alors convoitées/redoutées 
 comme avantage/menace géostratégiques.
 
-- script_obscurs_objectifs_04
+- obscurs_objectifs_04
 
 Du côté français, un groupuscule d'agents de renseignements corrompus gravite autour de Charles.
 Du côté américain, un groupuscule d'agents de renseignements corrompus gravite autour de Philippe.
@@ -40,3 +40,13 @@ de les arrêter. Cela ne fera qu'empirer au fur et à mesure que les technologie
 encore pire s'ils parviennent à ajouter quelconque pouvoir surnaturel à leur arsenal.
 
 Leur partie commence vraiment le 12 juillet 1989, jour de ma naissance.
+
+- obscurs_objectifs_05
+
+Que cela soit Charles ou Philippe. 
+L'un et l'autre veulent m'attirer dans leur territoire et me garder sous contrôle/influence.
+Si cela n'est pas possible, obtenir au moins l'un de mes enfants possédant aussi de la magie est un objectif.
+La stratégie consistant à m'isoler socialement pour éviter que je fasse ma vie dans le territoire 
+adverse est utilisé par l'un quand je suis dans le territoire de l'autre, dans le but que je ne fasse 
+ma vie avec personne.
+Tenter de me neutraliser, (jusqu'à l'assassinat) reste toujours une option pour chacun d'eux.
