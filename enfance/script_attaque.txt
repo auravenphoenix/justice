@@ -94,3 +94,12 @@ Marie est blessée. Aux urgences, ils tentent de faire le maximum pour sauver le
 Cette traumatismante tragédie éloigne Charles et Marie l'un de l'autre.
 Andy va en prison. Il se retrouve séparé de sa femme qui continuera de travailler avec Charles.
 Coup heureux du destin, le bébé de Molly survit et ne présentera aucun séquel de la consommation de produits ingérés.
+
+- atk_choc_frontal_04
+
+Andy fait sa déclaration et raconte son cauchemar.
+Il parle de ce personnage dans son rêve, semblable à celui des rêves de Morgan. 
+Il raconte ce que ce personnage racontait en parlant d'une Emma et d'une Mélodie.
+Molly commencera à avoir la foi suite aux dires d'Andy qui n'aurait jamais pu deviner l'endroit et ce qu'il se passait, sans ce cauchemar.
+Charles et Marie garderont en tête que je suis responsable de l'accident, alors que je n'ai que 10 ans ou moins et que je ne les connais pas.
+En effet, ils font le lien entre la Emma du cauchemar et Emma Watson qu'ils manipulent.
