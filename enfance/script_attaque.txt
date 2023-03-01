@@ -1,67 +1,20 @@
 
-- atk_naissance_01
-
-12 juillet 1989
-Je viens au monde, fils de Charles et Marie Lystat. Charles a été élevé dans une famille juive.
-
-- atk_sauve_des_eaux_ou_pas_01
-
-J'ai à peine un an. Philippe veut se débarasser de moi.
-Il achète la complicité de Fabienne et Raymond Pellé.
-Ces derniers sont chargés de me kidnapper, puis de me tuer par noyade.
-Ils commettent mon enlèvement, mais ils ne vont pas jusqu'au bout.
-Ils décident de garder l'enfant et de l'élever comme le leur.
-
-- atk_porter_les_enfants_de_taka_01
-
-Il vient une idée du côté de Philippe, faire croire à Molly qu'ils ont retrouvé Taka, 
-l'homme avec qui elle aurait aimé faire sa vie, ou plutôt ce qu'il en reste.
-Philippe convainc donc Molly de porter un premier enfant.
-Cet enfant est en fait conçu avec mon ADN prélévé sur moi jeune enfant.
-A l'issue de sordide manipulation génétique, Molly est enceinte de cet embryon artificiel.
-L'enfant vient au monde 3 ans après ma naissance et est nommé Victor.
-En accord avec le désir de Taka d'après les dires de Molly.
-
-- atk_porter_les_enfants_de_taka_02
-
-Philippe réitère l'idée d'un enfant de Taka plusieurs années plus tard, en 2000.
-J'ai 11 ans et je suis dans l'adolescence. Philippe via Fabienne Pellé comme complice, 
-récupère ma semence.
-Un second embryon est formé avec ma semence cette fois-ci.
-Molly porte l'enfant. Le bébé vient au monde avec les attributs génitaux des deux sexes.
-Molly lui donne le nom de Vivian, toujours selon la volonté de ce Taka.
-
-- atk_porter_les_enfants_de_taka_03
-
-Vivian finira par trancher la question garçon ou fille.
-Elle est obligée de prendre des médicaments, des hormones pour que 
-son corps grandisse en accord avec son choix.
-
-- atk_rencontre_sur_la_plage_01
+-! atk_rencontre_sur_la_plage_01
 
 Cette petite fille sur la plage, ramenée chez elle, n'était autre qu'Emma Watson.
-Cette situation était une mise en scène pour faire écho au fait que j'avais été isolé de mes parents.
-Un pari de Charles, une sorte de pièce de puzzle qui finirait par faire tilt un jour.
-Il n'avait pas forcément prévu que j'ai une attirance pour cette petite fille, et vice versa.
+J'ai une attirance pour cette petite fille, et vice versa.
 
-Juste pour une mise en scène ils ont laissé une petite fille toute seule sur la plage.
-
-- atk_jeux_d_enfants_au_15_aout_01
+-! atk_jeux_d_enfants_au_15_aout_01
 
 Cette petite fille ayant jouée avec nous n'était autre qu'Emma Watson à nouveau.
-Emma m'avait reconnu, mais les corrompus (Charles) lui avaient défendu de faire allusion à nos précédentes rencontres.
+Emma m'avait reconnu, mais Charles lui avait défendu de faire allusion à nos précédentes rencontres.
 Résultat des courses, elle est plus discrète qu'elle n'aurait voulu l'être.
 Du coup, nous passons l'un comme l'autre à côté d'une occasion d'approfondir notre relation.
 
-- atk_jeux_d_enfants_au_15_aout_02
+-! atk_jeux_d_enfants_au_15_aout_02
 
 En 1995, les parents d'Emma divorcent. Emma déménage alors en Angleterre.
-Cet évènement est provoqué en partie par le réseau de Philippe.
-En effet, ce dernier ne voit pas d'un bon oeil le fait que Charles essaye de 
-jouer les entremetteurs entre moi et une fille.
-Il se fiche compètement que moi et Emma nous entendions bien.
-Alors que nous sommes que des enfants, Philippe applique de manière drastique 
-la stratégie d'isolation social.
+Charles a fait en sorte qu'il en soit ainsi pour éloigner Emma de moi.
 
 - atk_choc_frontal_01
 
