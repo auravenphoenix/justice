@@ -1,17 +1,17 @@
 
--! atk_rencontre_sur_la_plage_01
+- atk_rencontre_sur_la_plage_01
 
 Cette petite fille sur la plage, ramenée chez elle, n'était autre qu'Emma Watson.
 J'ai une attirance pour cette petite fille, et vice versa.
 
--! atk_jeux_d_enfants_au_15_aout_01
+- atk_jeux_d_enfants_au_15_aout_01
 
 Cette petite fille ayant jouée avec nous n'était autre qu'Emma Watson à nouveau.
 Emma m'avait reconnu, mais Charles lui avait défendu de faire allusion à nos précédentes rencontres.
 Résultat des courses, elle est plus discrète qu'elle n'aurait voulu l'être.
 Du coup, nous passons l'un comme l'autre à côté d'une occasion d'approfondir notre relation.
 
--! atk_jeux_d_enfants_au_15_aout_02
+- atk_jeux_d_enfants_au_15_aout_02
 
 En 1995, les parents d'Emma divorcent. Emma déménage alors en Angleterre.
 Charles a fait en sorte qu'il en soit ainsi pour éloigner Emma de moi.
