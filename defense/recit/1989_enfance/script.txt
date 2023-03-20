@@ -74,3 +74,22 @@ Elle est allée trop loin. Je me dis qu'il faudra que j'en parle à papa ce soir
 Mais comment ? Avec quels mots ? Un léger sentiment de culpabilité et ne sachant comment le dire, 
 m'amèneront à choisir le silence. J'ai le sentiment qu'un tel geste ne se reproduira pas.
 Si le contraire arrivait, je ferais l'effort de trouver les mots justes.
+
+- def_penible_soin_h2o2_01
+
+Je joue dans la cour de récréation de l'école primaire de Toury, côté petite section.
+Je finis par tombé par malchance. Je me rape le coude dans ma chute.
+Les professeurs des écoles s'occupent de moi et m'emmènent à l'infirmerie.
+La plaie est nettoyée, du produit est mis et un pansement est posé pour finir.
+
+- def_penible_soin_h2o2_02
+
+Le soir après l'école, j'explique ma chute.
+La plaie a évidemment séché et a formé une croûte. de 3 cm de long sur 1.5cm de large de souvenir.
+Après mangé, mes parents doutent que la plaie ait été correctement désinfectée.
+Il se mettent en tête qu'il faut retirer ma croûte et désinfecter la plaie comme il faut.
+Alors, mes parents s'improvisent chirurgien d'un soir. Bétadine et eau oxygénée (H2O2) sont utilisées pour 
+attaquer la plaie et s'assurer de la définction. Je hurle, ça pique c'est une horreur.
+La croûte est longue. On y va bout par bout. Les ciseaux sont utilisés pour couper les morceaux de croûtes 
+détachés du coude. J'en pleure, c'est un supplice tellement c'est long.
+L'eau oxygénée qui mousse, l'irritation difficilement soutenable, et ça dure un moment.
