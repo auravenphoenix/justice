@@ -1,0 +1,37 @@
+--------------------------------------------------------------------------------
+
+# collège
+
+- def_maladie_bacterie_virus_01
+
+A l'époque des deux dernières années de collège, je suis tombé malade d'une étrange infection.
+Je suis dans un état fiévreux, et fatigué. Je suis invité chez Mickaël pour jouer aux cartes Yu-Gi-Oh 
+l'après-midi. Maman me déconseille un tant soit peu d'y aller. J'hésite, vu mon état un peu affaibli, mais 
+je décide d'aller chez Mickaël tout de même.
+Je passe un bon après-midi à jouer, même si du repos aurait été préférable.
+Très tard le soir voire même durant la nuit, je me réveille. Je ne me sens pas bien du tout, nauséaux même.
+Je me dirige vers les toilettes, Alexandre est debout et voit bien que je vais mal.
+Je n'arrive pas à retenir une envie de vomir. Tout ce que je parviens à faire est de placer un peu 
+ma main devant ma bouche. 
+Je vomis le reste aux toilettes. Mes parents sont alertés.
+ - Tu pouvais pas mettre ta main devant ta bouche ? demande ma mère agacée.
+ - C'est ce qu'il a fait, témoigne Alexandre.
+Une fois l'imminiscence du rendu géré, la décision est prise de m'emmener aux urgences sur Orléans.
+
+- def_maladie_bacterie_virus_02
+
+Là-bas, je suis pris en charge. Ma température est prise, je suis osculté et soigné.
+On me donne un traitement à suivre. Des analyses seront faites pour déterminer l'origine de ce qui m'a rendu malade.
+
+- def_maladie_bacterie_virus_03
+
+Les résultats d'analyses sont présentés à notre médecin traitant.
+Celui-ci est surpris :
+ - C'est étrange, il y a des éléments qui présentent une origine virale, 
+   et d'autres qui présentent une origine bactérienne, commente-il.
+Je ne sais pas ce que j'ai chopé, mais c'était un sacré cocktail apparemment.
+Personne dans mon entourage ne sera contaminé par ce qui m'a infecté.
+
+--------------------------------------------------------------------------------
+
+# lycée
