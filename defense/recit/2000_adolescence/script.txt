@@ -2,6 +2,30 @@
 
 # collège
 
+- def_eurodisney_familial_01
+
+Mes parents, mon frère et moi passons un week-end à Eurodisney sur Paris.
+Nous passons de très bon moments dans le parc à profiter des attractions, etc.
+
+Le premier soir, dans le bus qui nous ramène à l'hôtel, 
+mon regard se pose sur une fille que je trouve assez jolie.
+Je la regarde plusieurs fois durant le trajet.
+Je n'ai pas l'occasion d'échanger avec elle.
+
+- def_eurodisney_familial_02
+
+Il y a une attraction qui se passe moyennement bien pour moi au cours de ce séjour.
+Mon frère et moi décidons de faire le labyrinthe de glace (mélange de vitres et de mirroirs).
+J'adore les labyrinthes et ce n'est pas la première fois que je fais ce type d'attraction.
+L'ironie veut que je me perds dans celui-ci et que, étonnamment, l'angoisse me gagne.
+Je me mets à pleurer ne supportant plus de ne trouver mon chemin. L'un de mes parents finira 
+même par venir me chercher à l'intérieur pour finir l'attraction.
+Une arraignée en plastique est lâchée juste avant la sortie pour donner un petit frisson juste avant la fin.
+J'ai vu un ou deux enfants s'en effrayée. Moi non, c'était juste l'étonnante angoisse qui m'a gagnée dans 
+une attraction que j'aime bien pourtant.
+
+Je finis par me mettre à pleurer
+
 - def_maladie_bacterie_virus_01
 
 A l'époque des deux dernières années de collège, je suis tombé malade d'une étrange infection.
