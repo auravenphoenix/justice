@@ -48,3 +48,18 @@ Elles espéraient voir le bout du tunnel en me retrouvant.
 
 Depuis 2018 et même bien avant, bon nombre de personnes et d'entreprises ont profité de mes avis, mes opinions, 
 mes idées sans que je n'en sois bénéficiaire.
+
+- atk_mefaits_sequelles_01
+
+psychologique:
+  faiblesse psychologique
+  baisse d'estime de soi
+  sentiment de honte
+  dépersonnalisation
+  emprise
+  traumatisme
+  stress
+
+physique (temporaire ou encore présente):
+  brulures [internes|externes]
+  perforation interne
