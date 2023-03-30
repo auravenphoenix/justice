@@ -63,3 +63,5 @@ psychologique:
 physique (temporaire ou encore présente):
   brulures [internes|externes]
   perforation interne
+
+Ces listes ne sont pas exhaustives.
