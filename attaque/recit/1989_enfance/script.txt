@@ -111,3 +111,11 @@ La silhouette a indiqué des conseils/indications pouvant l'aider dans sa rédem
 A Molly, il lui reproche d'avoir cédé au vice, luxure et avarice au détriment de sa famille présente et future.
 Elle a mis en danger la vie de son enfant avec la consommation de produits nocifs pour elle et pour son enfant.
 etc
+
+- atk_choc_frontal_05c #legende
+
+A l'issue de cet évènement des plus tragiques, Charles et Marie développeront une aversion pour les religions.
+En effet, accablés par la tristesse, le malheur, ils cherchent un responsable dans cette affaire plutôt que de tirer 
+les leçons de leurs propres erreurs, excès.
+Comme la fameuse silhouette présente des signes des religions monothéistes (la croix de Lorraine, des croissants de lune 
+et des étoiles à six branches), les Lystats nourriront un sentiment anti-religieux.
