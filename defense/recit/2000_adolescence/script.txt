@@ -70,6 +70,15 @@ d'après leurs imbéciles moqueries. Exemple : "T'es le PD de Thomas, hein ?"
 Au passage, la fréquentation de Thomas, au départ, a eu un effet de baisse d'amour propre.
 Le garçon s'amusait à vanner un peu n'importe qui et ma répartie n'était pas aussi bonne que la sienne à l'époque.)
 
+- def_college_amour_01
+
+Au collège, je suis amoureux d'Amandine Mutzenberg. D'abord amie depuis la 5è, je finis par sortir 
+avec elle quand je suis en 3è. Cette relation ne durera pas au-delà du collège.
+
+Quand je sors avec elle, je ne suis pas forcément détendu, à l'aise.
+Je n'ose pas beaucoup le comportement, les gestes amoureux. Amandine me qualifiera même de coincé.
+Le fait que je sente que cette relation ne soit pas du goût de mes parents n'aide pas non plus.
+
 --------------------------------------------------------------------------------
 
 # lycée
