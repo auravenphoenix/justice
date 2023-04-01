@@ -1,0 +1,13 @@
+
+- atk_lystat_allies_01
+
+Emmanuel Macron
+Volodymyr Zelensky
+Donald Trump
+Jair Bolsonaro
+Vincent Bolloré
+Recep Tayyip Erdoğan
+
+- atk_lystat_pays_allies_01
+
+Qatar
