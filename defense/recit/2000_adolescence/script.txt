@@ -82,3 +82,21 @@ Le fait que je sente que cette relation ne soit pas du goût de mes parents n'ai
 --------------------------------------------------------------------------------
 
 # lycée
+
+- def_lycee_amour_ou_pas_01a
+
+En 2nde, j'ai une attirance pour l'une de mes camarades de classe Catie Evezard.
+J'essaye de sortir avec elle. Au début, cela se passe bien, je perçois des retours encourageant.
+Je persiste à croire que j'ai peut-être une chance de sortir avec elle.
+
+Malheureusement, ma maladresse, dûe notamment à des difficultés de communication et un manque de confiance en moi, 
+éloigne mes chances avec Catie. Au final, je prendrai un rateau et Foad un camarade et pote de l'époque finira 
+par sortir avec elle.
+
+- def_lycee_amour_ou_pas_01b
+
+En 1è, je ne suis pas dans la même classe que Catie. Elle n'est plus avec Foad.
+De ses dires, elle ne se projetait pas à long terme avec lui.
+Un midi, j'ai l'occasion d'échanger avec elle. Elle est accompagnée d'un camarade blond de sa classe.
+Au cours, de cette conversation, je commence légèrement à essayer de me rapprocher de Catie.
+Dès le lendemain, je vois Catie sortir avec son camarade blond. Tentative plus que jamais tuée dans l'oeuf.
