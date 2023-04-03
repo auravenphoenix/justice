@@ -162,6 +162,13 @@ Ainsi, ils s'intéressaient à l'eugénisme, le clonage, les utérus artificiel 
 Cela dans le désir d'une maîtrise parfaite du vivant et de l'élaboration de corps parfaits 
 (en accord avec leur sentiment olympien).
 
+- atk_objectifs_08f
+
+Le réseau des Lystat s'intéressait également aux intelligences artificielles pour atteindre un niveau 
+équivalent à celui de l'être humain, voire le dépasse (atteindre la singularité).
+L'un des objectifs étant la conception d'une IA à l'image de leur pensée, leur vision du monde 
+et qui influencerait le monde.
+
 - atk_objectifs_09
 
 Les Lystats ont toujours utilisé mon entourage comme intermédiaires dans leur espionnage.
