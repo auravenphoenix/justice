@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import os
 import git.config
 from git import Repo
 
