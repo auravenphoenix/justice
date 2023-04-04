@@ -32,4 +32,3 @@ class AutoCommitPush:
 if __name__ == '__main__':
     auto_commit_pusher = AutoCommitPush('.')
     auto_commit_pusher.commit_and_push_all()
-    os.system('(bell&)')
