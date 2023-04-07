@@ -8,7 +8,7 @@ Ainsi, il emploie son influence pour perturber mon quotidien subtilement, mettre
 ma stabilité émotionnelle et psychologique, me séduire avec telle ou telle inconnue.
 Il ne se prive pas carrément de tentatives d'assassinat.
 
-- atk_empire_contre_attaque_02
+- atk_empire_contre_attaque_02a
 
 Les victimes féminines ne sont pas épargnées par ses manigances.
 Ainsi, il s'emploie à leur présenter un ou plusieurs hommes qui pourraient me remplacer et 
@@ -16,9 +16,19 @@ leur faire oublier les tords qu'il leur a causé par le passé.
 
 Ces hommes sont des copieurs-profiteurs. Des hommes qui présentent des idées, des avis, des loisirs 
 et des activités similaires aux miennes. Cela dans le but de séduire plus facilement ces dames.
-Certaines sont de nouveaux trompées par la supercherie jusqu'à être abusée sexuellement de cette manière.
+Certaines sont de nouveaux trompées par la supercherie jusqu'à être abusée sexuellement avec ce procédé.
 
-L'un d'eux s'appelle Romain.
+- atk_empire_contre_attaque_02b
+
+Pour faciliter la séduction de ces dames, on a fait croire que j'étais mort en 2020.
+Pratique aussi pour obtenir un abandon des poursuites.
+Des personnes ont participé à ce mensonge comme témoin. C'est le cas de Rose à qui on 
+a fait croire qu'elle pourrait sortir avec moi grâce à ce stratagème.
+
+- atk_empire_contre_attaque_03
+
+L'un des copieurs-profiteurs s'appelle Romain et à des origines japonaises.
+L'autre est noir et il avait déjà une copine qu'il n'a pas hésité à tromper.
 
 - atk_2023_mars_18_01
 
