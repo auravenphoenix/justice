@@ -151,3 +151,14 @@ Ils ne seront pas trop de deux pour ce dossier.
 Je me penche sur le sujet de la COP21. 
 Je suis les discours des états durant la journée.
 J'espère qu'un accord contraignant ressortira de cette réunion internationale.
+
+- def_debat_commerce_01
+
+Un jour, j'ai une conversation téléphonique avec Lionel De Sequeira sur le sujet du commerce.
+Cette conversation tourne au débat. Il défend la pratique consistant à acheter plus ce dont on a besoin 
+pour revendre à plus cher à ceux qui veulent vraiment l'objet.
+Je suis contre cet pratique que je trouve immorale.
+
+Nous échangeons nos arguments jusqu'au moment où je fais remarquer à Lionel qu'il est revenu à son point de départ, 
+que j'ai déjà critiqué.
+Suite à cela, Lionel ne reconnaitra pas qu'il a tord. Le contraire m'aurait étonné.
