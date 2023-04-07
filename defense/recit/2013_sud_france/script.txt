@@ -145,3 +145,9 @@ Une médiation entre l'Ukraine, la Russie avec l'Allemagne se discute.
 Je suis de l'avis que la France compte se faire entendre pour parler d'appaisement.
 Des critiques se font sur François Hollande qui n'aurait rien à y faire. Je ne suis pas de cet avis.
 Ils ne seront pas trop de deux pour ce dossier.
+
+- def_ecologie_cop21_01
+
+Je me penche sur le sujet de la COP21. 
+Je suis les discours des états durant la journée.
+J'espère qu'un accord contraignant ressortira de cette réunion internationale.
