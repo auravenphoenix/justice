@@ -16,3 +16,27 @@ Nouvel établissement scolaire, nouveaux amis !
 .Anne-Lyse Boury, qui sortira avec Mathias.
 .Boris Liger.
 etc
+
+- def_iut_profs_01
+
+Je suis bien à l'IUT. J'apprécie les cours d'informatique.
+Je me passionne pour la programmation (avec le C++ bien sûr).
+
+Les profs m'aident à progresser. C'est particulièrement le cas de Marcel Isidore, 
+qui fut mon professeur pour différents TD.
+Il s'est souvent rendu disponible pour m'aider à débuger mes programmes et à me donner 
+des conseils de programmation. Ayant passé pas mal de temps avec lui, 
+il a été un peu mon père spirituel dans le domaine de l'informatique.
+
+- def_iut_profs_02
+
+Une fois, Lionel, qui n'était pas vraiment en phase avec l'informatique, 
+me fait un commentaire décourageant alors qu'il me voit essayer de corriger l'un de mes programmes 
+qui a déjà été noté, et dont la note ne changera pas quoi que je fasse.
+- Tout le monde s'en fou, me dit-il. Même Isidore s'en fou.
+En gros, t'emmerde pas à coder plus ce truc, ça sert à rien, tu perds ton temps, etc.
+
+J'ai laissé couler ses propos. Restant déterminé, je vais jusqu'au bout de mon idée que je programme.
+Surtout, je reste décidé à présenter cela à Isidore. S'il s'en fou, il me le dira lui-même à sa manière.
+Ce ne fut pas le cas. Il présenta un intérêt et nous avons échangé sur le sujet lors de l'une de nos 
+sessions prof-étudiant dans son bureau.
