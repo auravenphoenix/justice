@@ -2,13 +2,13 @@
 - atk_eurodisney_familial_01
 
 Emma est présente aussi à Eurodisney. Je ne me souviens pas l'avoir croisée.
-C'était une occasion pour elle de me voir. Même si elle ne se présente pas à moi comme le souhaite les Lystat.
-C'est également une occasion pour les enfants Lystat et notamment Benoit d'essayer de lui plaire.
+C'était une occasion pour elle de me voir.
+C'est également une occasion pour les autres enfants Lystat et notamment Victor d'essayer de lui plaire.
 
-La fille du bus qui m'attirée et qui m'a plu était Claire, fille de Charles et Marie.
+La fille du bus qui m'a attiré et qui m'a plu était Claire, fille de Charles et Marie, et donc ma soeur biologique.
 Il s'avère que mon désir a été réciproque. 
 A partir de ce moment, comme Emma, Claire développe une attirance pour moi au grand dam des Lystat.
-Ce sentiment de Claire vient renforcer leur haine à mon égard. (Comme si j'avais besoin de ça.)
+Ce sentiment de Claire vient gêner d'autant plus Charles et Marie.
 
 - atk_croiser_morgan_01
 
@@ -44,11 +44,11 @@ Morgan aimait les jonquilles.
 - atk_maladie_bacterie_virus_01
 
 Il s'agissait ni plus ni moins d'une tentative d'assassinat contre moi.
-Je suis dans le viseur des Lystat comme ils me considèrent comme une gêne pour leur famille, 
+Je suis dans le viseur des Lystat comme ils me considèrent comme une gêne voire menace, 
 notamment avec Emma qui continue de vouloir me voir malgré la distance,
 le choc frontal avec Andy dont ils me croient d'une manière responsable, 
 et en dernier Morgan souhaitant me voir.
-Charles est vraiment décidé à m'éliminer de sa vie.
+Etant un obstacle de trop de manières de leur point de vue, Charles et Marie veulent me supprimer.
 
 Fabienne Pellé était au courant et complice de ce plan. 
 Elle est l'agent des Lystat qui s'est assurée de mon empoisonnement.
@@ -128,3 +128,7 @@ disant qu'il trouvait la fille à la robe bleue plus jolie.
 
 Alexandre, qui connaissait Claire, lui a fait un retour mensongé 
 pour la dissuader d'essayer de poursuivre avec moi, et donc de m'envoyer un SMS, etc.
+Alexandre en a même profité pour coucher avec elle.
+
+N'arrivant pas à faire entendre raison à Claire, sur le fait qu'elle ne devrait pas désirer 
+de relation avec son frère, Charles et Marie utilisent la manipulation pour la tenir à l'écart de moi.
