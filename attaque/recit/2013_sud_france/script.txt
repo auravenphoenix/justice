@@ -2,7 +2,7 @@
 - atk_tgv_voisine_01
 
 Il s'avère que Molly, la mère de Vivian se trouvait dans le même wagon.
-Voisine proche, Molly a pu entendre et observé mon comportement, etc.
+Voisine proche, Molly a pu entendre et observer mon comportement, etc.
 
 Elle m'a trouvée très gentil et mignon avec la petite fille 
 que j'ai un peu occupée pendant le trajet.
@@ -45,7 +45,7 @@ Ils délirent. Sortir avec Emma Watson ? Oh je dis pas non.
 A l'époque, je ne sais pas si ça matcherait, si ça fonctionnerait dans le temps, 
 mais tenter l'aventure ? Avec plaisir !
 
-- atk_mirmim_x_lady_01  #legende
+- atk_mirmim_x_lady_01a  #legende
 
 Alors que le FBI reçoit en copie mes pensées, mes dires et ma vue, un phénomène se manifeste auprès d'Emma Watson.
 Celle-ci voit apparaître un être me ressemblant, se présentant comme étant moi, disant mes avis, etc.
@@ -57,6 +57,12 @@ Miracle pour Emma, qui vivera son idylle surnaturelle.
 Cependant, Emma se rend compte que pour être pleinement avec moi, il faudra qu'elle me rejoigne.
 En effet, les renseignements du quotidien chez moi dans mon appartement, ne semble en rien indiquer que je 
 sois au courant d'une relation quelconque avec elle.
+
+- atk_mirmim_x_lady_01b  #legende
+
+Je ne suis plus le vilain petit canard pour les parents Lystat, grâce à ce phénomène surnaturel qui pique leur curiosité.
+Petit à petit l'idée de me faire rejoindre l'Olympe des Lystat revient dans leurs plans.
+Pour cela, ils vont essayer de m'aider à trouver une copine.
 
 - atk_mirmim_x_lady_02  #legende
 
@@ -95,4 +101,4 @@ Les échanges qu'il aura avec eux permettront la voie du dialogue au plus haut s
 - atk_debat_commerce_01
 
 Derrière Lionel, il y a la volonté des Lystat.
-Avec cette conversation, Charles et son réseau savent définitivement que je suis incompatible avec leurs pratiques égoïstes.
+Avec cette conversation, Charles et son réseau savent que je suis plutôt incompatible avec leurs pratiques égoïstes.
