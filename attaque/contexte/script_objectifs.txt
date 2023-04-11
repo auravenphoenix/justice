@@ -9,6 +9,53 @@ Ils ont donc pour objectif de faire reproduire l'un de leur fils avec Emma.
 
 - atk_objectifs_01b
 
+Je suis le 1er enfant naturel de Charles et Marie.
+
+Mais comment ai-je atteri dans la famille Pellé ? 
+C'est une idée olympiste de Charles et Marie, digne du mythe d'Hercule. 
+
+A la base, le plan consiste à me faire vivre dans une famille de la classe moyenne,
+jusqu'à ce que je remplisse les critères souhaités par mes parents biologiques.
+D'abord, je ne dois pas savoir qui sont mes parents pendant toute la période.
+Ensuite, je dois développer mes compétences, mes connaissances, jusqu'à développer 
+une expertise, une spécialisation dirons-nous, dans un domaine. 
+Le but est d'être utile à la société d'un côté, et d'apporter une expérience du "commun des mortels" aux Lystat 
+complètement déconnectés de la réalité. Cela dans le but d'éviter les dérives de développement familial 
+hérité de la génération précédant Charles et Marie.
+(Au passage, c'était une manière d'amener du sang neuf dans la famille.)
+
+- atk_objectifs_01c
+
+L'une des choses que craignent les Lystat, c'est le manque de relations sincères.
+Pour être sûr que l'amour que je trouverais sera sincère, Charles&co ont dans l'idée de restés cachés à ma connaissance 
+tant que je serai célibataire. Impossible pour moi d'utiliser l'argent pour séduire, et impossible qu'une personne avide 
+abuse de moi.
+
+Le plus gros problème vient ensuite qu'ils ne souhaitaient pas que j'ai de relation jusqu'à ce que le critère d'expert soit validée.
+Cette idée, un peu "mormone", a eu pour conséquence directe le sabottage de mes tentatives de relation amoureuse avec toute fille/femme 
+qui me plaisait. En bonne réaction en chaîne, cela m'a laissé croire que je n'étais pas assez intéressant/capable de trouver une copine.
+Puis, cela a affecté mon amour-propre et ma confiance en moi, fatalement.
+Etre autiste Asperger n'aidant pas.
+
+- atk_objectifs_01d
+
+Erreur de stratégie de mon point de vue, plus d'une des personnes qui m'ont intéressées auraient été d'un grand soutien au 
+quotidien et m'auraient sans doute permis de valider plus tôt et mieux le critère d'expert requis.
+
+Au lieu de cela, le sentiment de solitude et le manque de confiance en moi m'ont conduit à une crise de la trentaine, 
+à la dépression jusqu'aux idées suicidaires.
+
+- atk_objectifs_01e
+
+Dans leurs plans, Charles et Marie voyaient Emma être avec l'un de mes frères Lystat.
+Elle m'était donc interdite. Le destin en a voulu autrement, et Emma et moi avons développé 
+une attirance réciproque l'un pour l'autre.
+
+Absurdité totale : Charles et Marie qui souhaitent des relations sincères pour eux et leurs enfants, 
+s'opposent à l'amour sincère et des plus déterminé d'Emma pour moi.
+
+- atk_objectifs_01f
+
 Etant donné que ma rencontre avec Emma va perturber leurs plans,
 ils vont faire preuve de malice et utiliser l'espionnage, leur argent pour corrompre et manipuler à leur fin.
 Dans le cas de leur plan avec Emma, l'objectif est de m'isoler d'elle, 
@@ -109,12 +156,14 @@ orgueil par la violence et le manque de considération humaine.
 
 - atk_objectifs_08a
 
-Leur plan vis-à-vis d'Emma étant contre-carré d'une part et le fait qu'ils n'y renoncent pas d'autre part, 
-les conduit à me suivre via espionnage et intermédiaires.
-  Ils finissent par m'apprécier, mais c'est surtout m'apprécier comme leur jouet, comme un chat jouant avec une souris, sa proie.
+Pour suivre le bon déroulement de leur plan, Charles&co use d'espionnage.
+Il leur est utile pour manipuler (moi, Emma ou autre). Par exemple, pour être sûr que je ne croise pas Emma.
+Ils utilisent des intermédiaires pour cela.
 
 Cette position se fait à leur intérêt lorsqu'ils trouvent que j'ai de bonnes idées qu'ils comptent exploiter à leur profit 
-sans partage. Je ne suis sans doute pas le seul ciblé par ce vol d'idées.
+tant que je ne regagne pas la famille. 
+Je ne suis sans doute pas le seul ciblé par ce vol d'idées.
+
 Au passage, cet espionnage sert plus facilement aussi pour dammer le pion face à d'autres acteurs économiques...
 
 - atk_objectifs_08b
@@ -178,4 +227,5 @@ Une autre dans le même genre est la promesse d'un marriage profitable
 (par exemple: avec Claire pour celui qui arriverait à lui faire oublier l'envie d'être avec moi).
 Une troisième est la possibilité de profiter des victimes, de les abuser et notamment sexuellement.
 
-Mon entourage va de ma famille proche (mes parents, mon frère) jusqu'à des collègues de travail, en passant bien sûr par mes amis.
+Mon entourage va de ma famille proche (mes parents Pellé, mon frère Alexandre) 
+jusqu'à des collègues de travail, en passant bien sûr par mes amis.
