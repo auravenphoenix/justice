@@ -1,4 +1,26 @@
 
+- def_inria_01
+
+Mon premier emploi était un CDD de deux ans à Sophia-Antipolis dans le sud de la France.
+Ma supérieure hiérarchique était la chercheuse Mme Monique Teillaud.
+
+J'ai travaillé sur la bibliothèque C++ CGAL, une boîte à outils d'algorithmes de géométrie.
+Au cours de ces deux ans, j'ai notamment développé un algorithme de 
+triangulation avec points à poids dans un espace périodique 3D, en m'inspirant d'algorithmes de CGAL existant.
+
+Mon travail à fait l'objet de rapports et de présentations.
+Un papier a été réalisé en anglais avec Monique Teillaud.
+J'ai eu l'occasion de présenté mon travail au cours de présentations en anglais.
+Ce fut le cas une fois à Londres dans le cas de la 23è édition de l'IMR.
+Une autre fois, au cours d'un workshop organisé par Monique Teillaud à Nancy à la fin des deux ans.
+C'est au cours de cet évènement que j'ai fait la connaissance du Pr Ileana Streinu travaillant aux Etats-Unis.
+Elle m'a présenté son sujet d'étude et son intérêt pour travailler avec moi.
+
+J'ai beaucoup appris au cours de cette expérience.
+En C++, j'ai découvert des concepts assez techniques que j'ai su apprivoiser.
+J'ai évidemment développé des compétences en géométrie.
+J'ai pris davantage confiance en moi concernant l'anglais surtout à l'oral.
+
 - def_tgv_voisine_01
 
 Lors de l'un de mes trajets en direction de Paris, ma voisine se trouve être une petite fille.
