@@ -20,3 +20,31 @@ L'idée de sortir avec elle me traverse l'esprit. Je finis par débrider mes sen
 On s'entend bien, j'ai l'impression que mes sentiments pourraient être réciproques.
 J'hésite. A des moments j'ai envie de me lancer et à d'autres non. 
 Quand je finis par me jeter à l'eau, je me prends un rateau.
+
+- def_utc_stage_playall_01
+
+Dans le cadre de mon cursus d'études d'ingénierie à l'UTC, 
+j'ai réalisé un stage de 6+ mois chez PLAY ALL MANAGEMENT à Paris.
+Mon maître de stage était M. Hubert Sarret.
+L'enseignant de l'IUT chargé de suivre mon stage était M. Antoine Jouglet.
+
+Mon travail a consisté à améliorer l'éditeur de jeux vidéo cross-platform écrit en C++, utilisant wxWidgets.
+J'étais responsable de la refonte d'au moins un outils graphique : le PSR Editor (éditeur d'objets 3D).
+
+J'ai apprécié ce stage et mon travail y a été apprécié.
+
+- def_utc_stage_cea_01
+
+Dans le cadre de mon cursus d'études d'ingénierie à l'UTC, 
+j'ai réalisé mon stage de fin d'études de 6 mois au CEA.
+Mon maître de stage était un chercheur du CEA.
+
+Mon travail a consisté à réalisé un plugin C++ pour le logiciel ParaView utilisé par les chercheurs du CEA 
+pour étudier la dynamique moléculaire.
+L'un des buts était de réaliser des algorithmes performant (permettant d'être utilisé avec plusieurs millions d'atomes) 
+pour obtenir des informations sur la structure des données en entrées (liens entre les atomes).
+Un autre objectif était de réaliser une visualisation moléculaire en accord avec les besoins des chercheurs 
+en utilisant le framework VTK/ParaView.
+
+J'ai apprécié ce stage et mon travail y a été apprécié.
+Mon maître de stage m'a donné une lettre de recommandation pour m'aider dans ma recherche d'emploi par la suite.
