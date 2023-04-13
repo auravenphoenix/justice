@@ -40,3 +40,15 @@ J'ai laissé couler ses propos. Restant déterminé, je vais jusqu'au bout de mo
 Surtout, je reste décidé à présenter cela à Isidore. S'il s'en fou, il me le dira lui-même à sa manière.
 Ce ne fut pas le cas. Il présenta un intérêt et nous avons échangé sur le sujet lors de l'une de nos 
 sessions prof-étudiant dans son bureau.
+
+- def_iut_stage_01
+
+Pour valider mon cursus de deux ans à l'IUT, 
+j'ai réalisé mon stage de 2,5 mois au LIFO (Laboratoire Informatique Fondamental d'Orléans).
+Mon maître de stage était M. Emmanuel Melin enseignant-chercheur.
+L'enseignant de l'IUT chargé de suivre mon stage était Marcel Isidore.
+
+Mon travail a consisté à fournir des outils Bash (et légèrement C++) pour 
+les travaux de recherche exploitant la puissance d'un cluster informatique.
+
+J'ai apprécié ce stage et mon travail y a été apprécié.
