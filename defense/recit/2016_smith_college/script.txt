@@ -8,6 +8,119 @@ la création de mon passeport, l'obtention de mon VISA J-1, passage à l'ambassa
 Ma candidature porte ses fruits.
 Je commence le travail au Smith College dans l'équipe de recherche d'Ileana Streinu au mois d'Août 2016.
 
+- def_smith_college_work_02a
+
+Le travail est passionnant. Travailler avec Ileana est très agréable.
+Je suis dans une petite équipe : Mojtaba a passé une thèse, sa femme Maryam nous rejoint plusieurs mois plus tard, 
+des étudiantes travaillent sur des sujets Python aidant l'avancée du projet de recherche sur lequel nous travaillons : Kinari.
+
+- def_smith_college_work_02b
+
+Kinari a pour but de fournir à long terme des outils permettant à des chercheurs d'étudier l'articulation 
+des molécules dans l'espace.
+Ces travaux intéressent notamment le domaine médical qui cherche à comprendre l'articulation des protéines, des virus par exemple.
+Des chercheurs travaillant dans l'étude des cristaux manifestent également un intérêt pour des outils comme Kinari.
+
+- def_smith_college_work_02c
+
+Je développe plusieurs utilitaires et algorithmes C++ à cette fin.
+Ileana (et quelques fois, son mari, professeur aussi) me transmettront les connaissances 
+mathématiques (algèbre linéaire, etc) nécessaires pour cela. 
+Je réalise un premier algorithme qui permet d'indiquer pour une description de molécule donnée 
+le nombre de flexibilité de celle-ci. Si ce nombre vaut 0, la molécule est complètement rigide.
+Si l'on a des flexibilités, on souhaite ensuite calculer l'évolution de la molécule si l'on exerce 
+une force d'une certaine manière, et ainsi observer les mouvements des articulations.
+
+- def_smith_college_work_02d
+
+Kinari à la structure d'un pipeline.
+En entrée du pipeline se trouve le fichier décrivant la molécule (pdb, mmcif).
+Différentes étapes, chacune correspondant à un traitement particulier, s'appliquent succéssivement.
+Il s'agit de développer une chaîne d'opérations où la sortie d'un maillon est l'entrée du suivant.
+Je suis responsable de différents maillons, Mojtaba travaille sur d'autres, etc.
+Ileana développe entre autres l'application web. 
+Chacun apporte ainsi sa pierre à l'édifice.
+
+- def_smith_college_work_03
+
+Ileana apprécie mon travail.
+Ainsi, mon contrat est renouvelé durant l'été 2017 et je suis augmenté.
+
+- def_smith_college_work_04
+
+En 2018, le travail a plutôt bien avancé.
+Nous sommes capable de générer une petite vidéo de l'articulation de petites molécules flexibles.
+
+- def_smith_college_work_05a
+
+En 2018, j'aide Ileana durant ces cours de Printemps comme assistant de cours, en plus de mon travail 
+d'ingénieur de recherche.
+Il s'agit d'un cours ouvert à toutes les étudiantes et les étudiants. On y apprend le langage Mathematica 
+et le logiciel qui va avec. Je découvre ainsi un nouveau langage très orienté mathématiques.
+Il est fort utile pour des calculs et des simulations, et donc réaliser des preuves de concept.
+
+- def_smith_college_work_05b
+
+Les cours-TD d'Ileana s'organisent ainsi : Ileana fait une présentation de nouveaux concepts, puis les 
+étudiantes réalisent des exercices. Ileana et moi passons pour aider celles qui le demandent 
+et suivre qu'aucune ne soit en retard ou bloquée.
+
+Chaque semaine, les étudiantes doivent réaliser des exercices notés.
+Je suis chargé de faire la correction des copies.
+Ileana est celle qui attribue la note finale de chaque devoir.
+
+- def_smith_college_work_05c
+
+Au bout de trois semaines de cours, deux nouvelles étudiantes se sont inscrites au cours d'Ileana.
+Elles ont donc trois semaines de retard. Ileana me charge durant le cours de leur faire rattraper 
+les cours passés. Ce qui n'est pas une mince affaire.
+
+L'une de ces deux nouvelles étudiantes fera des efforts pour rattraper les wagons.
+Elle viendra me poser régulièrement des questions, même lorsque je suis au labo.
+
+Emilie est une étudiante de ce cours avec qui je m'entends bien.
+A la fin du semestre, elle m'offrira des patisseries que je partagerai avec Deborah, Gus & co.
+
+- def_smith_college_work_05d
+
+Je suis chargé de "guider" les étudiantes pour l'épreuve de Midterm.
+Je dis guider, car je ne suis pas autorisé à rester dans la salle d'examen.
+Je ne suis pas habitué à cela. Personne ne surveille la salle.
+Les étudiantes ont le droit à toutes leur notes pour réaliser l'examen.
+(Elle n'ont s'en doute pas le droit de copier l'une sur l'autre ou de s'entraider, mais ça personne ne le surveille.)
+
+Du coup, je dois simplement ouvrir la salle, leur donner accès à l'examen, 
+accompagner une étudiante dans une salle d'examen juste pour elle (dérogation, cas particulier), 
+puis récupérer les copies à la fin du temps imparti.
+
+- def_smith_college_work_05e
+
+Plusieurs étudiantes abandonnent en cours de route. 
+C'est le cas de Gabriel et de l'étudiante arrivée au bout de trois semaines faisant des efforts.
+J'étais déçu que Gabriel quitte le cours. J'avais constaté un retard, mais elle aurait pu y arriver je pense.
+
+La seconde étudiante étant arrivée au bout de trois semaines, est désinscrite du cours également.
+Petit mélodrame dont je n'ai plus vraiment les détails en tête. 
+Ileana a pris cette décision, jugeant cela préférable pour différentes raisons.
+Pour ma part, il était difficile de l'aider tellement son retard était important.
+
+- def_smith_college_work_05f
+
+Ileana me demande de présenter un cours de Mathematica à sa place,
+car elle n'aura pas la possibilité d'assurer elle-même ce cours pour une raison dont je ne me souviens plus.
+J'accepte. Je stresse un peu, mais je parviens à faire le cours souhaité d'Ileana avec les étudiantes.
+
+- def_smith_college_work_06
+
+J'assiste à quelques cours d'algorithmie donnés par Ileana Streinu.
+Ces cours sont excellents, je me sens privilégié de pouvoir y assiter, ça me fait de bons rappels.
+
+J'assiste aussi à des présentations/conférences données au Smith College.
+J'ai par exemple assisté à une présentation du collègue d'Ileana, le Pr O'Rourke avec qui elle partage le labo.
+Celui-ci est spécialisé dans les mathématiques et plus présicément les pliages, leurs propriétés et leurs applications.
+J'ai assisté à une autre présentation, de biologie cette fois-ci, expliquant le fonctionnement des cellules et comment 
+elles savent se différencier suivant leur place dans le corps. Et donc comment "elles connaissent" leur place.
+
 - def_usa_01
 
 J'arrive à trouver une collocation dans Northampton à South Street.
