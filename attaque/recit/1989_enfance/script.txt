@@ -16,6 +16,11 @@ Il la désire, mais il est insensible aux désirs d'Emma. Il ne comprend pas et 
 ou grâce aux autres l'acceptation que les sentiments ne sont pas partagés (qu'on a pas toujours tout ce qu'on veut).
 Bref, il suivait le plan de Charles et Marie.
 
+- atk_super_u_tears_01
+
+Il s'agissait d'Emma qui cherchait à attirer mon attention dans le magasin.
+Elle avait peur de ne pas me recroiser et/ou que je l'oublie.
+
 - atk_jeux_d_enfants_au_15_aout_01
 
 Cette petite fille ayant jouée avec nous n'était autre qu'Emma Watson à nouveau.
