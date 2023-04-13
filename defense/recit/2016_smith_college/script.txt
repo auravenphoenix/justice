@@ -181,6 +181,13 @@ Je regrette de ne pas mettre forcé davantage à lui parler.
 J'ai apprécié ces visites.
 J'aime bien Boston. C'est toujours agréable d'y passer lorsque je fais l'aller-retour en France.
 
+- def_usa_06
+
+Maud et Alexandre viennent également me voir aux Etats-Unis durant l'été 2017.
+Je suis alors chez Deborah et sa famille, avec qui ils font connaissance.
+Je visite avec eux Boston et un peu Northampton.
+Ils visiteront New-York sans moi, je n'ai pas assez de jours de congés.
+
 - def_rencontre_chinoise_01
 
 A la fin de l'été 2017, une éclipse solaire est observable aux Etats-Unis.
