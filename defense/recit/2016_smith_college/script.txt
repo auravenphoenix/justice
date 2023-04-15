@@ -343,3 +343,29 @@ La vue d'une mouche se baladant sur l'une des pizzas me fait douter de mon choix
 Je valide quand même mon choix. L'après-midi, j'ai des douleurs aux intestins terribles.
 J'ai énormément de mal à digérer, au point que je n'arrive pas à me concentrer sur ce que m'explique Ileana.
 Heureusement, cette indigestion sera passagère, mais pas sans douleur.
+
+- def_nuit_glaciale_01
+
+Automne 2017, il fait très froid à l'extérieur.
+La neige recouvre Northampton d'une large épaisseure.
+
+Un problème au niveau de la chaufferie, nous prive de chauffage une nuit.
+Le problème sera réglé le lendemain, après que la personne nous louant l'appartement 
+soit avertie.
+
+Ce fut l'une des nuits les plus froides de ma vie.
+J'ai dû mettre plusieurs épaisseurs sur moi pour ne pas avoir trop froid.
+
+- def_rockfeller_01
+
+Durant ma première année aux Etats-Unis, 
+je tombe sur un article sur la nouvelle greffe de coeur de David Rockfeller, la septième à 101 ans.
+Je suis révolté par la nouvelle.
+Vu l'âge de l'homme, il ne doit pas être celui qui s'occupe des affaires professionnelles depuis un moment.
+
+Des familles se larmoient dans l'espoir d'obtenir un don d'organe pour leurs proches. 
+Ils sont mis sur des listes d'attente.
+La place sur cette liste est définie suivant différents critères de priorités.
+Par exemple, un âge avancé ne vous favorise pas pour être en haut de la liste des receveurs.
+
+Je ne pense pas que David Rockfeller était le plus prioritaire, et cela m'a agacé.
