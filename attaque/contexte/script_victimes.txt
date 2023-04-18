@@ -1,0 +1,22 @@
+
+- atk_victimes_01
+
+.*Anya Taylor-Joy
+.*Jennifer Lawrence
+.*Scarlett Johanson
+.*Destiny Cirus
+.*Cora
+.*Emilia Clarke
+.*Emma
+.*Vivian
+.*Rose
+.*Ambre
+.*Gabriel
+.*June
+.*Alexandra
+.*Megan
+.*Zoé
+.*Alonda
+.Camille Ryan
+.Romane Ryan
+.Lila Ryan
