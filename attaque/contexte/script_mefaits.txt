@@ -73,3 +73,7 @@ physique (temporaire ou encore présente):
   perforation interne
 
 Ces listes ne sont pas exhaustives.
+
+- atk_mefaits_politiques_01 
+
+Charles et son réseau avaient placé sur écoutes les lignes téléphoniques de députés de l'Assemblée Nationale française.
