@@ -31,7 +31,7 @@ L'absence de frontières facilite l'envie d'en vouloir plus.
 La famille, comme au dessus de la société, gagnant toujours plus de privilèges 
 et cherchant à vérouiller le plus possible ses acquis. 
 
-- atk_contexte_04
+- atk_contexte_04a
 
 En plus de la doctrine familiale, les méthodes sont enseignées aussi.
 Dans les grandes lignes : 
@@ -46,6 +46,15 @@ Méthodes subies d'une génération à l'autre.
 En effet, pour être sûr que les enfants ne dilapident pas l'argent de la famille, ou bien face leur vie avec une personne 
 en opposition avec l'idéologie familiale, chaque génération fait subir une pression, une maltraitance physique et morale 
 forçant l'obéissance aux parents. Le confort et les privilèges comme pommade, récompense.
+
+- atk_contexte_04b
+
+Les Lystat ont un rapport difficile avec l'amour, les liens sincères.
+Le mélange amour/violence (attraction/répulsion) de l'éducation 
++ idéologie les autres s'en prendront qu'à ton argent 
+sont à l'origine de cette angoisse de ne pas être aimé.
+En ajoutant, l'idéologie de la loi du plus fort + le goût pour la violence,
+cela les conduits à garder à tout prix la personne aimée, à être possessif, à commettre des crimes "passionnels" ou plutôt névrosés.
 
 - atk_contexte_05
 
