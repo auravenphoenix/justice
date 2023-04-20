@@ -48,3 +48,8 @@ en utilisant le framework VTK/ParaView.
 
 J'ai apprécié ce stage et mon travail y a été apprécié.
 Mon maître de stage m'a donné une lettre de recommandation pour m'aider dans ma recherche d'emploi par la suite.
+
+- def_utc_trahison_01
+
+A l'UTC, l'angoisse de ne pas réussir à aller au bout de mes études à cause de l'anglais comme principal obstacle, 
+me fait avoir des moments dépressifs avec des pensées suicidaires.
