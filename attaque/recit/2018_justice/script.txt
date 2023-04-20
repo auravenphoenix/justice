@@ -11,12 +11,13 @@ Avant de parler de valeurs familiales, commence par corriger tes vices, en l'occ
 
 - atk_empire_contre_attaque_01
 
-Emmanuel Macron, bien décidé à ce que cette affaire soit classée sans suite, 
-s'adonne de bien des manières à faire lâcher celles et ceux qui pourraient le faire tomber.
+Emmanuel Macron, les Lystat, Philippe et d'autres, sont bien décidés à ce que cette affaire 
+soit classée sans suite. 
+Ils s'adonnent de bien des manières à faire lâcher celles et ceux qui pourraient les faire tomber.
 
-Ainsi, il emploie son influence pour perturber mon quotidien subtilement, mettre à mal ma patience, 
+Ainsi, ils emploient leur influence pour perturber mon quotidien subtilement, mettre à mal ma patience, 
 ma stabilité émotionnelle et psychologique, me séduire avec telle ou telle inconnue.
-Il ne se prive pas carrément de tentatives d'assassinat.
+Ils ne se privent pas carrément de tentatives d'assassinat.
 
 - atk_empire_contre_attaque_02a
 
@@ -135,3 +136,9 @@ Ma bouche était pateuse au réveil le matin. J'ai toujours la gorge irritée au
 
 De son côté, Emma a été empoisonnée elle aussi.
 Elle est donc tombée malade également.
+
+- atk_tentative_assassinat_avion_01
+
+Emmanuel Macron, les Lystat et leur réseau ont cherché à me faire assassiner avec une bombe.
+Ainsi, ils ont plannifié en 2021 l'explosion de l'avion que j'étais sensé prendre pour un voyage aux îles saintes.
+Voyage dont j'ai annulé ma participation.
