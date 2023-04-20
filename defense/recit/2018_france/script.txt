@@ -39,3 +39,13 @@ J'en reviens toujours pas que papa souhaite cela. Bizarre, mais bon.
 A Toury, je me lève tôt le matin pour prendre le train pour aller au travail comme d'habitude.
 Durant la journée, je fais mon travail à la Société Générale comme d'habitude.
 Je rentre tard le soir à Toury par le train.
+
+- def_manifestations_des_GJ_01
+
+A l'automne 2018, l'exécutif provoque la crise des Gilets Jaunes avec leur idée de loi 
+consistant à faire payer davantage l'essence au peuple.
+Leur argumentation repose sur la lutte contre le réchauffement climatique.
+
+Triste de constater que seul le peuple doit payer les efforts dans cette lutte,
+et triste de constater qu'après des semaines et des semaines de crises, 
+ils soient incapables de dialoguer, négocier avec les GJ.
