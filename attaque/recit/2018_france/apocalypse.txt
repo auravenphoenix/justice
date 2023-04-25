@@ -59,12 +59,14 @@ Emmannuel Macron fait partie des invités.
 
 - atk_marriage_apocalyptique_02
 
-Un mirmim apparaît lors de la cérémonie et perturbe le marriage.
+Un mirmim apparaît alors que tout le monde est au restaurant pour le repas de marriage.
+Son arrivée perturbe fatalement le bon déroulé du festin.
 Il annonce haut et fort vouloir être avec Vivian.
-Il casse alors la mise en scène et le coup monté des Lystat.
+Il casse alors la mise en scène et le coup monté des Lystat, 
+qui avait encore fait croire que j'étais invité.
 
-Le marriage est annulé.
-Enervée d'avoir été encore manipulée, il est hors de question pour Vivian de se marier avec Benoît.
+Enervée d'avoir été encore manipulée,
+il est hors de question pour Vivian de rester mariée avec Benoît Lystat.
 
 - atk_marriage_apocalyptique_03
 
