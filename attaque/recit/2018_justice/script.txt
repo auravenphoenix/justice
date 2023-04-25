@@ -9,7 +9,7 @@ pour préférer les promesses d'argent de tel ou tel.
 
 Avant de parler de valeurs familiales, commence par corriger tes vices, en l'occurence ton avarice.
 
-- atk_empire_contre_attaque_01
+- atk_empire_contre_attaque_01a
 
 Emmanuel Macron, les Lystat, Philippe et d'autres, sont bien décidés à ce que cette affaire 
 soit classée sans suite. 
@@ -19,35 +19,51 @@ Ainsi, ils emploient leur influence pour perturber mon quotidien subtilement, me
 ma stabilité émotionnelle et psychologique, me séduire avec telle ou telle inconnue.
 Ils ne se privent pas carrément de tentatives d'assassinat.
 
-- atk_empire_contre_attaque_02a
+- atk_empire_contre_attaque_01b
 
-Les victimes féminines ne sont pas épargnées par ses manigances.
-Ainsi, il s'emploie à leur présenter un ou plusieurs hommes qui pourraient me remplacer et 
-leur faire oublier les tords qu'il leur a causé par le passé.
+Ils ont également essayé de me faire tomber dans leur vices, ou bien de me pousser à la faute.
+Pour cela, ils ont manipulé l'information que j'interprétais pour deviner les tenants et aboutissants de cette affaire.
+Ainsi, ils ont joué avec ma peur de perdre Vivian. Et ils m'ont poussé à l'idée de consensus qui les arrangeaient, 
+tout en me tenant le plus éloigné possible des délits et crimes qu'ils avaient commis, le plus important.
 
-Ces hommes sont des copieurs-profiteurs. Des hommes qui présentent des idées, des avis, des loisirs 
+- atk_empire_contre_attaque_01c
+
+Les victimes féminines ne sont pas épargnées par ces manigances.
+Ainsi, les malfaiteurs s'emploient à leur présenter un ou plusieurs hommes qui pourraient me remplacer et 
+leur faire oublier les tords qu'ils leur ont causées par le passé.
+
+Ces hommes sont très souvent des copieurs-profiteurs. Des hommes qui présentent des idées, des avis, des loisirs 
 et des activités similaires aux miennes. Cela dans le but de séduire plus facilement ces dames.
 Certaines sont de nouveaux trompées par la supercherie jusqu'à être abusée sexuellement avec ce procédé.
 
-- atk_empire_contre_attaque_02b
+- atk_empire_contre_attaque_02a
 
 Pour faciliter la séduction de ces dames, on a fait croire que j'étais mort en 2020.
 Pratique aussi pour obtenir un abandon des poursuites.
 Des personnes ont participé à ce mensonge comme témoin. C'est le cas de Rose à qui on 
 a fait croire qu'elle pourrait sortir avec moi grâce à ce stratagème.
 
+Les Lystat & co ont attendu que les victimes soient suffisamment distraites des évènements de 2018.
+De plus, ils avaient réussi à garder contact avec elles et à les habituer à échanger avec elle.
+Cela a été facilité quand ils ont réussi à m'approcher de leurs idées, leurs vices comme décrit précédemment.
+
+- atk_empire_contre_attaque_02b
+
+Faire croire à ma mort avait un avantage pour les Lystat et leurs complices.
+En effets, ces vautours se sont empressés de vouloir mettre la main sur mes biens indirects.
+
 - atk_empire_contre_attaque_02c  #legende
 
 Les victimes à qui l'on ment croiront malheureusement un peu trop vite à ce mensonge.
 Elles n'essayent pas de vérifier les dires avec un mirmim qui les côtoient régulièrement.
 
-Leur choix de croire trop vite et sans vérifier cette annonce pour se jeter dans les bras des Lystat qui plus est, 
+Leur choix de croire trop vite et sans vérifier cette annonce, 
 conduit à la fin de la télépathie et des apparitions des mirmims près de ces dames.
 
-- atk_empire_contre_attaque_03a
+- atk_empire_contre_attaque_02d
 
 Parmi les séducteurs : 2 enfants adoptés des Lystat.
-A croire qu'ils sont incapables de retenir la leçon.
+A croire qu'ils sont incapables de retenir la leçon de 2018.
 
 Romain Lystat est un homme noir ayant déjà une copine. 
 Il se fiche du double-jeu et du tord qu'il pourrait causer à cette dernière 
@@ -55,33 +71,72 @@ et accepte de séduire Vivian en jouant les copieurs-profiteurs.
 
 Le second, Nicolas, jouera les copieurs-profiteurs avec Emma.
 
-- atk_empire_contre_attaque_03b  #legende
+- atk_empire_contre_attaque_02e  #legende
 
-Evidemment, les Lystat avait dans la tête de les marier ENCORE une fois.
+Vivian et Emma ont chacune été la cible d'un viol de la part des enfants Lystat qui les traquaient.
+C'était le plan de Charles de mettre à nouveau la main sur ces femmes à tout prix.
+Elles auraient été utiles pour ses objectifs mégalomaniaques et de conquête.
+Ils voulaient à nouveau les dominer, les soumettre, pour les conduire sous emprise.
+Ses enfants ont accepté de jouer les copieurs-profiteurs pour cela. 
+Puis, au moment venu, d'essayer de coucher avec elle de force.
+
+Heureusement, elles avaient toujours leurs pouvoirs.
+Elles ont pu s'en servir pour repousser, arrêter et immobiliser leurs agresseurs.
+
+Charles pensaient que le viol était une bonne idée pour obtenir le contrôle le plus rapidement possible :
+un chemin efficace vers l'emprise.
+
+- atk_empire_contre_attaque_02f
+
+Charles&co ne se sont pas arrêtés là pour autant.
+Ils ont persévérés en proposant des partenaires plus subtiles.
+Partenaires qu'ils contrôlaient en sous-marin dans tous les cas.
+
+Maël Rouxel-Labbé a été chargé de séduire Vivian.
+Benoît Lasne a été chargé de séduire Emma.
+
+Maël a joué les copieurs-profiteurs pour mieux parvenir à ses fins.
+Tous les deux ont appliqué la stratégie subtile de Charles pour obtenir l'emprise petit à petit sur les victimes.
+Maël a fini par être violent et violent sexuellement avec Vivian comme il l'avait été avec Claire avant, 
+et comme il l'avait été avec sa copine russe.
+
+- atk_empire_contre_attaque_02g  #legende
+
+Hélas, le plan fonctionne.
+Pour asseoir son avantage, Charles reprend l'idée de 2018 de marier ces dames.
+Ainsi, le marriage de Vivian avec un nouvel empaffé, marionnette des Lystat&co, est prévu pour fin Juin 2021.
 
 Des mirmims finiront par ressurgir en juin 2021, coïncidant avec le moment 
 où je commence à deviner que Philippe est un criminel.
 Les mirmims feront éclater la vérité et remettront à leur place plus d'une personne dans cette histoire.
 
-Si elles me croyaient vraiment mort, elles auraient dû aller jusqu'au bout et porter plainte contre 
+- atk_empire_contre_attaque_02h
+
+Si elles me croyaient vraiment mort, les victimes auraient dû aller jusqu'au bout et porter plainte contre 
 les manipulateurs, dont les Lystat et leurs séducteurs, et ceux ayant essayé de les tuer, dont Emmanuel Macron.
 Choisir des manipulateurs comme copain et mari n'était pas du meilleur choix comme figure de père pour les enfants.
 
-- atk_empire_contre_attaque_03c
+Cela illustre bien les méthodes et plans machiavéliques dont le réseau des Lystat est capable, 
+et la capacité dramatique et cruelle de l'emprise.
+
+- atk_empire_contre_attaque_03
 
 Philippe était chargé de me tuer après la fin de la surveillance programmée fin juin 2021.
-Il était complice du mensonge de ma mort : ses intérêts ayant différés de ceux de Charles.
+Il était complice du mensonge de ma mort bien sûr.
 Emmanuel Macron était évidemment complice dans ce projet d'assassinat.
 
-- atk_empire_contre_attaque_04
+- atk_empire_contre_attaque_04a
 
 Depuis décembre 2018, Emmanuel Macron s'est employé au moins une fois à me manipuler 
 pour que je démissionne de mon emploi.
 Ce fut le cas avec la Société Générale en 2019.
-
 Les Lystat et certains de leurs complices étaient également dans ce but là.
-
 L'objectif étant de me faire craquer financièrement pour que l'enquête cesse.
+
+- atk_empire_contre_attaque_04b
+
+Me pousser à la démission est arrivé aussi chez PROTECTIC en 2022, 
+avec Emmanuel Macron à nouveau comme dictateur de cet objectif.
 
 - atk_tentative_assassinat_01
 
