@@ -164,6 +164,20 @@ Ils choisissent de faire ce qu'il faut pour nous empêcher d'être ensemble.
 Benoît, prenant un malin plaisir à me piquer mes idées, aura comme objectif de séduire Vivian 
 et de la faire sienne.
 
+- atk_spring_break_vivian_01
+
+Vivian espérait partager un moment avec moi durant le Spring Break de 2018.
+Il n'en fut rien, vu que je n'ai jamais reçu aucune invitation à ce sujet.
+Les Lystat & co ont sciemment fait en sorte que j'en sois privé.
+Au moins l'un des Lystat, et peut-être d'autres complices, ont osé profité à ma place de ce Spring Break en compagnie de Vivian.
+
+- atk_remise_diplome_vivian_01
+
+Vivian espérait partager le moment de sa remise de diplome avec moi en 2018.
+Il n'en fut rien, vu que je n'ai jamais reçu aucune invitation à ce sujet.
+Les Lystat & co ont sciemment fait en sorte que j'en sois privé.
+Au moins l'un des Lystat, et peut-être d'autres complices, ont osé profité à ma place de cet évènement en compagnie de Vivian.
+
 - atk_usa_04
 
 L'une des patisseries offertes par Emilie était en faite empoisonnée.
