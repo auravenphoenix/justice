@@ -145,6 +145,16 @@ Juillet 2022
 Un sniper essaye de m'abattre.
 Cet assassin a été engagé par des personnes qui sont pointées du doigt dans cette affaire.
 
+- atk_tentative_assassinat_02
+
+En 2022, on a essayé de m'écraser en voiture un jour où je n'avais pas mon casque de vélo.
+Cette tentative d'assassinat était le voeu de personnes qui sont pointées du doigt dans cette affaire.
+
+- atk_tentative_assassinat_03
+
+On a essayé de m'écraser en voiture le 31 décembre 2022.
+Cette tentative d'assassinat était le voeu de personnes qui sont pointées du doigt dans cette affaire.
+
 - atk_2023_mars_18_01
 
 Je suis chez mes parents à Toury pour le WE.
