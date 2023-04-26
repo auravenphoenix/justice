@@ -362,10 +362,15 @@ pacman_codingame.
 Le code et les idées de l'un de mes projets de jeu d'IA appelé 'jeydia' sur Github
 fait partie des projets avec lesquels les accusés ont fait du profit ou compte exploiter.
 
-- vol_one_piece_01
+- vol_manga_01
 
-J'ai réfléchi à des idées sur le manga et l'animé One Piece.
-Yves Lysistrate les a utilisées pour réaliser des profits.
+Les accusés ont fait du profit et compte exploiter encore mes idées pour des mangas (chapitre, série animée, films).
+Ces idées ont été vendues ou exploitées pour être utiliser dans la liste de mangas suivante:
+
+.One Piece
+.Sakura Cardcaptor - Clear Cards
+.Jujutsu Kaisen
+.Valkyrie Apocalypse - Record of Ragnarok
 
 - vol_HF_phoenix_dragon_01
 
@@ -608,6 +613,25 @@ Anime Bleach
 Voici une autre liste de films et séries concernés:
 .Icare (2022)
 .Le pharaon, le sauvage et la princesse (2022)
+
+- vol_cinema_14
+
+Voici une autre liste de films et séries concernés:
+.Les III mousquetaires (2023)
+.Donjons & Dragons (2023)
+.Suzume
+.Shazam - La rage des dieux
+.Série HP
+.HP Animaux Fantastiques
+.Star Wars VII, VIII, IX
+.Star Wars The Mandalorian
+.Game of Thrones : House of Dragons
+.Seigneur des Anneaux : les anneaux de pouvoir
+.The Sandman
+.Astérix et le secret de la potion magique
+.The Circle
+.Knock at the Cabin
+.A la belle étoile
 
 - vol_aspirateur_auto_01
 
@@ -909,6 +933,13 @@ Les accusés ont fait du profit et compte exploiter Elden Ring et mes idées qui
 Les jeux videos suivant font aussi partie de la liste:
 .La saga de jeux video Horizon.
 .La saga Golden Sun.
+
+- vol_video_games_08
+
+Les jeux videos suivant font aussi partie de la liste:
+.Skyrim
+.Octopath Traveler 2
+.Saga des Bravely en général
 
 - vol_yugioh_01
 
