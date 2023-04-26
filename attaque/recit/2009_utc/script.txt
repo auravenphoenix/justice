@@ -21,6 +21,13 @@ Les Lystats & co sont encore à l'oeuvre.
 Maud me met un rateau notamment car les Lystat le lui demande.
 Cependant, ils en profitent pour faire croire à Emma que je sors avec Maud bien sûr.
 
+- atk_utc_la13_deux_fois_01
+
+Les Lystat et leur réseau ont influencé l'UTC pour que j'échoue à valider LA13.
+Sans leur intervention, LA13 aurait été validée dès la première fois.
+Peut-être aurais-je alors évité la convocation du conseil et le sentiment gênant qui l'accompagne, 
+la pression, les reproches en colère de mes parents, certaines pensées sombres, voire suicicidaires, etc.
+
 - atk_utc_trahison_01
 
 Avoir une copine ne résout pas tout, mais les choses aurait pu être plus facile à supporter, peut-être.
