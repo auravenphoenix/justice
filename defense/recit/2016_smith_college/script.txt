@@ -377,3 +377,11 @@ qui a fini ses études d'infirmière.
 Au cours de notre discussion, nous partageons nos projets pour l'avenir.
 Pour ma part, je partage le fait que je caresse l'espoir de trouver une copine 
 et que je souhaiterais à un moment avoir un enfant.
+
+- def_usa_harvard_01
+
+En 2018, Ileana m'annonce qu'elle a la possibilité de travailler à partir de Septembre prochain à Harvard pour l'année scolaire.
+Elle me dit qu'elle envisage la possibilité pour moi de venir lui rendre visite régulièrement, pour travailler sur Kinari.
+Cela me permettrait de profiter un peu aussi d'Harvard. Une occasion en or.
+
+Occasion qui ne se concrétisera pas vu que le Smith College me remercie en Juin 2018.
