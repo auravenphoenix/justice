@@ -1,5 +1,5 @@
 
-- atk_mefaits_01
+- atk_mefaits_01a
 
 méfaits:
   association en bande organisée
@@ -17,6 +17,15 @@ méfaits:
   plannification d'assassinat
   tentative d'assassinat
   assassinat/meurtre
+
+- atk_mefaits_01b
+
+L'abus de confiance des malfaiteurs sur les victimes et l'emprise sur elles 
+ont permis aux Lystat et leur réseau d'obtenir des victimes 
+des photos de nues, voire à caractère pornographique.
+
+Des photos dont ils ont profité pour leur plaisir, pour faire du profit, 
+et enfin pour faire du chantage sur les victimes.
 
 - atk_mefaits_02
 
