@@ -218,8 +218,6 @@ Je suis allé à des match de hokey sur glace. Je serais heureux d'assister à t
 de mes enfants.
 J'ai réalisé un jeu de société. Un jeu auquel un jour j'aimerais jouer avec mes enfants, et co-réaliser avec mes enfants.
 
-<<!
-
 - je_suis_23
 
 N'en déplaise à tout diffamateur, 
@@ -227,23 +225,20 @@ je sais m'occuper de mon appartement tout seul.
 Je vide mes poubelles.
 Je lave ma salle de bain.
 Je change les draps de mon lit, etc.
-Je les ai lavés et les ai changé tout seul comme un grand il n'y a pas si longtemps.
-Je n'ai pas besoin qu'on le fasse pour moi.
 etc.
 
 Je sais m'occuper de l'entretien de ma voiture.
-Quand j'étais dans le sud de la France, j'allais dans un garage pour faire l'ajustement de la pression de mes pneus.
-Cela s'est fait avec les Pellé, service rendu pratique.
-Je me suis occupé de leur ordi une ou deux fois pour les mêmes raisons, service rendu pratique.
+Par exemple, j'ai corrigé la pression de mes pneus il y a quelques semaines dans un garage à Vélizy.
 
 - je_suis_24
 
 Je fais de la récupération, et je l'encourage. 
-Par exemple, mon entreprise a laissé à disposition des objets aujourd'hui à récupérer en mode "brocante".
+Par exemple, mon entreprise a laissé à disposition des objets une fois à récupérer en mode "brocante".
 J'ai récupérer une ampoule en l'occurence.
 Sinon, j'utilise les boites à oeufs comme pion pour mes jeux de société.
 Il m'ai déjà arrivé de récupérer des planches de bois mis avec les encombrants. Planches fournies aux Pellé ensuite.
 
+<<!
 - je_suis_25
 
 Je vais chez le coiffeur régulièrement.
@@ -330,36 +325,6 @@ Oui, je sais défendre mes intérêts, argumenter pour tirer un bénéfice.
 Par exemple, j'ai su argumenté auprès de Elitys qui me proposait 47K€ à la base, j'ai réussi à obtenir 49,5K€.
 Je ne me suis pas écrasé, je n'ai pas pris la première proposition venue.
 J'ai fait valloir mes capacités, mon parcours.
-
-- je_suis_36
-
-Je n'ai pas faite de nuit blanche. Je n'ai pas consommé de boissons énergisantes.
-Je ne suis pas les yeux rivés sur mon ordinateur, drogué aux écrans, aux jeux vidéo, etc.
-
-Je n'ai pas fait d'orgie. Je n'ai couché avec personne.
-Je n'ai pas fait trop de bruits qui gênerait le voisinnage.
-
-- je_suis_37
-
-En ce qui concerne certains malfaiteurs que je continue malheureusement de cotoyer, 
-je suis cordial lorsque je parle ou que je fais des activités avec eux, en présentiel ou via le numérique.
-Je ne les insulte pas, je ne fais pas de débordements.
-Cela concerne les Pellé, les Lavarenne, Sylvestre, Agathe, Romain, Maud
-Toute déclaration prétendant le contraire est un mensonge, une diffamation.
-
-- je_suis_38
-
-Pour tous les autres, membres de ma famille ou non, 
-dans le sud de la France ou non, etc, qui donc ne sont pas membres/complices du réseau du Chaos.
-je n'ai jamais exprimé le souhait de prendre de la distance avec eux, de couper les ponts avec eux.
-Je les respecte et souhaite être en contact régulier avec eux.
-Je leur parle avec respect, pas d'insultes, pas de débordements, etc.
-Toute déclaration prétendant le contraire est un mensonge, une diffamation.
-
-- je_suis_39
-
-Non, je ne suis toujours pas raciste.
-Je n'ai aucun problème pour échanger avec les personnes qui ne sont pas blanc de peau. 
 
 - je_suis_43
 
