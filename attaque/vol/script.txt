@@ -633,6 +633,18 @@ Voici une autre liste de films et séries concernés:
 .Knock at the Cabin
 .A la belle étoile
 
+- vol_cinema_15
+
+Voici une autre liste de films et séries concernés:
+.Super Mario Bros
+.Le Royaume de Naya
+.Encanto
+.Elementaire (2023)
+.Soul 
+.Raya et le dernier dragon
+.Avalonia, l'étrange voyage
+.Hopper et le Hamster des ténèbres
+
 - vol_aspirateur_auto_01
 
 L'idée de robot aspirateur vient de l'une de mes réflexions.
