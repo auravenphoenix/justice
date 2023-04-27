@@ -644,6 +644,8 @@ Voici une autre liste de films et séries concernés:
 .Raya et le dernier dragon
 .Avalonia, l'étrange voyage
 .Hopper et le Hamster des ténèbres
+.Qu'est-ce qu'on a encore fait au Bon Dieu ?
+.Qu'est-ce qu'on a tous fait au Bon Dieu ?
 
 - vol_aspirateur_auto_01
 
