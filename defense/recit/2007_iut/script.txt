@@ -52,3 +52,15 @@ Mon travail a consisté à fournir des outils Bash (et légèrement C++) pour
 les travaux de recherche exploitant la puissance d'un cluster informatique.
 
 J'ai apprécié ce stage et mon travail y a été apprécié.
+
+- def_email_et_mdp_01
+
+Un jour, Lionel de Sequeira a insisté pour obtenir mon adresse hotmail, que j'utilisais uniquement pour chatter 
+de temps en temps sur MSN et très peu comme email. Bref c'était secondaire. 
+J'avais trouvé son insistance curieuse. Je croyais que c'était un peu de jalousie, 
+pour voir si je ne chercherais pas un moyen de communiquer autrement que par gtalk sans qu'il ne le sache.
+
+Ayant gagné ma confiance, il m'a demandé plus ou moins naïvement quel était mon de passe de cette adresse hotmail.
+Ayant été assez sot à l'époque, je lui ai donné, en me disant qu'il ne pourrait rien en faire d'intéressant 
+et que j'aurais toujours moyen de surveiller l'activité de cette email s'il décidait d'aller jusqu'à faire des conneries avec.
+Au passage, j'ai demandé les mêmes informations qu'il m'a fournies, et dont je n'ai jamais rien fait.
