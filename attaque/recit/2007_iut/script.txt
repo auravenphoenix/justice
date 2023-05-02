@@ -43,3 +43,16 @@ Certains de ces abus ne se font pas sans violence.
 
 Mon entourage et surtout mes "amis" de l'IUT ont fait croire que je sortais avec Agathe Begault.
 Le but étant toujours d'attrister, décourager les jeunes femmes concernées de chercher à me revoir.
+
+- atk_email_et_mdp_01
+
+En fait, Lionel a été complice des Lystat et leur réseau pour pirater mes adresses email.
+Utiliser sournoisement l'adresse hotmail était facile étant donné que je n'ai pas changé le mot de passe de celle-ci avant longtemps.
+
+De plus, cette adresse était l'adresse de récupération/backup de l'adresse gmail, beaucoup plus importante.
+Ainsi, il était possible avec cette adresse hotmail de profiter de l'adresse gmail.
+
+- atk_email_et_mdp_02
+
+Les Lystat ont profité du contrôle discret de ces deux adresses emails pour faire 
+de l'usurpation d'identité, entre autres choses.
