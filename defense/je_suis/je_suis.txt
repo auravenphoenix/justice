@@ -145,7 +145,7 @@ J'ai fait plusieurs escape games plutôt non horrifique depuis 2019 avec Alexand
 
 Toutes ces activités sans accrocs, avec respect et dans la bonne humeur.
 
-- je_suis_12
+- je_suis_12a
 
 Je n'apprécie pas les voyages ? 
 J'ai vécu deux ans aux Etats-Unis, j'ai visité N-Y et Boston que j'apprécie particulièrement.
@@ -157,6 +157,11 @@ J'aimerais visiter le Japon, la Grèce et l'Egypte un jour.
 Mon voyage en Ecosse avec Alexandre et Maud était une belle découverte aussi.
 Que l'on ne me dise pas que je n'aime pas le voyage, l'international.
 Le soleil ou le froid ne me font pas peur pour partir en voyage.
+
+- je_suis_12b
+
+Je serais tout à fait intéressé pour faire un voyage 
+au Portugal, à l'île Maurice, en Floride, ou où sais-je.
 
 - je_suis_13
 
