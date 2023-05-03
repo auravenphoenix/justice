@@ -329,3 +329,9 @@ C'est via lui que Charles espérait obtenir le contrôle de Vivian (même si EWB
   Il savait que je voulais toujours être avec Vivian.
   Il accepté de jouer les copieur-profiteur auprès de Vivian.
   Il l'a fait principalement pour l'argent.
+
+- atk_j_accuse_04
+
+Depuis des années, les Lystat et leur réseau ont fait croire qu'on me protégeait, 
+alors que c'était pour me contrôler, continuer de m'isoler des personnes qu'ils souhaitaient, 
+jusqu'à essayer de me mettre en danger.
