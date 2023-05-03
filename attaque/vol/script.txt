@@ -25,6 +25,15 @@ Emmanuel Macron fait partie des personnes tirant profit de mes idées, notamment
 Les accusés ont fait du profit avec du code open source que j'ai créé et publié sur Github.
 Il s'agit des projets cmtk, cmtkgen, arba et ses sous-projets.
 
+- vol_projets_informatique_01
+
+Les accusés se sont permis d'exploiter mes projets informatiques sous license commerciale.
+Ils ont osé faire croire que c'était pour me faire une agréable surprise lors des retrouvailles avec moi.
+Et donc duper certaines victimes.
+Alors qu'en fait, le but était de faire de l'argent sur mon dos avec mes idées, sans que j'en profite, 
+comme ils en ont l'habitude depuis des années.
+Il y a notamment les projets cmtk, cmtkgen, arba et ses sous-projets.
+
 - vol_grande_histoire_01
 
 J'ai fait le récit d'une histoire que j'ai nommé 'la Grande Histoire', que je compte écrire.
