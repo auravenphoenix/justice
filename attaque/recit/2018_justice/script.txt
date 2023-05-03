@@ -301,7 +301,7 @@ Par conséquent, je me joins à la plainte des femmes ciblées par ce coup mont�
 y compris donc les mères de mes enfants impliquées.
 Je demande par ailleurs la garde exclusive des enfants de ces mères.
 
-- atk_j_accuse_03  #legende
+- atk_j_accuse_03a  #legende
 
 Des mères de mes enfants ont été complices des Lystat & co dans un de leurs plans fin 2019, début 2020.
 Elles ont fait croire à Emma, et Vivian ensuite du coup, que je ne voulais plus de Vivian, pour être avec Emma.
@@ -319,3 +319,13 @@ Heureusement, un mirmim est apparu et a fini par démentir les propos.
 Je condamne cette manipulation, odieuse. 
 Cela renforce mon choix de demander la garde exclusive des enfants des mères concernées, 
 qui par empathie pour les victimes manipulées, n'auraient pas dû accepter de participer à ce plan.
+
+- atk_j_accuse_03b
+
+Evidemment que la séduction a fonctionné, vu que le frère d'Emma en question a été un copieur-profiteur.
+En effet, ce frère a fait le jeu de Charles&co. 
+C'est via lui que Charles espérait obtenir le contrôle de Vivian (même si EWB ne le savait pas).
+  Par conséquent, ce frère d'Emma était complice de Charles&co.
+  Il savait que je voulais toujours être avec Vivian.
+  Il accepté de jouer les copieur-profiteur auprès de Vivian.
+  Il l'a fait principalement pour l'argent.
