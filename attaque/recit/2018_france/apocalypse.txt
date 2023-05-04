@@ -55,7 +55,7 @@ Elle pourra me revoir facilement si elle se marrie avec Benoît.
 
 - atk_marriage_apocalyptique_01b
 
-Emmannuel Macron fait partie des invités.
+Emmannuel Macron fait partie des invités, ainsi que d'autres complices.
 
 - atk_marriage_apocalyptique_02
 
@@ -231,9 +231,13 @@ C'est la conséquence matérielle de la volonté d'Emmanuel Macron, destructrice
 - atk_lune_de_miel_apocalyptique_09
 
 Malgré les soins du mirmim, des personnes ont besoin de soins médicaux, notamment de transfusions sanguines.
+Un mirmim accompagnera les victimes dans les ambulances.
+
+- atk_lune_de_miel_apocalyptique_10
 
 Un mirmim finira par téléporter Vivian et Molly en Chine pour leur sécurité.
-Elles trouveront de l'aide auprès de l'étudiante chinoise, kidnappée il y a plusieurs mois par les Lystat, et sa famille.
+Elles trouveront de l'aide auprès de l'étudiante chinoise, kidnappée il y a plusieurs mois par les Lystat.
+La famille de l'étudiante chinoise apportera aussi son aide à Vivian et Molly.
 Un mirmim finit par téléporter les ressortissantes étrangères en dehors de la France.
 
 Cela empêche toute action des corrompus de mener une task force visant à nouveau 
