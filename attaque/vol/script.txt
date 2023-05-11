@@ -964,6 +964,7 @@ Les jeux videos suivant font aussi partie de la liste:
 .Skyrim
 .Octopath Traveler 2
 .Saga des Bravely en général
+.Super Dungeon Maker - Nintendo Switch
 
 - vol_yugioh_01
 
