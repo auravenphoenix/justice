@@ -190,7 +190,7 @@ Le bombardement ne cesse.
 Alors les 72 s'abattent à nouveau réduisant à son tour Emmanuel Macron en lambeaux.
 
 Sur le champs de bataille, le phénix ressurgit et libère une colossale boule de feu dont il est l'épicentre.
-Les militaires, sans chef, et face à cette puissance intacte et imposante s'arrêtent net.
+Les militaires, sans chef, et face à cette puissance intacte et imposante, s'arrêtent net.
 
 - atk_lune_de_miel_apocalyptique_06
 
@@ -209,7 +209,7 @@ Une enquête s'impose.
 - atk_lune_de_miel_apocalyptique_07
 
 Le mirmim révèle n'être qu'une marionnette mise en scène par le destin.
-Il explique qu'Aymeric n'a jamais eu de TDI.
+Il explique qu'"Aymeric n'a jamais eu de TDI".
 Par conséquent, il fait comprendre aux victimes que je n'ai jamais été au courant de la relation qu'ils 
 ont avec cette entité depuis des mois, des années pour Emma.
 Il rassure Vivian en lui expliquant que je suis amoureux d'elle et que je désespère de la revoir.
