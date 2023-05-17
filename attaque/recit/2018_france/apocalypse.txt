@@ -123,36 +123,54 @@ Vivian et les autres aimeraient me retrouver et échapper aux abus sexuels des h
 
 Les hommes sont sur le qui vive. Après le fiasco du marriage et l'échec cuisant de la confrontation avec le mirmim, 
 ils se sont préparés pour une intervention de sa part.
-Ainsi, les Lystat sont armés pour lui faire face et Emmannuel Macron a ses préparatifs si besoin.
+Ainsi, les Lystat et Emmannuel Macron ont différents plans pour lui faire face.
+En particulier, les Lystat sont armés pour l'occasion.
 
 - atk_lune_de_miel_apocalyptique_01c
 
 L'évènement est choisi par les Lystat pour procédé à la "transaction" des victimes.
-Ainsi, les acheteurs étrangers sont présents, et compte participer à l'orgie en question.
+Ainsi, les acheteurs étrangers sont présents, et comptent participer à l'orgie en question.
 
-- atk_lune_de_miel_apocalyptique_02
+- atk_lune_de_miel_apocalyptique_02a
 
-Sans surprise, un mirmim apparaît en plein milieu de l'orgie.
-Il libère ces dames et promet la prison aux malfaiteurs.
+Sans surprise, un mirmim apparaît en plein milieu de l'orgie, pour la condamner et y mettre un terme.
+L'affrontement commence entre les malfaiteurs et le mirmim.
+Ce dernier parviendra à libérer ces dames et promettra la prison aux malfaiteurs.
 
-Le mirmim fait une extraordinaire annonce.
+Le mirmim fait une extraordinaire révélation, dans un moment où le temps semble suspendu.
 Premièrement, il se présente comme l'Esprit de la Vie et de la Mort.
-Il annonce ensuite que Vivian est l'Esprit des Liens et qu'Emma est l'Esprit des Végétaux.
+Il révèle ensuite que Vivian est l'Esprit des Liens et qu'Emma est l'Esprit des Végétaux.
 (Le terme d'Esprit possède le même sens que celui d'une des fictions que j'ai imaginée.)
 Vivian et Emma se voient alors dotées de pouvoirs surnaturels.
 Vivian peut faire apparaître des fils, des rubans et adopter une forme d'arraignée géante.
 Emma peut faire apparaître des fleurs, du lierre et adopter une forme de chat géant.
+Zoé est révélée comme l'Esprit des rêves.
+Charles est révélé comme l'Esprit du tonnerre, mais il est aussi déclaré non méritant à cause 
+  de ses vices et ses nombreux méfaits.
 
-Emmanuel Macron a pris la fuite, avec son plan B en tête.
-Un hélicoptère le conduit en lieu sûr pour guider les opérations qu'ils comptent ordonner.
+Emmanuel Macron a pris la fuite, avec la préparation du plan D en tête si nécessaire.
+Un hélicoptère le conduit en lieu sûr pour guider les opérations qu'il compte ordonner.
+
+- atk_lune_de_miel_apocalyptique_02b
+
+Les évènements ne tournent pas en la faveur des Lystat et ses complices.
+Le plan B est alors déclenché. Un incendie se propage très rapidement dans le batiment où se trouvent les victimes.
+Le départ de feu a été causé avec un micro-onde.
+Le mirmim aide les victimes pour fuir à l'extérieur.
+
+- atk_lune_de_miel_apocalyptique_02c
+
+En parallèle de l'incendie, des complices s'occupent de commettre un vol en profitant du chaos généré.
 
 - atk_lune_de_miel_apocalyptique_03
 
-Les Lystat armés font feu à volonté. Toute victime est visée aucune ne doit réchapper de ce lieu pour témoigner.
+Le plan C rentre en action à l'extérieur du batiment.
+
+Les Lystat, armés, font feu à volonté. Toute victime est visée. Aucune ne doit réchapper de ce lieu pour témoigner.
 Arachnophobe depuis son enfance, Benoît est effrayé par Vivian. Benoît la vise et lui tire dessus sans hésitation.
 Vivian se défend et use de ses fils pour lui crever les yeux. Benoît ressortira traumatisé de cette expérience.
 
-Le mirmim en a assez et compte bien faire payer les malfaiteurs.
+Le mirmim en a assez et compte bien faire cesser les malfaiteurs urgemment.
 Des croissants de lune en ambre virevoltent autour de lui, tranchants comme des rasoirs, ardents comme la braise.
 Au nombre de 72, ils s'abattent sur Charles, Philippe et Marie qui sont alors réduits en charpie.
 Les acheteurs des victimes ayant osé profiter des victimes, qui les ont abusées, sexuellement, et achetées comme du bétail 
@@ -162,17 +180,20 @@ Les autres malfaiteurs sont neutralisés mais en vie.
 
 - atk_lune_de_miel_apocalyptique_04
 
-Macron lance ses opérations. Il s'agit ni plus ni moins de troupes françaises chargées de faire la guerre à toute 
-personne se trouvant dans le village.
+Macron lance la mise en application du plan D. Ces opérations sont faites avec 
+la complicité de militaires sachant très bien la vérité sur ce qui se passe dans le village 
+et que le contexte donné aux soldats est erroné.
+
+Ce plan, il s'agit ni plus ni moins de troupes françaises chargées de faire la guerre à toute personne se trouvant dans le village.
 Il s'agit tout simplement d'une stratégie de terre brûlée. Macron a décidé de tout raser, tout brûler pour couvrir 
 ses problèmes personnels, ses méfaits, en utilisant l'armée française qui est censée servir la cause publique.
-Les militaires sont manipulés. On leur fait croire qu'il s'agit d'un regroupement de terroristes fanatiques prêt
+Des militaires sont manipulés. On leur fait croire qu'il s'agit d'un regroupement de terroristes fanatiques prêt
 à faire la guerre.
 
 Les engins de guerre visent les bâtiments. Des incendies sont démarrés pour tout réduire en cendres.
 Molly était en fuite à bord d'un véhicule. Elle y finit brûlée vive. 
 
-Emmannuel Macron se contre fiche de ses alliés Lystat ou autre. Il est prêt à tout pour que rien ne fuite et en finir.
+Emmannuel Macron se contre-fiche de ses alliés Lystat ou autre. Il est prêt à tout pour que rien ne fuite et en finir.
 
 - atk_lune_de_miel_apocalyptique_05
 
