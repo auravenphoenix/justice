@@ -666,6 +666,18 @@ Voici une autre liste de films et séries concernés:
 .Jeanne du Barry
 .Umami
 
+- vol_cinema_18
+
+Voici une autre liste de films et séries concernés:
+.The Nevers
+.Sans Filtre
+.Ticket to paradise
+.Le Visiteur du futur
+.Jumeaux mais pas trop
+.Buzz l'éclair
+.Les Chevaliers du Zodiaque (2023)
+.Ruby, l'ado kraken
+
 - vol_aspirateur_auto_01
 
 L'idée de robot aspirateur vient de l'une de mes réflexions.
