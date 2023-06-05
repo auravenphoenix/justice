@@ -148,7 +148,7 @@ J'ai porté l'idée d'une consultation de la population, organisée de manière 
 J'appellais à "ressortir les cahiers de doléances", "demandez ce que le peuple veut". Ceci a donné l'organisation d'une consultation citoyenne 
 avec comme conclusion le "grand débat" d'EM en guise de réponse aux doléances.
 
-- vol_conseils_politiques_geopolitiques_03
+- vol_conseils_politiques_geopolitiques_03a
 
 Désirant creusé la question de l'organisation démocratique, j'ai réfléchi à une solution technique permettant 
 d'améliorer la participation démocratique des citoyens.
@@ -157,6 +157,12 @@ aux différents échelons de la nation (cité, département, région, nation). C
 la soutenir ou non (+1/-1), l'enrichir avec des réponses, etc. Un forum citoyen et républicain mit à disposition par la puissance publique.
 Chaque citoyen et citoyenne aurait la possibilité de se connecter avec un système d'authentification du style FranceConnect.
 Sur le site de Front Populaire, la page 'cahier de doléances' est un bon exemple et une preuve de concept de ce que cela pourrait donner.
+
+- vol_conseils_politiques_geopolitiques_03b
+
+Dans la continuité de la construction d'une vraie organisation démocratique, 
+le service publique Identité Numérique (la Poste) répond à l'étape technique de l'authentification dont je parlais avec France Connect.
+L'idée de ce service publique d'authentification fait partie de mes idées.
 
 - vol_conseils_politiques_geopolitiques_04
 
