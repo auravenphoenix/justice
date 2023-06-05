@@ -254,7 +254,7 @@ C'est la conséquence matérielle de la volonté d'Emmanuel Macron, destructrice
 Malgré les soins du mirmim, des personnes ont besoin de soins médicaux, notamment de transfusions sanguines.
 Un mirmim accompagnera les victimes dans les ambulances.
 
-- atk_lune_de_miel_apocalyptique_10
+- atk_lune_de_miel_apocalyptique_10a
 
 Un mirmim finira par téléporter Vivian et Molly en Chine pour leur sécurité.
 Elles trouveront de l'aide auprès de l'étudiante chinoise, kidnappée il y a plusieurs mois par les Lystat.
@@ -265,6 +265,11 @@ Cela empêche toute action des corrompus de mener une task force visant à nouve
 à tuer tout le monde pour garantir le silence de l'affaire.
 
 Les enquêteurs garderont un contact avec chacune, notamment Vivian et Molly, pour recueillir leur version des faits.
+
+- atk_lune_de_miel_apocalyptique_10b
+
+Un mirmim a téléporté des Lystat dans une de leur demeure.
+Ainsi, ils sont à l'abri des bombardements ou autre menaces physiques sur le moment.
 
 - atk_lune_de_miel_apocalyptique_11
 
