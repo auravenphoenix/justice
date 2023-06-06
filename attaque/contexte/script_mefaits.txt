@@ -94,6 +94,14 @@ Des politiciens et des personnes d'influence comoriens sont devenus corrompus pa
 Le but des Lystat étant d'attaquer les lois de la République à Mayotte pour promouvoir une domination et un contrôle par la force 
 avec l'encouragement de la délinquance, de traffics et de gangs, hors-la-loi.
 
+- atk_mefaits_politiques_03
+
+Les Lystat&co encourageaient des pratiques et politiques hyper-productivistes.
+Ils se fichaient des conséquences délétaires pour l'environnement ou la mise à mal de modèles agricoles sain et responsables.
+Ils se fichaient que des agriculteurs se donnaient la mort régulièrement.
+Seul comptait de faire davantage de profit et faire main basse sur toujours plus de pans de l'économie,
+en l'occurence les productions agricoles et agroalimentaires.
+
 - atk_mefaits_antisémites_01a
 
 Les Lystat sont juifs. 
