@@ -684,6 +684,11 @@ Voici une autre liste de films et séries concernés:
 .Les Chevaliers du Zodiaque (2023)
 .Ruby, l'ado kraken
 
+- vol_cinema_19
+
+Voici une autre liste de films et séries concernés:
+.Arisu in Borderlands
+
 - vol_aspirateur_auto_01
 
 L'idée de robot aspirateur vient de l'une de mes réflexions.
