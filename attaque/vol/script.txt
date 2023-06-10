@@ -1017,6 +1017,7 @@ Les jeux videos suivant font aussi partie de la liste:
 
 Les jeux videos suivant font aussi partie de la liste:
 .Crowfall
+.Diablo IV
 
 - vol_yugioh_01
 
