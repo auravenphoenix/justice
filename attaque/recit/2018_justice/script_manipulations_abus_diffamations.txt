@@ -15,11 +15,15 @@ Les deux hommes craignent que Molly, finissent par suivre la même envie que sa 
 - atk_mad_vivian_abusee_01
 
 Dans le sud de la France, les Lystat&co profitent de leur espionnage.
-Benoît Lystat et les autres frères Lystat vont jouer les copieurs-profiteurs pour séduire la jeune Vivian et manipuler ses sentiments.
+Benoît Lystat et les autres frères Lystat vont jouer les copieurs-profiteurs pour séduire la jeune Vivian 
+et manipuler ses sentiments.
+
+Grâce à cela, ils vont lui faire croire qu'ils sont amoureux d'elle, 
+que c'est n'est pas comme les autres qu'elle a connu, que c'est le grand amour.
 Ils y iront même jusqu'à utiliser la même déclaration que moi concernant une brève description de la fille idéale.
 
-Profitant de son peu d'expérience en histoires d'amour, ils vont lui faire croire qu'ils sont amoureux d'elle, 
-comme ils l'ont fait avec d'autres adolescentes qui m'ont plues dans le passé (Cathie Evezard, Mélodie, Typhaine...).
+Ils procèdent donc comme ils l'ont fait avec d'autres adolescentes 
+qui m'ont plues dans le passé (Cathie Evezard, Mélodie, Typhaine...).
 Ainsi, ils vont lui faire développer des sentiments pour chacun d'eux.
 
 - atk_mad_vivian_abusee_02a
@@ -46,11 +50,12 @@ soit la faire fuire. Ils ne comprennent pas cette fuite, qu'ils vivent comme une
 
 - atk_mad_vivian_abusee_02c
 
-Cela m'écoeure, me dégoûte que Vivian ait subi cela comme première expérience amoureuse.
-Non seulement ils ont abusé des premiers sentiments amoureux d'une jeune adolescente,
+Cela m'écoeure, me dégoûte que Vivian ait subi cela comme expérience amoureuse dans sa jeunesse.
+Non seulement ils ont abusé des sentiments amoureux d'une jeune adolescente,
 mais ils sont plusieurs à l'avoir fait conjointement. 
 
 Evidemment, ils ne sont pas privés de la pousser dans les comportements qu'ils souhaitaient.
+D'autant plus, qu'ils considèrent Vivian comme un bon fruit de l'eugénisme sexuel de leur réseau.
 
 - atk_mad_vivian_abusee_03a
 
