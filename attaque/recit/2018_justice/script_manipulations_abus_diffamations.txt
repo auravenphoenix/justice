@@ -95,6 +95,12 @@ Frapper, blesser, altérer, est à l'opposé.
 Rabaisser, mépriser, aussi.
 Ils ne cherchaient qu'à posséder des rapports de domination, de soumission.
 
+- atk_mad_vivian_abusee_04c
+
+Ils lui ont fait croire qu'ils avaient une vision familliale et sincère pour la relation qu'il lui proposait.
+  Ainsi, ils ont fait croire qu'ils étaient prêts à s'occuper d'enfants alors que ce n'était pas leur trucs, 
+  et qu'ils préfèraient continuer à faire la tourner des femmes soumises qu'ils ont à travers le monde.
+
 - atk_mad_vivian_abusee_05a
 
 Après les épisodes révélateurs du 01 et 05 décembre 2018, Vivian est libérée de l'emprise des Lystat.
@@ -121,5 +127,11 @@ L'histoire de Vivian, est également le cheminement d'autres femmes en proie aux
 
 Bien de celles évoquées dans ces affaires pointeront du doigt les mêmes procédés et les mêmes tords subis.
 
+- atk_mad_aymeric_diffame_01
 
--! atk_mad_aymeric_diffame_01
+Après le 05 décembre, Rose et Ambre ont participé aux manigances des Lystat&co.
+Elles ont diffamé à mon encontre, proferrant des mensonges faisant croire que je couchais avec des femmes.
+  Cela a donné une image contradictoire avec mes déclarations raisonnables dont l'envie d'une relation 
+  de confiance et durable.
+
+Ces mensonges ont donc favorisé la reconquête des Lystat auprès de Vivian.
