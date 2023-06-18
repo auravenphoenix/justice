@@ -135,3 +135,44 @@ Elle a diffamé à mon encontre, proferrant des mensonges faisant croire que je 
   de confiance et durable.
 
 Ces mensonges ont donc favorisé la reconquête des Lystat auprès de Vivian.
+
+-----
+
+- atk_mad_molly_01
+
+Molly et sa soeur Morganne ont beaucoup trop adhéré au mode de vie des Lystat.
+Elles sont beaucoup trop plongées dans la fantasy de leurs rêves et le fantasme qu'ils racontent.
+Molly est psychologiquement atteinte au point d'être complètement soumise aux demandes et intérêts des Lystat.
+Son esprit critique est défaillant et sert les intérêts des Lystat avant les siens.
+Ainsi, elle demeure malheureusement une fidèle de la secte des Lystat.
+Elle était une croyante orthodoxe jusqu'aux évènements du 05 décembre 2018.
+
+- atk_mad_molly_02
+
+Molly n'a jamais remis en questions les agissements des Lystat&co.
+Elle a cherché à servir leurs intérêts même après les crimes qu'ils ont commis contre des femmes innocentes en 2018.
+Elle n'a pas protégé sa fille, Vivian, de l'influence des Lystat et de leurs désirs, ainsi que des complices du réseau, dès son plus jeune âge.
+Elle n'a pas protégé sa nièce, Ambre, de l'influence des Lystat et de leurs désirs, ainsi que des complices du réseau, dès son plus jeune âge.
+
+Elle s'est éloignée d'Andy, le père de Vivian et oncle d'Ambre, repère raisonnable pour les jeunes filles.
+  Charles&co pouvaient faire ce qu'il voulait sans son influence.
+
+- atk_mad_molly_03
+
+Molly a toujours continué à oeuvrer pour les Lystat. Ainsi, elle a toujours cherché à freiner 
+les enquêtes des affaires que je cherche à élucider concernant les Lystat.
+Elle a toujours cherché à perturber la communication indirecte me permettant de saisir des indices de ces affaires.
+
+- atk_mad_jacqueline_luesby_01
+
+Jacqueline Luesby, mère d'Emma Watson, est également dans le même cas que Molly.
+Elle est soumise aux Lystat, à leurs intérêts et leurs désirs.
+Elle n'a pas protégé sa fille, Emma, de l'influence des Lystat et de leurs désirs, ainsi que des complices du réseau, 
+  dès son plus jeune âge.
+Par conséquent, comme Vivian et Ambre, Emma s'est retrouvée très jeune exposée aux mode de vie et pratiques vicelardes 
+des Lystat et de leurs complices.
+
+- atk_mad_jacqueline_luesby_02
+
+Jacqueline s'est éloignée de Chris, le père d'Emma, repère raisonnable pour la jeune fille.
+  Charles&co pouvaient faire ce qu'il voulait sans son influence.
