@@ -66,10 +66,46 @@ Ainsi émerge le plaisir olympiste de voir sa volonté divine s'appliquer et de 
 de se distraire des malheurs des mortels.
 Sentir que l'on peut faire ce qu'on veut, même l'interdit (et surtout l'interdit) en toute impunité.
 
-- atk_contexte_06
+- atk_contexte_06a
 
-Charles et Marie avaient l'idée de vouloir casser cette roue. Cela les a fait partir dans l'excès inverse.
-Une éducation positive et une trop grande tolérance, donnant des enfants rois qui adhèrent facilement 
+La famille Lystat est une famille juive, pratiquante en rien.
+C'est également une famille antisémite néo-nazie.
+Le père de Charles est à l'origine du nazisme dans la première moitié du XXè siècle.
+Il a "fabriqué" Hitler, et a permis son ascension. En France, il a été un soutien de Pétain, dans l'ombre.
+Ils entretiennent dans l'ombre l'antisémitisme pour pouvoir profiter d'une étiquette de victime à la lumière.
+Cela leur a permis de conduire certains projets douteux comme la conquête par la force des terres palestiniennes 
+et l'établissement forcé d'Israël.
+
+- atk_contexte_06b
+
+Le vrai logiciel de pensée des Lystat est la loi de la jungle, avec eux au sommet de la chaîne alimentaire.
+Par conséquent, ils se nourissent du chaos, des conflits qu'ils entretiennent.
+Ils encouragent A et non-A. En portant conseil à l'un comme à l'autre. En investissant chez l'un comme chez l'autre.
+  Le seul but étant de faire du profit. Sans considération aucune pour ceux qu'ils manipulent, ou pour quelconque valeur.
+Les systèmes de loi les dérangent. Ils préfèrent des dérégulations et une organisation du type mafia, 
+avec une hiérarchisation de gang, etc toujours avec eux à la tête de cette pyramide.
+
+Entretenir les deux étiquettes 'juif' et 'antisémite' est un exemple de jusqu'où ils sont prêts 
+à aller pour servir le plus petit de leurs intérêts.
+
+- atk_contexte_07a
+
+Charles et Marie ont fini par tué le père de Charles. 
+Quand bien même ils ont hérité de lui et de son idéologie, ils ne le tolérait plus. 
+Surtout ses abus sur Marie.
+
+- atk_contexte_07b
+
+Charles et Marie ont un mode de vie égoïste se concentrant principalement sur le présent, 
+et ils considèrent peu les conséquences de leurs choix de vie sur le futur.
+
+Quand bien même, ils finissent par avoir des enfants.
+Ils décident de mettre de côté l'un de leurs enfants, qui est alors élévé par les Pellé.
+
+- atk_contexte_07c
+
+Pour les autres enfants que Charles et Marie ont eu, ils ont été éduqués comme eux-mêmes avaient été éduqués, donc mal.
+Une éducation avec une trop grande tolérance, donnant des enfants rois qui adhèrent facilement 
 à l'idéologie du confort et des privilèges sans céder, et qui ne connaissent pas non plus la frustration.
 
 Charles et Marie ont également fini par utiliser certaines méthodes qu'ils avaient eux-mêmes subies pour 
