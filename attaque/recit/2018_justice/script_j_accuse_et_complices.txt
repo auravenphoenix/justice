@@ -245,7 +245,7 @@ Rose s'est abandonnée aussi à cette idéologie, comme le prouve sa complicité
 visant à nous faire renoncer moi et Vivian à nous retrouver.
 
 La conséquence de suivre les Lystat dans leur vision et leur agissements est qu'elles ne se comportaient pas 
-correctement avec les enfants dont elles avaient la responsabilité : Jys et Samuel.
+correctement avec les enfants dont elles avaient la responsabilité.
 Par exemple, elles ont développé un comportement trop autoritaire sur eux.
 
 - atk_j_accuse_08b  #legende
@@ -255,6 +255,14 @@ Par exemple, lorsque le mirmim disparait en 2021 pour une longue période de plu
 les enfants sont tristes et pleurent se demandant "quand est-ce que papa revient ?".
 
 La disparition étant une conséquence de leurs fourbes stratagèmes.
+
+- atk_j_accuse_08c  #legende
+
+Cédant à la frustration, Rose (et peut être d'autres mères) finissent par égarer, une fois, 
+les enfants dont elles ont la charge. #PetitPoucet
+
+Heureusement, un mirmim viendra retrouver les enfants et les ramener auprès de leur famille.
+  (Le mirmim ne s'est pas privé de faire remarquer le caractère irresponsable, odieux et égoïste de ses femmes.)
 
 - atk_j_accuse_09a
 
