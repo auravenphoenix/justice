@@ -140,16 +140,18 @@ Ces mensonges ont donc favorisé la reconquête des Lystat auprès de Vivian.
 
 - atk_mad_molly_01
 
-Molly et sa soeur Morganne ont beaucoup trop adhéré au mode de vie des Lystat.
-Elles sont beaucoup trop plongées dans la fantasy de leurs rêves et le fantasme qu'ils racontent.
-Molly est psychologiquement atteinte au point d'être complètement soumise aux demandes et intérêts des Lystat.
-Son esprit critique est défaillant et sert les intérêts des Lystat avant les siens.
-Ainsi, elle demeure malheureusement une fidèle de la secte des Lystat.
-Elle était une croyante orthodoxe jusqu'aux évènements du 05 décembre 2018.
+Molly et sa soeur Morganne avaient beaucoup trop adhéré au mode de vie des Lystat.
+Trop soumise et subjuguée par les Lystat, l'esprit critique de Molly s'est retrouvé défaillant.
+Ainsi, elle est restée malheureusement une fidèle des Lystat et de leurs plans pendant longtemps.
+Il aura fallu la réapparition du mirmim en juin 2021 et la révélation des plans contradictoires avec les 
+envies de Molly, pour que cette dernière décide enfin à supprimer la confiance qu'elle avait pour cette maudite famille.
+
+Vivian, Emma et d'autres n'accorderont plus définitivement leur confiance également à Charles&co.
+(Dommage que cela ait pris autant de temps. Mais vaut mieux tard que jamais.)
 
 - atk_mad_molly_02
 
-Molly n'a jamais remis en questions les agissements des Lystat&co.
+Jusqu'à juin 2021, Molly n'a jamais remis en questions les agissements des Lystat&co.
 Elle a cherché à servir leurs intérêts même après les crimes qu'ils ont commis contre des femmes innocentes en 2018.
 Elle n'a pas protégé sa fille, Vivian, de l'influence des Lystat et de leurs désirs, ainsi que des complices du réseau, dès son plus jeune âge.
 Elle n'a pas protégé sa nièce, Ambre, de l'influence des Lystat et de leurs désirs, ainsi que des complices du réseau, dès son plus jeune âge.
@@ -159,14 +161,19 @@ Elle s'est éloignée d'Andy, le père de Vivian et oncle d'Ambre, repère raiso
 
 - atk_mad_molly_03
 
-Molly a toujours continué à oeuvrer pour les Lystat. Ainsi, elle a toujours cherché à freiner 
+Jusqu'à juin 2021, Molly a toujours continué à oeuvrer pour les Lystat. Ainsi, elle a toujours cherché à freiner 
 les enquêtes des affaires que je cherche à élucider concernant les Lystat.
 Elle a toujours cherché à perturber la communication indirecte me permettant de saisir des indices de ces affaires.
 
+- atk_mad_molly_04
+
+Molly avait oeuvré contre moi et Vivian car elle espérait à termes pouvoir me cotoyer en cachette de Vivian.
+Aberration totale.
+
 - atk_mad_jacqueline_luesby_01
 
-Jacqueline Luesby, mère d'Emma Watson, est également dans le même cas que Molly.
-Elle est soumise aux Lystat, à leurs intérêts et leurs désirs.
+Jacqueline Luesby, mère d'Emma Watson, s'est retrouvée dans le même cas que Molly :
+soumise aux Lystat, à leurs intérêts et leurs désirs.
 Elle n'a pas protégé sa fille, Emma, de l'influence des Lystat et de leurs désirs, ainsi que des complices du réseau, 
   dès son plus jeune âge.
 Par conséquent, comme Vivian et Ambre, Emma s'est retrouvée très jeune exposée aux mode de vie et pratiques vicelardes 
