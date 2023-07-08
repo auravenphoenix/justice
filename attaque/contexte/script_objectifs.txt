@@ -9,29 +9,21 @@ Ils ont donc pour objectif de faire reproduire l'un de leur fils avec Emma.
 
 - atk_objectifs_01b
 
-Je suis l'un des enfants naturels de Charles et Marie.
+Je suis l'un des enfants naturels de Charles et Marie, frère jumeau de Benoît.
 
 Mais comment ai-je atteri dans la famille Pellé ? 
-C'est une idée olympiste de Charles et Marie, digne du mythe d'Hercule. 
 
-A la base, le plan consiste à me faire vivre dans une famille de la classe moyenne,
-jusqu'à ce que je remplisse les critères souhaités par mes parents biologiques.
-D'abord, je ne dois pas savoir qui sont mes parents pendant toute la période.
-Ensuite, je dois développer mes compétences, mes connaissances, jusqu'à développer 
-une expertise, une spécialisation dirons-nous, dans un domaine. 
-Le but est d'être utile à la société d'un côté, et d'apporter une expérience du "commun des mortels" aux Lystat 
-complètement déconnectés de la réalité. Cela dans le but d'éviter les dérives de développement familial 
-hérité de la génération précédant Charles et Marie.
-(Au passage, c'était une manière d'amener du sang neuf dans la famille.)
+Morganne, soeur de Molly, faisait des rêves particuliers.
+Charles et Marie avaient partagé certains de ces rêves avec elle. 
+Morganne avait persuadé Charles et Marie que cela serait une bonne chose de me faire élever dans une autre famille 
+que les Lystat et de suivre mon évolution à distance.
+Il y aurait un intérêt pour eux à le faire.
 
 - atk_objectifs_01c
 
 L'une des choses que craignent les Lystat, c'est le manque de relations sincères.
-Pour être sûr que l'amour que je trouverais sera sincère, Charles&co ont dans l'idée de restés cachés à ma connaissance 
-tant que je serai célibataire. Impossible pour moi d'utiliser l'argent pour séduire, et impossible qu'une personne avide 
-abuse de moi.
 
-Le plus gros problème vient ensuite qu'ils ne souhaitaient pas que j'ai de relation jusqu'à ce que le critère d'expert soit validée.
+Le plus gros problème vient ensuite qu'ils ne souhaitaient pas que j'ai de relation jusqu'à ce qu'ils aient décidé du contraire.
 Cette idée, un peu "mormone", a eu pour conséquence directe le sabottage de mes tentatives de relation amoureuse avec toute fille/femme 
 qui me plaisait. En bonne réaction en chaîne, cela m'a laissé croire que je n'étais pas assez intéressant/capable de trouver une copine.
 Puis, cela a affecté mon amour-propre et ma confiance en moi, fatalement.
@@ -100,6 +92,12 @@ prises en compte. Le but étant en partie d'avoir un eugénisme sexuelle.
 La famille de Molly et Morganne était connue depuis longtemps par les Lystat, au moins depuis le père de Charles.
 Il était prévu tôt ou tard que cette fammille rentre en contact avec les Lystat dans les intérêts de ces derniers
 (notamment sexuels et eugéniques).
+
+- atk_objectifs_03e
+
+Le père de Charles avait encouragé l'alliance entre l'Allemagne hitlerienne et le Japon, durant la seconde guerre mondiale.
+Il soutenait les opérations atroces qu'ont subies les femmes coréennes en tant que "femmes de réconfort".
+Son objectif était de pouvoir profiter à moyen terme de femmes asiatiques pour ses différentes lubies, notamment sexuelles.
 
 - atk_objectifs_04
 
