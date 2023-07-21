@@ -1,7 +1,7 @@
 
 - atk_conversation_avoir_des_enfants_01
 
-Ce mélodrame est non seulement malaisant et injuste, mais il est honteux est grossier, 
+Ce mélodrame est non seulement malaisant et injuste, mais il est honteux et grossier, 
 lorsque l'on sait que madame (et monsieur au passage), se sont permis de juger que je ne serais 
 pas assez bien pour telle ou telle femme qui désirait me revoir, et enceinte de moi.
 Des petits-enfants tu en avais à porter de main, tu leur as claqué violemment la porte au nez, 
@@ -12,3 +12,10 @@ Avant de parler de valeurs familiales, commence par corriger tes vices, en l'occ
 - atk_exploitation_pensees_paroles_01
 
 J'en ai ras le bol que l'accès à mes pensées et mes paroles soit exploité contre mon gré, en partie pour du profit, ou sinon pour me nuire.
+
+- atk_secte_lystat_01
+
+Les Lystat ont utilisé mes réflexions, mes avis, pour se faire de l'argent et pour gagner une influence sur des 
+groupes de personnes. Ils sont allés jusqu'au niveau d'avoir une influence sectaire, voire carrément de créer une secte, 
+servant leurs intérêts, en usant de l'espionnage sur ma personne.
+Charles Lystat s'est particulièrement chargé de cela.
