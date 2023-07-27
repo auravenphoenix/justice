@@ -271,6 +271,13 @@ Les enquêteurs garderont un contact avec chacune, notamment Vivian et Molly, po
 Un mirmim a téléporté des Lystat dans une de leur demeure.
 Ainsi, ils sont à l'abri des bombardements ou autre menaces physiques sur le moment.
 
+- atk_lune_de_miel_apocalyptique_10c
+
+Le mirmim a discuté avec la police.
+Il leur a averti qu'il ne fallait pas que les victimes me retrouvent, que l'on devait restés séparés 
+tant que je n'avais pas deviné la totalité des évènements que je devais deviner, 
+et cela peu importe que je me plaigne de ne pas retrouver telle ou telle personne.
+
 - atk_lune_de_miel_apocalyptique_11
 
 Cette opération militraire, véritable stratégie de la terre brûlée visant à résuire en poussière toute preuve 
