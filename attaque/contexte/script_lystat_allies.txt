@@ -12,6 +12,12 @@ Recep Tayyip Erdoğan
 Ursula Von Der Leyen
 Liz Truss, complice ayant permis la destruction de Nord Stream 2
 
+- atk_lystat_allies_02
+
+Benyamin Netanyahou
+Ahmed Al Jaber
+
 - atk_lystat_pays_allies_01
 
 Qatar
+Corée du Nord (permie et soutenue par les Lystat au XXè s)
