@@ -70,19 +70,20 @@ Marie consomme bien qu'elle soit enceinte. Molly continue de suivre le mouvement
 
 De son côté, Andy fait un cauchemar lui présentant les lieux de la partouze.
 C'est un lieu qu'il reconnaît, ou qu'il voit comment rejoindre.
-Avec horreur, le cauchemar révèle la coucherie de sa compagne enceinte.
-Une silhouette encapuchonnée lui décrit que "les personnes avec Molly la manipule comme ils manipulent Emma ou Mélodie".
+Avec horreur, le cauchemar révèle que sa compagne enceinte est en danger de mort.
+Une silhouette encapuchonnée lui décrit que "les personnes s'en prenant à Molly sont les mêmes qui tourmentent Emma ou Mélodie".
 Andy se réveille. Saisi par le cauchemar, il saute dans la voiture pour se rendre sur les lieux de sa vision nocturne.
 
 - atk_choc_frontal_03
 
-Arrivé sur place c'est le choc pour Andy.
-Il découvre horrifié que c'est vrai : la voiture est là, les individus sont là et sa femme couche avec eux.
-La jalousie et la colère (l'envie de voir ce cauchemar s'arrêter) lui font prendre la décision de foncer dans la voiture.
+Arrivé sur place, Andy découvre la voiture de Charles,Molly&co.
+Le désir de sauver Molly l'emporte. Alors, il prend la décision de foncer dans la voiture.
 Il les percute frontalement, le choc est violent. Les vies sont bouleversées.
 Marie est blessée. Aux urgences, ils tentent de faire le maximum pour sauver le bébé, en vain.
 Cette traumatismante tragédie éloigne Charles et Marie l'un de l'autre.
-Andy va en prison. Il se retrouve séparé de sa femme qui continuera de travailler avec Charles.
+Andy va en prison. Charles et Marie ne sont pas en conflit avec lui; il adhérait à leur façon de vivre.
+Cependant, l'évènement a laissé des traces qui le conduisent en cellule.
+Il se retrouve séparé de sa femme qui continuera de fréquenter Charles, etc.
 Coup heureux du destin, le bébé de Molly survit et ne présentera aucun séquel de la consommation de produits ingérés.
 
 - atk_choc_frontal_04
@@ -93,32 +94,3 @@ Il raconte ce que ce personnage racontait en parlant d'une Emma et d'une Mélodi
 Molly commencera à avoir la foi suite aux dires d'Andy qui n'aurait jamais pu deviner l'endroit et ce qu'il se passait, sans ce cauchemar.
 Charles et Marie garderont en tête que je suis responsable de l'accident, alors que je n'ai que 10 ans ou moins et que je ne les connais pas.
 En effet, ils font le lien entre la Emma du cauchemar et Emma Watson qu'ils manipulent.
-
-- atk_choc_frontal_05a #legende
-
-En rêve, la silhouette fait la morale à Andy et Molly.
-A Andy, il lui indique son erreur avec ce genre de paroles :
-"Tu es sur un chemin de rédemption. Tu as fauté en allant trop loin. Tu aurais pu récupérer ta femme, la tirer de cette situation.
- Penser à ton enfant à naître qui aura besoin de protection face à ce genre de personnes... "
-
-En effet, il aurait pu venir récupérer sa femme, sans violence physique. Il aurait pu penser à Vivian,
-son enfant à naître qui aura besoin de protection.
-Le destin était de son côté. En prison, Andy ne peut plus empêcher sa famille d'être la proie des Lystat+.
-Plusieurs années plus tard, le cauchemar continue : Vivian, son enfant, est le jouet des Lystat.
-
-La silhouette portait une faux, une cape noire encapuchonnée, un masque et une croix de Lorraine.
-La silhouette a indiqué des conseils/indications pouvant l'aider dans sa rédemption et ne pas sombrer/mal_tourner en prison.
-
-- atk_choc_frontal_05b #legende
-
-A Molly, il lui reproche d'avoir cédé au vice, luxure et avarice au détriment de sa famille présente et future.
-Elle a mis en danger la vie de son enfant avec la consommation de produits nocifs pour elle et pour son enfant.
-etc
-
-- atk_choc_frontal_05c #legende
-
-A l'issue de cet évènement des plus tragiques, Charles et Marie développeront une aversion pour les religions.
-En effet, accablés par la tristesse, le malheur, ils cherchent un responsable dans cette affaire plutôt que de tirer 
-les leçons de leurs propres erreurs, excès.
-Comme la fameuse silhouette présente des signes des religions monothéistes (la croix de Lorraine, des croissants de lune 
-et des étoiles à six branches), les Lystats nourriront un sentiment anti-religieux.
