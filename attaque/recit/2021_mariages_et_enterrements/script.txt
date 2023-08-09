@@ -1,57 +1,45 @@
 
-- atk_marriage_d_enfer_01
+- atk_mariage_d_enfer_01
 
-En 2021, on a fait croire que je m'étais marrié concrètement.
+En 2020, on a fait croire que je m'étais marrié concrètement.
+Les Lystat&co ont fait croire que la mariée était Sonali.
+C'est complètement faux. D'autant que je n'ai aucun contact avec Sonali depuis des années.
+Au passage c'est Mael qui a développé et entretenu une relation avec Sonali.
+
+- atk_mariage_d_enfer_02a
+
+Vivian et Emma y ont cru.
+Du coup, des Lystat se sont donc empressés de faire leur demande en mariage à ces dames.
+A croire qu'ils sont incapables de retenir la leçon de 2018.
+
 Du coup, Vivian s'est marriée avec Romain Lystat.
-  Et ça a été un fiasco comme avec Benoît Lystat. #lystatMauvaisMari
-  Il a essayé de la violer, d'être brutal avec elle, notamment lors de pratiques sexuelles.
+Romain Lystat est un des enfants adoptés par les Lystat. 
+Il a eu le droit à la même mauvaise éducation que les autres.
+Il se fiche du double-jeu et du tord qu'il pourrait causer auprès de Vivian ou les autres femmes victimes.
+Il séduit Vivian en jouant les copieurs-profiteurs bien sûr.
+
+Par conséquence, le mariage a été un fiasco comme avec Benoît Lystat. #lystatMauvaisMari
+
+- atk_mariage_d_enfer_02b
+
+Romain Lystat a essayé de violer Vivian, d'être brutal avec elle, notamment lors de pratiques sexuelles.
   Un mirmim est apparu et l'a secourue.
   Il a fait payé Romain, dont l'action a été dévoilée devant les convives.
   Le mirmim en a profité pour dénoncer les mensonges contre moi, une fois de plus.
 
-- atk_faux_marriage_01
+- atk_mariage_d_enfer_03a
 
-Dans le stratagème des Lystat, on avait fait croire que je m'étais marié avec Sonali.
-C'est complètement faux. Je n'ai aucun contact avec Sonali depuis des années.
-Au passage c'est Mael qui a développé et entretenu une relation avec Sonali.
+Un autre enfant Lystat jouera les copieurs-profiteurs avec Emma.
+Il proposera à la demoiselle de se marier aussi avec elle.
 
+Le but de ses mariages est évidemment de renforcer à nouveau l'emprise sur ces femmes, 
+et d'en faire ce que bon leur semble, en suivant leurs désirs à eux.
+Donc, profiter qu'elles soient leur femme, pour retourner dans des extrêmes violents sur le plan sexuel...
 
-- atk_empire_contre_attaque_02a
+Charles pensaient que le viol était une bonne idée pour obtenir le contrôle le plus rapidement possible :
+un chemin efficace vers l'emprise.
 
-Pour faciliter la séduction de ces dames, on a fait croire que j'étais mort en 2020.
-Pratique aussi pour obtenir un abandon des poursuites.
-Des personnes ont participé à ce mensonge comme témoin. C'est le cas de Rose à qui on 
-a fait croire qu'elle pourrait sortir avec moi grâce à ce stratagème.
-
-Les Lystat & co ont attendu que les victimes soient suffisamment distraites des évènements de 2018.
-De plus, ils avaient réussi à garder contact avec elles et à les habituer à échanger avec elle.
-Cela a été facilité quand ils ont réussi à m'approcher de leurs idées, leurs vices comme décrit précédemment.
-
-- atk_empire_contre_attaque_02b
-
-Faire croire à ma mort avait un avantage pour les Lystat et leurs complices.
-En effets, ces vautours se sont empressés de vouloir mettre la main sur mes biens indirects.
-
-- atk_empire_contre_attaque_02c  #legende
-
-Les victimes à qui l'on ment croiront malheureusement un peu trop vite à ce mensonge.
-Elles n'essayent pas de vérifier les dires avec un mirmim qui les côtoient régulièrement.
-
-Leur choix de croire trop vite et sans vérifier cette annonce, 
-conduit à la fin de la télépathie et des apparitions des mirmims près de ces dames.
-
-- atk_empire_contre_attaque_02d
-
-Parmi les séducteurs : 2 enfants adoptés des Lystat.
-A croire qu'ils sont incapables de retenir la leçon de 2018.
-
-Romain Lystat est un homme noir ayant déjà une copine. 
-Il se fiche du double-jeu et du tord qu'il pourrait causer à cette dernière 
-et accepte de séduire Vivian en jouant les copieurs-profiteurs.
-
-Le second, Nicolas, jouera les copieurs-profiteurs avec Emma.
-
-- atk_empire_contre_attaque_02e  #legende
+- atk_mariage_d_enfer_03b  #legende
 
 Vivian et Emma ont chacune été la cible d'un viol de la part des enfants Lystat qui les traquaient.
 C'était le plan de Charles de mettre à nouveau la main sur ces femmes à tout prix.
@@ -62,14 +50,44 @@ Puis, au moment venu, d'essayer de coucher avec elle de force.
 
 Heureusement, elles avaient toujours leurs pouvoirs.
 Elles ont pu s'en servir pour repousser, arrêter et immobiliser leurs agresseurs.
+Et elles ont pu compter plus ou moins sur le mirmim.
 
-Charles pensaient que le viol était une bonne idée pour obtenir le contrôle le plus rapidement possible :
-un chemin efficace vers l'emprise.
+- atk_enterrement_premature_01 (atk_empire_contre_attaque_02a)
 
-- atk_empire_contre_attaque_02f
+Après le fiasco des mariages de Vivian avec Romain, etc, 
+les Lystat n'entendent toujours pas raison, et s'acharnent à vouloir reprendre 
+le contrôle de la vie de ces dames.
 
-Charles&co ne se sont pas arrêtés là pour autant.
-Ils ont persévérés en proposant des partenaires plus subtiles.
+Pour faciliter la séduction de ces dames, on a fait croire que j'étais mort en 2020.
+Pratique aussi pour obtenir un abandon des poursuites.
+Des personnes ont participé à ce mensonge comme témoin. C'est le cas de Rose à qui on 
+a fait croire qu'elle pourrait sortir avec moi grâce à ce stratagème.
+
+- atk_enterrement_premature_02 (atk_empire_contre_attaque_02c  #legende)
+
+Les victimes à qui l'on ment croiront malheureusement un peu trop vite à ce mensonge.
+Elles n'essayent pas de vérifier les dires avec un mirmim qui les côtoient régulièrement.
+
+Leur choix de croire trop vite et sans vérifier cette annonce, 
+conduit à la fin de la télépathie et des apparitions des mirmims près de ces dames.
+
+- atk_enterrement_premature_03a (atk_empire_contre_attaque_02b)
+
+Faire croire à ma mort avait un avantage pour les Lystat et leurs complices.
+En effets, ces vautours se sont empressés de vouloir mettre la main sur mes biens indirects.
+
+- atk_enterrement_premature_03b  #legende
+
+Charles Lystat désirait particulièrement mettre la main sur les objets magiques utilisés par le mirmim.
+Le mirmim étant disparu, il espérait les faire siens et les utiliser à sa guise.
+Dans tous les cas, ils pouvaient les utiliser comme reliques pour sa secte.
+
+#antechrist
+
+- atk_enterrement_premature_04 (atk_empire_contre_attaque_02f)
+
+Charles&co ne se sont donc pas arrêtés.
+Ils ont persévéré en proposant des partenaires plus subtiles.
 Partenaires qu'ils contrôlaient en sous-marin dans tous les cas.
 
 Maël Rouxel-Labbé a été chargé de séduire Vivian.
@@ -80,51 +98,63 @@ Tous les deux ont appliqué la stratégie subtile de Charles pour obtenir l'empr
 Maël a fini par être violent et violent sexuellement avec Vivian comme il l'avait été avec Claire avant, 
 et comme il l'avait été avec sa copine russe.
 
-- atk_empire_contre_attaque_02g  #legende
+- atk_enterrement_premature_05
+
+En 2021, alors que l'on me croit mort pour certains, les Lystat et des complices de leur réseau organisent des vacances en Vendée, 
+à Brétignolles sur Mer. Certains jouent les copieurs-profiteurs.
+C'est le cas particulièrement de Tom Felton, qui abusera Molly et en profitera pour l'abuser sexuellement.
+L'un des copieurs reprend mes idées pour un restaurant vendéen.
+  (plats avec produits de la mer locaux, et plats avec viande locale. Par exemple, un maki revisité avec produits du terroir local.
+   Belle salle, avec des espaces un peu cosy.
+   etc
+  )
+
+- atk_enterrement_premature_06 (atk_empire_contre_attaque_02g)  #legende
 
 Hélas, le plan fonctionne.
-Pour asseoir son avantage, Charles reprend l'idée de 2018 de marier ces dames.
-Ainsi, le marriage de Vivian avec un nouvel empaffé, marionnette des Lystat&co, est prévu pour fin Juin 2021.
+Pour asseoir son avantage, Charles reprend l'idée de 2018 et de 2020 de marier ces dames avec leurs marionnettes 
+légèrement plus subtiles.
+Ainsi, le mariage de Vivian avec un nouvel empaffé, marionnette des Lystat&co, est prévu pour fin Juin 2021.
 
 Des mirmims finiront par ressurgir en juin 2021, coïncidant avec le moment 
 où je commence à deviner que Philippe est un criminel.
 Les mirmims feront éclater la vérité et remettront à leur place plus d'une personne dans cette histoire.
 
-- atk_empire_contre_attaque_02h
+- atk_enterrement_premature_07 (atk_empire_contre_attaque_02h)
 
 Si elles me croyaient vraiment mort, les victimes auraient dû aller jusqu'au bout et porter plainte contre 
 les manipulateurs, dont les Lystat et leurs séducteurs, et ceux ayant essayé de les tuer, dont Emmanuel Macron.
 Choisir des manipulateurs comme copain et mari n'était pas du meilleur choix comme figure de père pour les enfants.
 
-Cela illustre bien les méthodes et plans machiavéliques dont le réseau des Lystat est capable, 
-et la capacité dramatique et cruelle de l'emprise.
+Cela illustre en partie les méthodes redoutables et les plans machiavéliques dont le réseau des Lystat est capable.
 
-- atk_empire_contre_attaque_03a
+- atk_assassinat_juin_01 (atk_empire_contre_attaque_03a)
 
 Romain Lystat, l'homme noir qui a essayé de violé Vivian, était chargé de me tuer après la fin 
 de la surveillance programmée fin juin 2021.
 Il était complice du mensonge de ma mort bien sûr.
 Emmanuel Macron était évidemment complice dans ce projet d'assassinat.
 
-- atk_empire_contre_attaque_03b  #legende
+- atk_assassinat_juin_02 (atk_empire_contre_attaque_03b  #legende)
 
 Heureusement, un mirmim est apparu pour contrer les agissements de Romain Lystat
 et les autres complices du réseau des Lystat de nuire,
 me permettant ainsi de survivre.
 
-- atk_empire_contre_attaque_03c
+- atk_assassinat_juin_03 (atk_empire_contre_attaque_03c)
 
 Il a été pris en flanrant délit. Il devait être arrêté par la police.
 Mais, il a préféré se suicider plutôt que d'accepter les conséquences de ses actes et d'aller en prison.
 
 Alors qu'il cherchait à sortir avec Vivian, il "sortait" avec Rose et Ambre, qu'il abusait, notamment sexuellement.
 
-- atk_empire_contre_attaque_03d
+- atk_assassinat_juin_04 (atk_empire_contre_attaque_03d)
 
 Youssef Ouldali récidive en 2021 alors qu'il est mon coach sportif.
 Il couche avec au moins une des femmes victimes du réseau des Lystat et l'/les abuse sexuellement.
 Youssef Ouldali était complice du plan consistant à m'assassiner en juin 2021 avec Romain Lystat.
 
+------------------------------------------------------------------------------------------------------------------------
 
 - atk_j_accuse_02
 
@@ -162,14 +192,3 @@ les enfants dont elles ont la charge. #PetitPoucet
 
 Heureusement, un mirmim viendra retrouver les enfants et les ramener auprès de leur famille.
   (Le mirmim ne s'est pas privé de faire remarquer le caractère irresponsable, odieux et égoïste de ses femmes.)
-
-- atk_j_accuse_10
-
-En 2021, alors que l'on me croit mort pour certains, les Lystat et des complices de leur réseau organisent des vacances en Vendée, 
-à Brétignolles sur Mer. Certains jouent les copieurs-profiteurs.
-C'est le cas particulièrement de Tom Felton, qui abusera Molly et en profitera pour l'abuser sexuellement.
-L'un des copieurs reprend mes idées pour un restaurant vendéen.
-  (plats avec produits de la mer locaux, et plats avec viande locale. Par exemple, un maki revisité avec produits du terroir local.
-   Belle salle, avec des espaces un peu cosy.
-   etc
-  )
