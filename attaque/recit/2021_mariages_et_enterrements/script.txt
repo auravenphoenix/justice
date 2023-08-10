@@ -52,6 +52,31 @@ Heureusement, elles avaient toujours leurs pouvoirs.
 Elles ont pu s'en servir pour repousser, arrêter et immobiliser leurs agresseurs.
 Et elles ont pu compter plus ou moins sur le mirmim.
 
+- atk_mariage_d_enfer_04a  #legende
+
+Au cours de ce mariage avec Romain Lystat, une n-ième orgie est organisée à laquelle participe la mariée.
+Les Lystat et leurs complices ont essayé de tuer des enfants lors de ce mariage (les miens en partie) 
+avec un incendie déclenché encore une fois. Le pyromane n'est autre qu'Alain Soral.
+
+Un mirmim a secouru les enfants et a condamné le machiavélisme des Lystat, etc.
+Le mirmim a cassé des gueules un peu à pas mal de monde.
+Y'en a plus d'un(e) qui en ont pris pour son grade. Certains finissent dans la piscine par exemple.
+
+- atk_mariage_d_enfer_04b  #legende
+
+Au cours de ce mariage, l'un des enfants a été kidnappé. Il s'agit de Peter, fils d'Ambre.
+Durant cet épisode, l'enfant en question est inconscient.
+Il faut retrouver l'enfant et l'agresseur.
+
+Il fait nuit. Le mirmim forme alors une grande boule de feu éclairant les alentours des lieux de l'enlèvement.
+Le kidnappeur est retrouvé, stoppé. Peter est sain et sauf.
+
+- atk_mariage_d_enfer_04c
+
+Vivian et Emma mettent une croix définitive sur les Lystat suite à cet épisode 
+qui est parti en couille (à plus d'un titre).
+Un mariage Lystat qui ressemble à rien, encore une fois.
+
 - atk_enterrement_premature_01 (atk_empire_contre_attaque_02a)
 
 Après le fiasco des mariages de Vivian avec Romain, etc, 
@@ -83,6 +108,17 @@ Le mirmim étant disparu, il espérait les faire siens et les utiliser à sa gui
 Dans tous les cas, ils pouvaient les utiliser comme reliques pour sa secte.
 
 #antechrist
+
+- atk_enterrement_premature_03c  #legende
+
+Charles Lystat continue de faire preuve de fourberie. 
+Il utilise la communication indirecte pour me pousser à rédiger une lettre dans laquelle je lui accordais la 
+gestion de mes biens, s'il m'arrivait quoi que ce soit. 
+(La lettre n'a aucune valeur, vu qu'elle est adressée à Yves Lysistrates qui ne désigne pas Charles,
+ni personne dans cette affaire.)
+
+Il se sert du mensonge de ma mort et de cette lettre, entre autres, 
+pour forcer Vivian à lui donner, à contre-coeur, les biens qu'il réclame, notamment les objets magiques.
 
 - atk_enterrement_premature_04 (atk_empire_contre_attaque_02f)
 
