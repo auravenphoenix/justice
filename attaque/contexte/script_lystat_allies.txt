@@ -29,6 +29,13 @@ En attendant cette position, ils utilisent toute l'information possible pour dé
 pour justifier conflits, voire guerre(s).
 (Conflits qui nourrissent leurs stratégies de Fabrication de l'Ennemi, leur faisant de belles rentrées d'argent.)
 
+- atk_lystat_allies_04
+
+Voici d'autres alliés contribuant à la domination des Lystat et leur corruption:
+Nicolas Sarkozy
+
+Les putchistes au Niger sont des complices du réseau du Chaos.
+
 - atk_lystat_pays_allies_01
 
 Qatar
