@@ -77,7 +77,7 @@ Vivian et Emma mettent une croix définitive sur les Lystat suite à cet épisod
 qui est parti en couille (à plus d'un titre).
 Un mariage Lystat qui ressemble à rien, encore une fois.
 
-- atk_enterrement_premature_01 (atk_empire_contre_attaque_02a)
+- atk_enterrement_premature_01
 
 Après le fiasco des mariages de Vivian avec Romain, etc, 
 les Lystat n'entendent toujours pas raison, et s'acharnent à vouloir reprendre 
@@ -88,7 +88,7 @@ Pratique aussi pour obtenir un abandon des poursuites.
 Des personnes ont participé à ce mensonge comme témoin. C'est le cas de Rose à qui on 
 a fait croire qu'elle pourrait sortir avec moi grâce à ce stratagème.
 
-- atk_enterrement_premature_02 (atk_empire_contre_attaque_02c  #legende)
+- atk_enterrement_premature_02  #legende
 
 Les victimes à qui l'on ment croiront malheureusement un peu trop vite à ce mensonge.
 Elles n'essayent pas de vérifier les dires avec un mirmim qui les côtoient régulièrement.
@@ -96,7 +96,7 @@ Elles n'essayent pas de vérifier les dires avec un mirmim qui les côtoient ré
 Leur choix de croire trop vite et sans vérifier cette annonce, 
 conduit à la fin de la télépathie et des apparitions des mirmims près de ces dames.
 
-- atk_enterrement_premature_03a (atk_empire_contre_attaque_02b)
+- atk_enterrement_premature_03a
 
 Faire croire à ma mort avait un avantage pour les Lystat et leurs complices.
 En effets, ces vautours se sont empressés de vouloir mettre la main sur mes biens indirects.
@@ -120,7 +120,7 @@ ni personne dans cette affaire.)
 Il se sert du mensonge de ma mort et de cette lettre, entre autres, 
 pour forcer Vivian à lui donner, à contre-coeur, les biens qu'il réclame, notamment les objets magiques.
 
-- atk_enterrement_premature_04 (atk_empire_contre_attaque_02f)
+- atk_enterrement_premature_04
 
 Charles&co ne se sont donc pas arrêtés.
 Ils ont persévéré en proposant des partenaires plus subtiles.
@@ -145,7 +145,7 @@ L'un des copieurs reprend mes idées pour un restaurant vendéen.
    etc
   )
 
-- atk_enterrement_premature_06 (atk_empire_contre_attaque_02g)  #legende
+- atk_enterrement_premature_06  #legende
 
 Hélas, le plan fonctionne.
 Pour asseoir son avantage, Charles reprend l'idée de 2018 et de 2020 de marier ces dames avec leurs marionnettes 
@@ -156,7 +156,7 @@ Des mirmims finiront par ressurgir en juin 2021, coïncidant avec le moment
 où je commence à deviner que Philippe est un criminel.
 Les mirmims feront éclater la vérité et remettront à leur place plus d'une personne dans cette histoire.
 
-- atk_enterrement_premature_07 (atk_empire_contre_attaque_02h)
+- atk_enterrement_premature_07
 
 Si elles me croyaient vraiment mort, les victimes auraient dû aller jusqu'au bout et porter plainte contre 
 les manipulateurs, dont les Lystat et leurs séducteurs, et ceux ayant essayé de les tuer, dont Emmanuel Macron.
@@ -164,27 +164,27 @@ Choisir des manipulateurs comme copain et mari n'était pas du meilleur choix co
 
 Cela illustre en partie les méthodes redoutables et les plans machiavéliques dont le réseau des Lystat est capable.
 
-- atk_assassinat_juin_01 (atk_empire_contre_attaque_03a)
+- atk_assassinat_juin_01
 
 Romain Lystat, l'homme noir qui a essayé de violé Vivian, était chargé de me tuer après la fin 
 de la surveillance programmée fin juin 2021.
 Il était complice du mensonge de ma mort bien sûr.
 Emmanuel Macron était évidemment complice dans ce projet d'assassinat.
 
-- atk_assassinat_juin_02 (atk_empire_contre_attaque_03b  #legende)
+- atk_assassinat_juin_02  #legende
 
 Heureusement, un mirmim est apparu pour contrer les agissements de Romain Lystat
 et les autres complices du réseau des Lystat de nuire,
 me permettant ainsi de survivre.
 
-- atk_assassinat_juin_03 (atk_empire_contre_attaque_03c)
+- atk_assassinat_juin_03
 
-Il a été pris en flanrant délit. Il devait être arrêté par la police.
+Il a été pris en flagrant délit. Il devait être arrêté par la police.
 Mais, il a préféré se suicider plutôt que d'accepter les conséquences de ses actes et d'aller en prison.
 
 Alors qu'il cherchait à sortir avec Vivian, il "sortait" avec Rose et Ambre, qu'il abusait, notamment sexuellement.
 
-- atk_assassinat_juin_04 (atk_empire_contre_attaque_03d)
+- atk_assassinat_juin_04
 
 Youssef Ouldali récidive en 2021 alors qu'il est mon coach sportif.
 Il couche avec au moins une des femmes victimes du réseau des Lystat et l'/les abuse sexuellement.
