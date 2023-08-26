@@ -120,6 +120,16 @@ ni personne dans cette affaire.)
 Il se sert du mensonge de ma mort et de cette lettre, entre autres, 
 pour forcer Vivian à lui donner, à contre-coeur, les biens qu'il réclame, notamment les objets magiques.
 
+- atk_enterrement_premature_03d
+
+Mon faux enterrement est organisé.
+Plusieurs copains d'avant sont présents alors que je n'ai pas pris de nouvelles d'eux, et vice versa, 
+depuis plus de 15 ans.
+C'est le cas par exemple de Sylvain Murat.
+
+Tous les convives sont complices (à part celles à qui l'ont fait croire que je suis mort).
+Plusieurs citoyens de Toury sont présents pour jouer le jeu.
+
 - atk_enterrement_premature_04
 
 Charles&co ne se sont donc pas arrêtés.
@@ -145,16 +155,12 @@ L'un des copieurs reprend mes idées pour un restaurant vendéen.
    etc
   )
 
-- atk_enterrement_premature_06  #legende
+- atk_enterrement_premature_06
 
 Hélas, le plan fonctionne.
 Pour asseoir son avantage, Charles reprend l'idée de 2018 et de 2020 de marier ces dames avec leurs marionnettes 
 légèrement plus subtiles.
 Ainsi, le mariage de Vivian avec un nouvel empaffé, marionnette des Lystat&co, est prévu pour fin Juin 2021.
-
-Des mirmims finiront par ressurgir en juin 2021, coïncidant avec le moment 
-où je commence à deviner que Philippe est un criminel.
-Les mirmims feront éclater la vérité et remettront à leur place plus d'une personne dans cette histoire.
 
 - atk_enterrement_premature_07
 
@@ -163,6 +169,12 @@ les manipulateurs, dont les Lystat et leurs séducteurs, et ceux ayant essayé d
 Choisir des manipulateurs comme copain et mari n'était pas du meilleur choix comme figure de père pour les enfants.
 
 Cela illustre en partie les méthodes redoutables et les plans machiavéliques dont le réseau des Lystat est capable.
+
+- atk_apocalypse_le_retour_01  #legende
+
+Des mirmims finiront par ressurgir en juin 2021, coïncidant avec le moment 
+où je commence à deviner que Philippe est un criminel.
+Les mirmims feront éclater la vérité et remettront à leur place plus d'une personne dans cette histoire.
 
 - atk_assassinat_juin_01
 
