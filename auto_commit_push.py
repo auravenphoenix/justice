@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import os
+import os, sys
 import git.config
 from git import Repo
 
@@ -12,10 +12,15 @@ class AutoCommitPush:
         self.__git: git.Git = self.__repository.git
 
     def commit_and_push_all(self):
+        filter_path = None
+        if len(sys.argv) > 1:
+            filter_path = sys.argv[1]
         for item in self.__repository.index.diff(None):
-            self.commit_and_push_file(item.a_path, item.change_type)
+            if filter_path is None or filter_path in item.a_path:
+                self.commit_and_push_file(item.a_path, item.change_type)
         for item in self.__repository.untracked_files:
-            self.commit_and_push_file(item)
+            if filter_path is None or filter_path in item:
+                self.commit_and_push_file(item)
 
     def commit_and_push_file(self, file, change_type='A'):
         commit_msg = f"{change_type} {file}"
