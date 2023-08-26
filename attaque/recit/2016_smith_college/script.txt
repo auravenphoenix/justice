@@ -171,6 +171,11 @@ Il n'en fut rien, vu que je n'ai jamais reçu aucune invitation à ce sujet.
 Les Lystat & co ont sciemment fait en sorte que j'en sois privé.
 Au moins l'un des Lystat, et peut-être d'autres complices, ont osé profité à ma place de ce Spring Break en compagnie de Vivian.
 
+- atk_spring_break_vivian_02
+
+La famille Pellé profite des plans des Lystat et abusent de la confiance de Molly et Vivian durant le Spring Break 2018.
+Ambre et Alexandre Pellé profitent ensemble durant cet évènement.
+
 - atk_remise_diplome_vivian_01
 
 Vivian espérait partager le moment de sa remise de diplome avec moi en 2018.
