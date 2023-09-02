@@ -26,6 +26,13 @@ Ils lui conseillaient plutôt de mettre de côté le préjudice subit, avec des 
 "c'est ta voix contre la sienne", 
 "ça risque d'entacher ta réputation, sans que tu sois sûre d'obtenir justice", etc.
 
+- atk_ideologie_justice_chaos_02c
+
+Des plaintes ont été déposées par les avocats à la demande des victimes.
+Cependant, comme ils s'agissaient d'avocats liés au réseau des Lystat, les plaintes étaient 
+  fausses (pas le bon nom pour l'accusé, ...).
+Les parents d'Emma ont osé pratiquer de tels mensonges, au détriment des victimes, dont leur fille.
+
 - atk_ideologie_justice_chaos_03
 
 Voici un exemple de raisonnement permettant à ces malfaiteurs de parvenir à faire 
