@@ -130,6 +130,12 @@ C'est le cas par exemple de Sylvain Murat.
 Tous les convives sont complices (à part celles à qui l'ont fait croire que je suis mort).
 Plusieurs citoyens de Toury sont présents pour jouer le jeu.
 
+- atk_enterrement_premature_03e
+
+Pour leur mise en scène, les Lystat&co ont été jusqu'à trafiquer, travestir une tombe pour correspondre au faux-enterrement.
+Ils ont été jusqu'à ajouter une recette de cuisine sur la pierre tombale, comme sorte d'épitaphe.
+(Chose que je n'ai souhaitée au passage.)
+     
 - atk_enterrement_premature_04
 
 Charles&co ne se sont donc pas arrêtés.
