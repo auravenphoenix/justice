@@ -119,6 +119,13 @@ Dès que ça va pas comme tu veux t'essayes de supprimer les gens. Et c'est moi 
 Les deux finissent par se battre. Le mirmim fait en sorte que cela se fasse à l'extérieur. 
 Il n'hésite pas à rouler Charles dans la neige, pour lui faire refroidir ses ardeurs.
 
+- atk_2017_decembre_13_04b  #legende
+
+Vivian est en larmes. Beaucoup de trahisons d'un coup.
+Le mirmim restera avec elle pour la consoler.
+Ils dinent ensemble au CCC et passent le reste de la soirée ensemble.
+Enfin, Vivian passera une belle nuit avec le mirmim.
+
 - atk_skyzophrenie_01
 
 Benoit a tellement joué différents personnages qu'il en est devenu skyzophrène.
@@ -137,12 +144,6 @@ de me retrouver.
 Vivian et autres étaient consciente de la skyzophrénie de Benoît, mais elles croyaient que c'était juste un peu.
 Facile de faire cela vu que monsieur passait son temps à s'envoler (en l'air) à droite à gauche.
 Vivian ou autre, ne le voyait donc que de temps en temps.
-
-- atk_2017_decembre_13_04b  #legende
-
-En procédant ainsi, le destin suit sont plan et s'assure que Vivian reste éloignée de moi.
-En effet, en mettant en scène un mirmim violent s'en prenant à Charles, il vient de lui donner raison.
-(On peut remarquer que cela permet de faire payer à Charles son odieuse machination qui m'a fait bien du mal ce soir là.)
 
 - atk_mirmim_x_lady_04a
 
