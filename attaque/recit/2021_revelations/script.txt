@@ -215,9 +215,9 @@ Vivian finit du coup par rejeter Victor Lystat aussi.
 Comme son père, Victor prend la décision de tuer celle qu'il dit "aimer".
 Il fera ce qu'il faur pour éviter la prison. Vivian n'est désormais plus qu'une ennemie à abattre.
 
-Il exécute son plan consistant à tuer Vivian et Molly à l'arme blanche.
+Il exécute son plan consistant à tuer Vivian, Molly et autres en utilisant une arme à feu.
 Son approche fourbe, lui permet d'être à l'abri des pouvoirs de Vivian.
-Les deux femmes finissent assassinées.
+Les deux femmes et les enfants présents finissent assassinées.
 
 - atk_retour_vers_la_lumiere_02b  #legende
 
@@ -247,3 +247,30 @@ sur les évènements qu'elles ont subis.
 - THE_END
 
 xD
+
+- atk_amis_camarades_collegues_complices_01
+
+Bon nombre de mes amis, de camarades de classes ou de collègues de travail ont accepté d'être les complices des Lystat :
+mentir, manipuler et abuser de la confiance des femmes/adolescentes concernées.
+Souvent les complices masculins ont été des copieurs-profiteurs pour profiter de coucheries avec ces dames, notamment.
+Puis les abuser toujours plus, notamment sexuellement.
+
+C'est le cas par exemple de :
+.Sylvain Murat
+.Sylvestre Antoine
+.Romain Levavasseur
+.Antoine Sarrasin (Amadeus)
+.Mael Rouxel-Labbé
+.Stéphane Thorng
+.Antoine Duong
+.Baptiste Gouesbet
+etc
+
+A chaque endroit où je me suis rendu il y en avait au moins un : Lycée, IUT, UTC, Sud de la France, Smith College, CAPFI, SG, 
+CTIG, Netatmo...
+
+- atk_amis_camarades_collegues_complices_02
+
+Cette accusation concerne aussi :
+.Clément Radolanirina
+.Jionglang Chen
