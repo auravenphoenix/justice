@@ -103,6 +103,12 @@ Les échanges qu'il aura avec eux permettront la voie du dialogue au plus haut s
 Derrière Lionel, il y a la volonté des Lystat.
 Avec cette conversation, Charles et son réseau savent que je suis plutôt incompatible avec leurs pratiques égoïstes.
 
+- atk_mael_abus_01
+
+Mael Rouxel-Labbé a profité, comme d'autres complices des Lystat, a de nombreux abus sur ces femmes.
+Il a abusé sexuellement Vivian et Molly dans le sud.
+Il a abusé sexuellement Emma lorsqu'on participait à l'IMR à Londres.
+
 --------
 
 - atk_mafia_asiatique_aux_arrets_01
