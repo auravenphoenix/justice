@@ -56,6 +56,11 @@ C'était un copieur-profiteur soutenu par le réseau de Charles&co.
 Les parents de cette étudiante, tout comme son frère sont des complices des Lystat.
 Cette famille chinoise a accepté de reconduire leur fille dans les orgies et autres bêtises des Lystat&co.
 
+- atk_traitres_copieurs_profiteurs_03c
+
+Malheureusement, Vivian s'était mariée avec le frangin de cette étudiante chinoise.
+Elle l'a fait car elle a cru les mensonges disant que je m'étais marié avec Megan Mc Gahren.
+
 - atk_traitres_copieurs_profiteurs_04
 
 En Chine, Sylvain Murat a assassiné une personne chinoise; 
@@ -315,3 +320,13 @@ De plus en plus de personnes croient qu'il impossible d'avoir des services corre
 exemple la justice. Ils vont alors préférer faire justice eux-mêmes seul, dans un gang ou une mafia.
 Mafia qui a très bien compris que plus les personnes perdent fois dans les instutions de la cité,
 plus de personnes peuvent basculer de leur côté.
+
+- atk_corruption_au_boulot_01
+
+Claire et Victor Lystat étaient derrière les collègues pour manipuler mon environnement 
+professionnel et me mettre des bâtons dans les roues.
+
+- atk_corruption_au_boulot_02
+
+Par exemple, ce fut le cas chez Netatmo, où Claire poussait Julie Gomez à quelconque mise en scène, 
+  dont le but final était de me faire passer pour un mauvais collègue.
