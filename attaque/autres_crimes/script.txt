@@ -161,11 +161,12 @@ Bon nombre de personnes du milieu politique et intellectuel font le jeu des Lyst
 Certains ont même profité de coucheries avec les Lystat&co ou leur harem.
 
 Parmi ces personnes, on peut retrouver : 
-  .Sarkozy
+  .Nicolas Sarkozy
+  .François Hollande
   .Sandrine Rousseau
   .Jordan Bardella
-  .Dupont-Aignan
-  .Mélenchon
+  .Nicolas Dupont-Aignan
+  .Jean-Luc Mélenchon
   .Marine Lepen
   etc
   .des députés de la nation
@@ -174,3 +175,9 @@ Parmi ces personnes, on peut retrouver :
 
 Laurent Alexandre, complice du réseau de Charles, a bien compris à qui il devait serrer la main, 
   et ce qu'il fallait accepter de dire pour se faire de l'argent facilement.
+
+- atk_autres_crimes__politiques_intellectuels_corrompus_02
+
+Parmi ces personnes, on peut retrouver aussi : 
+  .Alain Juppé
+  .Enrico Letta
