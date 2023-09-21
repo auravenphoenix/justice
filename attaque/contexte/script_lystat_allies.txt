@@ -42,3 +42,12 @@ Les putchistes au Niger sont des complices du réseau du Charles.
 
 Qatar
 Corée du Nord (permie et soutenue par les Lystat au XXè s)
+
+- atk_lystat_pays_allies_02
+
+Voici une autre liste de pays alliés au réseau de Charles et ses complices :
+Bahreïn
+Egypte
+Jordanie
+Maroc
+EAU
