@@ -41,6 +41,12 @@ C'était la dernière fois que nous allions cueillir des jonquilles en forêt.
 
 Morgan aimait les jonquilles.
 
+- atk_croiser_morgan_04
+
+Morganne avait essayé de convaincre Molly sur le visage de Charles qu'elle avait découvert, Molly s'en foutait.
+  Morganne s'est retrouvée seule face à Charles et son réseau.
+  Molly savait que Charles avait tué Morganne.
+
 - atk_maladie_bacterie_virus_01
 
 Il s'agissait ni plus ni moins d'une tentative d'assassinat contre moi.
