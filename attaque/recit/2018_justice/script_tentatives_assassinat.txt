@@ -89,3 +89,8 @@ Ils font croire que personne ne vient me demander quoi que ce soit directement c
 ferait collusion dans l'affaire. Alors que non, on peut très bien interroger des personnes séparemment 
 sans leur faire interpréter les questions ou autres. Le problème est ailleurs.
 
+- atk_tentative_assassinat_kinder_salmonelles_01
+
+Lorsque je travaillais au CTIG, Stéphane Gatine était intermédiaire de Victor et Charles Lystat.
+Stéphane Gatine a accepté de m'assassiner pour le compte des Lystat.
+  Ça tentative était un empoisonnement. Il avait apporté des chocolats kinder infectés de salmonelles.
