@@ -27,7 +27,7 @@ De mon côté, je tente d'élucider cette affaire.
 A défaut de parvenir à me tuer, des corrompus vérifient que je n'interprète pas totalement la vérité dans cette affaire.
 Certaines personnes aimeraient m'aider, mais ils sont contraints par le chantage de personnes influentes.
 
-- jeu_d_ombres_04
+- jeu_d_ombres_04a
 
 Je subis une surveillance de proximité. Celle-ci s'occupe de l'affaire.
 Pourquoi cette surveillance ? Car les personnes impliquées dans cette affaire ne parviennent pas à me tuer.
@@ -47,3 +47,10 @@ Ils ont accès à mes pensées. S'ils voulaient juste mes avis, il n'y aurait pa
     Et si le président de la République était intègre dans cette affaire, il aurait dissolu son gouvernement pour nettoyer les corrompus, etc.
       Or, les mauvais influenceurs sont en copie pour vérifier que je ne parvienne pas à trouver la vérité.
       Donc, Emmanuel Macron lui-même est impliqué dans cette affaire.
+
+- jeu_d_ombres_04b
+
+Plus d'une fois, la surveillance corrompue m'a fait croire que j'avais réunie les conditions pour mettre 
+fin à cette affaire, qu'il n'y aurait plus qu'à patienter. A chaque fois cela était faux, il manque toujours aujourd'hui 
+qlqch à deviner. Plus d'une fois la communication indirecte m'a fait tourné en bourrique.
+Chaque fois c'était un faux-espoir, une grande frustration, décourageante, épuisante.
