@@ -172,3 +172,9 @@ Il crée son propre camp (le soleil d'or) et défend les Lystat et leurs potes d
 
 Le mirmim aura droit à une délicieuse récompense nocturne avec certaines des demoiselles sauvées.
 Bref.
+
+- atk_jdr_gn_wtf_04  #legende
+
+Durant ce GN, une partouze a été organisée avec au moins Charles, Marie, Molly, Philippe.
+Le mirmim s'est battu avec ces messieurs qui ont détourné les règles du jeu (GN), pour abuser salement ces dames.
+En parallèle, le destin a appellé les autorités pour demander une intervention, qui a eu lieu.
