@@ -226,6 +226,11 @@ que je sors avec une autre. Cela dans le but de la faire renoncer bien sûr, et 
 
 Un mirmim apparaîtra pour dénoncer le mensonge et remettre à sa place le(s) profiteur(s) ayant abusé d'Emma.
 
+- atk_usa_01d  #legende
+
+Le mirmim interragit avec Zoé et sa famille durant le voyage à NYC en 2017.
+Le mirmim fait l'amour pour la première fois avec Zoé en 2018.
+
 - atk_usa_02
 
 Deborah, Gus et différents membres de leur famille seront utilisés comme intermédiaires pour l'espionnage des Lystat.
