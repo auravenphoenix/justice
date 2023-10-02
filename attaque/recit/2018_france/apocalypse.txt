@@ -64,7 +64,7 @@ Elle pourra me revoir facilement si elle se marrie avec Benoît.
 
 Emmannuel Macron fait partie des invités, ainsi que d'autres complices.
 
-- atk_marriage_apocalyptique_02
+- atk_marriage_apocalyptique_02a
 
 Un mirmim apparaît alors que tout le monde est au restaurant pour le repas de marriage.
 Son arrivée perturbe fatalement le bon déroulé du festin.
@@ -74,6 +74,15 @@ qui avait encore fait croire que j'étais invité.
 
 Enervée d'avoir été encore manipulée,
 il est hors de question pour Vivian de rester mariée avec Benoît Lystat.
+
+- atk_marriage_apocalyptique_02b
+
+Le mirmim apparaît dans une version très grande (partielle ou totale) lors du mariage.
+  Le but est d'impressionner, d'intimider, pour que les Lystat se rendre compte qu'ils ne font pas le poids 
+  face à cette figure imposante et qu'ils feraient mieux de renoncer.
+
+Les Lystat ne renoncent à rien.
+Alors, les mirmims les confrontent et se batent avec eux et leurs complices.
 
 - atk_marriage_apocalyptique_03
 
@@ -93,6 +102,25 @@ et leur complicité avec les plans des Lystat révélée.
 
 Claire est pointée pour sa complicité dans la manipulation de Vivian&co, 
 en ayant fait croire que je sortais avec elle.
+
+- atk_marriage_apocalyptique_05a
+
+Aucune femme refuse d'arrêter les festivités, etc après ces évènements imprévus.
+Fatalement, les Lystat, leurs complices et les femmes sont abusées sexuellement dans une orgie, au moins le soir 
+en guise de nuit de noce.
+
+Les Lystat, énervés par l'intervention du mirmim, sont particulièrement violents cette fois-là.
+
+- atk_marriage_apocalyptique_05b
+
+Le mirmim apparaît pour dénoncer cette scène style Sodom et Gomorrhe insupportable.
+Molly finit par mourir suite aux actions de ces messieurs, notamment Philippe.
+
+Les forces de l'ordre ont une fois de plus été contactées par le mirmim qui a requis leur intervention.
+En attendant leur arrivée, les mirmims s'opposent aux actions des hommes sur les femmes, 
+et de nouvelles confrontations ont lieu.
+
+Le mirmim ressucitera Molly à la fin de ce périple nocturne.
 
 --------------------------------------------------------------------------------
 
