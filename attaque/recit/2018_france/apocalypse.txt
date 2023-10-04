@@ -122,6 +122,18 @@ et de nouvelles confrontations ont lieu.
 
 Le mirmim ressucitera Molly à la fin de ce périple nocturne.
 
+- atk_marriage_apocalyptique_06a
+
+Etant donnée la gravité de la situation, le mirmim a à nouveau fait appel aux autorités, aux pompiers et aux urgences 
+pour aider lors de cet évènement.
+Les pompiers étaient nécessaire vu que les Lystat&co ont déclenché une bombe qui a déclenché un incendie.
+La bombe et l'incendie avaient pour but de faire disparaître les traces des actions des malfaiteurs.
+
+- atk_marriage_apocalyptique_06b  #legende
+
+Pour gérer la situation dangereuse dans le sous-sol, le mirmim a réalisé une distortion temporelle locale 
+permettant aux victimes d'avoir le temps d'échapper à ce qui les menaçait.
+
 --------------------------------------------------------------------------------
 
 - atk_pre_lune_de_miel_apocalyptique_01
