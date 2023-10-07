@@ -6,13 +6,17 @@ Il a passé du temps avec les femmes de cette histoire et les enfants.
 Il s'est opposé aux Lystat et leur réseau pour mettre un terme à leur impérialisme néfaste pour l'humanité.
 Voici une liste de ses interventions.
 
-- atk_aventures_du_mirmim_02  #legende
+- atk_aventures_du_mirmim_02a  #legende
 
 mirmim joue aux échecs
   Le mirmim s'est amusé a joué aux échecs (et apprendre xD) avec Ambre.
   Le but était évidemment de la séduire.
   Le mirmim a joué aux échecs avec Ambre, des gens à l'extérieur du cercle des Lystat en public.
   Le mirmim n'a pas fait de tournoi.
+
+- atk_aventures_du_mirmim_02b  #legende
+
+Le mirmim a joué aux échecs avec Anna Cramling.
 
 - atk_aventures_du_mirmim_03  #legende
 
@@ -136,3 +140,7 @@ La surveillance provoque ainsi un nouvel épisode, avec des détails, à interpr
     des malfaiteurs, qui devraient faire face à la justice.
 
 (Il serait temps de se bouger le cul à un moment donné, pour arrêter tout ce joli monde !)
+
+- atk_aventures_du_mirmim_15  #legende
+
+Le mirmim a donné des feedbacks sur la série Netflix de One Piece.
