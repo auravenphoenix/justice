@@ -134,6 +134,9 @@ La bombe et l'incendie avaient pour but de faire disparaître les traces des act
 Pour gérer la situation dangereuse dans le sous-sol, le mirmim a réalisé une distortion temporelle locale 
 permettant aux victimes d'avoir le temps d'échapper à ce qui les menaçait.
 
+Il a également utilisé la vibration dans le but de faire vibrer les malfaiteurs à leur fréquence de raisonnance.
+Ces derniers sont alors devenus nauséeux et incapables de luter.
+
 --------------------------------------------------------------------------------
 
 - atk_pre_lune_de_miel_apocalyptique_01
