@@ -402,11 +402,35 @@ Romain Levavasseur est un assassin ou a fait une tentative d'assassinat (en deho
 - atk_assassins_02
 
 Raymond et Fabienne Pellé ont assassiné Thierry, l'oncle de Moranne Jaret.
+Ils sont aussi responsables dans la mort de Lucien Réau et Paulette Pellé.
+
+Les Pellé ont assassiné Thierry, Bonrid et autres car ils avaient peur de ce qu'ils avaient dit.
+Thierry savait que R&F avaient plus d'argent que ce qu'ils racontaient. Catherine Jarret non.
 
 - atk_assassins_03
 
 Sylvestre, Agathe, Romain L, Raymond et Fabienne Pellé (et peut-être d'autres), 
   ont plannifié et réalisé l'assassinat du Dr Bonrid.
+
+- atk_familles_mensonges_01
+
+Raymond, Fabienne et Alexandre Pellé ont fait croire à Vivianne&co qu'ils avaient gagné aux Loto (ou équivalent).
+Bref qu'ils avaient acquis par chance ou honnetement une somme d'argent importante.
+C'est complètement faux. En tout cas, je n'ai jamais été informé d'une telle nouvelle, et je n'ai jamais vu la couleur de cet argent.
+De l'argent, oui ils en ont eu, de la part des Lystat pour les manipuler elles.
+
+C'est indigne quand on pense aux valeurs qu'ils pronaient ("il faut travailler dans la vie..."), 
+et qu'ils ont profité d'évènements(&autres) payés aux frais de la princesse.
+
+- atk_familles_mensonges_02
+
+La famille Pellé en général (Gérard, Philippe, etc) a fait le jeu des Lystat. (tic-cuisine)
+Ils ont suivi les directives et certaines pratiques des Lystat et ils ont plutôt déconné. (tic-cuisine)
+
+- atk_familles_mensonges_03
+
+La famille Réau en général (Alain, etc) a fait le jeu des Lystat. (tic-cuisine)
+Ils ont suivi les directives et certaines pratiques des Lystat et ils ont plutôt déconné. (tic-cuisine)
 
 - atk_bande_de_porcs_01
 
