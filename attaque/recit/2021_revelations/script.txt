@@ -280,6 +280,8 @@ CTIG, Netatmo...
 Cette accusation concerne aussi :
 .Clément Radolanirina
 .Jionglang Chen
+.Emile Gaultier
+.Kévin Wanaverbecq
 
 - atk_corruption_a_netatmo_01
 
