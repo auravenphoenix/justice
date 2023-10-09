@@ -254,6 +254,16 @@ sur les évènements qu'elles ont subis.
 
 xD
 
+- atk_membres_associations_01
+
+Des membres d'associations Véliziennes ont accepté aussi de faire le jeu des Lystat.
+Voire profiter de la machination copieur-profiteur-abuseur des Lystat.
+
+Il y a donc des membres de l'association :
+.d'Aikido Kobudo
+.des Héraults de Vélizy
+.de Si Les Mots Avaient Des Ailes.
+
 - atk_amis_camarades_collegues_complices_01
 
 Bon nombre de mes amis, de camarades de classes ou de collègues de travail ont accepté d'être les complices des Lystat :
