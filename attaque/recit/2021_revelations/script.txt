@@ -745,3 +745,47 @@ Vivianne a mis en danger de mort les enfants avec son comportement égoïste et 
 
 Vivianne (&co?) a une responsabilité dans la mort de Bonrid. (tac)
   (Il ne me semble pas que la mort de Bonrid était dans l'intérêt de la nation ou du monde.)
+
+- atk_vers_un_monde_ou_il_ne_vaut_pas_la_peine_de_vivre_01
+
+Les Lystat n'ont jamais cessé d'oeuvrer pour faire glisser les pays sous leur influence vers un monde toujours plus violent, 
+collant avec la description qu'ils faisaient aux victimes qu'ils souhaitaient contrôler (comme Vivianne).
+
+Ainsi, leur réseau mafieux s'employaient à travers le monde à l'exécution de divers crimes : 
+.l'exécution de Shinzo Abe au Japon.
+.Le meurtre de l'activiste Ryan Carson aux Etats-Unis.
+.Les attentats du Hamas en Israël, meurtriers pour les israeliens et les palestiniens.
+.La mort de Samuel Paty en France.
+.Plus récemment : la mort d'un professeur à Arras à nouveau en France.
+
+Au passage, toutes ces affaires créent un climat angoissant pour tout un chacun.
+
+- atk_vers_un_monde_ou_il_ne_vaut_pas_la_peine_de_vivre_02
+
+S'attaquer à un professeur de lycée à Arras avaient plusieurs objectifs.
+.Décourager les professeurs, affaiblir l'enseignement public.
+  Plus la population est mal instruite, plus l'obscurantisme s'installe, 
+  et plus il est facile de manipuler la population, de la conduire vers la violence...
+.Me menacer tout simplement. Ils veulent indirectement me faire peur de sorte que je renonce à dénoncer l'ensemble de leurs méfaits.
+  Il peuvent toujours attendre.
+  Je préfère risquer ma vie pour améliorer le monde que de vivre sous leur totalitarisme et leur folie, 
+    dans un monde ou il ne vaut pas la peine de vivre.
+
+- atk_vers_un_monde_ou_il_ne_vaut_pas_la_peine_de_vivre_03
+
+Derrière leurs belles promesses, souvent contradictoires, 
+  les Lystat promettent un monde où s'imposera leur suprématie par la technologie.
+Ils investissent grandement dans l'IA, les systèmes de surveillance par caméra, le transhumanisme.
+  Ils ont réussi à cacher à la face du monde, les avancées technologiques qu'ils ont fait dans ces domaines et qui n'ont aucune 
+  légitimité, et qui menacent le monde, car aucun cadre sain ne limite la recherche de ces nouveaux outils développés.
+
+Leur réseau utilise tout son poids pour imposer l'arrivée de ces technologies, les présenter comme inévitables dans les médias.
+  Triste et honteux discours fataliste, dépourvu d'appel démocratique pour endiguer les vagues annoncées.
+
+- atk_vers_un_monde_ou_il_ne_vaut_pas_la_peine_de_vivre_04
+
+Ils se font de l'argent de bien des manières sur le dos des populations.
+Par exemple, c'est le cas avec le soutien financier à de grands groupes pharmaceutiques.
+  Ils se sont bien engraissés avec le covid-19.
+
+La crise énergétique européenne a été une aubaine pour eux également.
