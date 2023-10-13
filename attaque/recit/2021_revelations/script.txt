@@ -725,3 +725,23 @@ Ainsi, le plan de Molly tombe à l'eau.
 
 Molly use de son influence pour ralentir la mise en location de mon bien immobilier à Plaisir.
 J'en ai assez, cela doit cesser.
+
+- atk_vivianne_double_personnalite_01
+
+Vivianne a fini par développé une 2nde personnalité nommée Anne.
+Là où sa première personnalité est compatible avec les Lystat, leur idées mafieuses et leur façon vivre, 
+Anne, à l'opposé, est compatible avec la société normale (imparfaite sans doute), mais bien plus bienveillante 
+et moins violente que ce que les Lystat font croire à Vivianne.
+
+- atk_vivianne_double_jeu_01
+
+En 2022, Vivianne a corrompu le(s) juge(s) pour conserver la garde des enfants.
+Les enfants sont restés dans son influence et comme elle ne se protège pas, elle les a exposé aux dangers de son quotidien à elle.
+
+Résulat des courses, les enfants ont subi l'ignoble vengeance de Victor en Janvier 2023.
+Vivianne a mis en danger de mort les enfants avec son comportement égoïste et ces décisions mafieuses à l'époque.
+
+- atk_vivianne_double_jeu_02
+
+Vivianne (&co?) a une responsabilité dans la mort de Bonrid. (tac)
+  (Il ne me semble pas que la mort de Bonrid était dans l'intérêt de la nation ou du monde.)
