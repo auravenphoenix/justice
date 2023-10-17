@@ -340,11 +340,18 @@ CTIG, Netatmo...
 - atk_amis_camarades_collegues_complices_02
 
 Cette accusation concerne aussi :
-.Clément Radolanirina
-.Jionglang Chen
-.Emile Gaultier
-.Kévin Wanaverbecq
-.Florian de chez Netatmo
+  CTIG:
+    .Kévin Wanaverbecq
+  Netatmo:
+    .Clément Radolanirina
+    .Jionglang Chen
+    .Emile Gaultier
+    .Florian Dubois
+    .Vincent Monestiez
+    .Pablo
+    .Wallen
+    .Rani
+    .Guillaume
 
 - atk_amis_camarades_collegues_complices_03
 
@@ -746,7 +753,7 @@ Vivianne a mis en danger de mort les enfants avec son comportement égoïste et 
 Vivianne (&co?) a une responsabilité dans la mort de Bonrid. (tac)
   (Il ne me semble pas que la mort de Bonrid était dans l'intérêt de la nation ou du monde.)
 
-- atk_vers_un_monde_ou_il_ne_vaut_pas_la_peine_de_vivre_01
+- atk_vers_un_monde_ou_il_ne_vaut_pas_la_peine_de_vivre_01a
 
 Les Lystat n'ont jamais cessé d'oeuvrer pour faire glisser les pays sous leur influence vers un monde toujours plus violent, 
 collant avec la description qu'ils faisaient aux victimes qu'ils souhaitaient contrôler (comme Vivianne).
@@ -759,6 +766,11 @@ Ainsi, leur réseau mafieux s'employaient à travers le monde à l'exécution de
 .Plus récemment : la mort d'un professeur à Arras à nouveau en France.
 
 Au passage, toutes ces affaires créent un climat angoissant pour tout un chacun.
+
+- atk_vers_un_monde_ou_il_ne_vaut_pas_la_peine_de_vivre_01b
+
+Nicolas Lystat, toujours en vie, est celui qui recevait le flux d'information de Vivianne après la mort de Victor.
+  Nicolas est responsable de l'attaque du Hamas ces derniers jours.
 
 - atk_vers_un_monde_ou_il_ne_vaut_pas_la_peine_de_vivre_02
 
