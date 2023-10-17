@@ -753,6 +753,17 @@ Vivianne a mis en danger de mort les enfants avec son comportement égoïste et 
 Vivianne (&co?) a une responsabilité dans la mort de Bonrid. (tac)
   (Il ne me semble pas que la mort de Bonrid était dans l'intérêt de la nation ou du monde.)
 
+- atk_vivianne_double_jeu_03
+
+Vivianne a été complice de plusieurs actes visant à perturber mon quotidien et à m'empêcher de progresser correctement 
+  dans cette affaire.
+Ainsi, elle s'est faite complice des Lystat en leur fournissant, encore en 2023, des informations qu'elle aurait dû gardé
+  confidentielles ne serait-ce qu'aux yeux des Lystat et de leur réseau.
+  Elle a brisé la confiance qu'on lui avait accordée.
+
+Elle est aussi complice des Lystat dans:
+.la modification de mots de passe de mes comptes, notamment mon compte gmail principal.
+
 - atk_vers_un_monde_ou_il_ne_vaut_pas_la_peine_de_vivre_01a
 
 Les Lystat n'ont jamais cessé d'oeuvrer pour faire glisser les pays sous leur influence vers un monde toujours plus violent, 
