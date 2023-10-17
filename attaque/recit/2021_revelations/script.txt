@@ -189,6 +189,23 @@ Une femme est décapitée durant l'intervention. L'auteur de ce crime est Felix 
 La femme est heureusement ressucitée par le mirmim à la fin.
 (C'est d'ailleurs sa seule intervention dans cet épisode.)
 
+- atk_traitres_copieurs_profiteurs_09d
+
+Cet évènement continue à l'extérieur de l'hôtel.
+Une course poursuite à lieu dans la ville autour de l'hotel.
+En effet, les malfaiteurs poursuivent les femmes (Vivianne&co) et les enfants avec 
+des armes à feu dans les rues chinoises.
+Les femmes et les enfants succombent aux attaques qu'ils subissent.
+
+Le mirmim apparaît et calme le jeu en appliquant la loi du talion sur les malfaiteurs.
+Il utilise Kyriele sur Victor, Sylvain Murat, Felix, Nicolas (Lystat), le frere de l'étudiante chinoise...
+Le but est de leur faire ressentir et saisir l'horreur de ce qu'ils font subir aux autres.
+
+Ensuite, le mirmim ressucite femmes, enfants et malfaiteurs.
+
+Malheureusement, les femmes sont retournées dans les bras de Victor même après cela.
+C'est minimum irresponsable à l'égard des enfants.
+
 - atk_traitres_copieurs_profiteurs_10
 
 Après les évènements de Juin 2021, Victor Lystat tirent les ficelles et manipulent ces dames.
