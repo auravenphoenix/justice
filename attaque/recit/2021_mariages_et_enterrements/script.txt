@@ -344,12 +344,20 @@ Diviser pour mieux régner. Et mieux les manipuler pour les conduire à ce qu'il
 
 Des révélations bien douloureuses et difficiles à digérer pour chacune.
 
-- atk_assassinat_juin_01
+- atk_assassinat_juin_01a
 
 Romain Lystat, l'homme noir qui a essayé de violé Vivian, était chargé de me tuer après la fin 
 de la surveillance programmée fin juin 2021.
 Il était complice du mensonge de ma mort bien sûr.
 Emmanuel Macron était évidemment complice dans ce projet d'assassinat.
+
+- atk_assassinat_juin_01b
+
+Romain Lystat voulait me tuer, mais il en a été empêché.
+Il a alors décidé de s'en prendre à Vivianne.
+Il se rend là où elle se trouve et déclenche les hostilités.
+Vivianne meurt suite aux tirs de Romain.
+Le mirmim apparaît pour le neutraliser.
 
 - atk_assassinat_juin_02  #legende
 
