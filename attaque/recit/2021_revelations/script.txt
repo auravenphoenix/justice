@@ -206,6 +206,12 @@ Ensuite, le mirmim ressucite femmes, enfants et malfaiteurs.
 Malheureusement, les femmes sont retournées dans les bras de Victor même après cela.
 C'est minimum irresponsable à l'égard des enfants.
 
+- atk_traitres_copieurs_profiteurs_09e
+
+Victor (et malheureusement peut-être d'autres) ont pu échapper à la justice en Chine, 
+car des personnes (justice ou judiciaire) ont été corrompus.
+Ils ont alors pu échapper à la prison tranquillement.
+
 - atk_traitres_copieurs_profiteurs_10
 
 Après les évènements de Juin 2021, Victor Lystat tirent les ficelles et manipulent ces dames.
@@ -533,6 +539,21 @@ Thierry savait que R&F avaient plus d'argent que ce qu'ils racontaient. Catherin
 
 Sylvestre, Agathe, Romain L, Raymond et Fabienne Pellé (et peut-être d'autres), 
   ont plannifié et réalisé l'assassinat du Dr Bonrid.
+
+- atk_assassins_04a
+
+Même après Février 2023, Marie continuait de me considérer comme responsable de l'évènement.
+Elle ne voulait rien entendre.
+  Elle ne voulait pas reconnaître ses tords dans cette histoire.
+  Plus facile de croire que c'est la faute de quelqu'un d'autre.
+Ainsi, elle est celle qui a permis à Rani de faire sa tentative d'assassinat contre moi. (clin d'oeil empoisonnement 15 ans.)
+  Elle a encouragé Molly dans sa folle entreprise qui lui permettrait d'avoir plus d'attention de ma part au détriment de Vivianne ou autre.
+
+- atk_assassins_04b
+
+Charles et Marie ont pu compter sur la complicité d'un agent de la surveillance qu'ils ont réussi à corrompre.
+Ainsi, ils ont pu obtenir des informations sur moi et manipuler mon entourage direct pour essayer de perturber mon quotidien, 
+voire attenter contre mon intégrité physique et mentale.
 
 - atk_familles_mensonges_01
 
