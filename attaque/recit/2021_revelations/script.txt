@@ -415,7 +415,7 @@ Cette accusation concerne aussi :
     .Rani
     .Guillaume
 
-- atk_amis_camarades_collegues_complices_03
+- atk_amis_camarades_collegues_complices_03a
 
 Même après Janvier 2023, moment de bascule pour Vivianne et d'autres, Emile Gaultier a continué d'être l'intermédiaire de Victor Lystat 
 et de jouer son jeu. Ce dernier avait persuadé Emile qu'il parviendrait peut-être à séduire Emma plus que moi notamment en misant 
@@ -440,6 +440,10 @@ En parlant de compassion, tu n'en as vraiment aucune envers mes enfants qui souh
 Juste parce que les Lystat on flatté ton intelligence, 
 t'es vraiment une personne qui cherche à priver des enfants de leur père ? 
 Comme tu m'avais sorti une fois, "T'as rien compris !".
+
+- atk_amis_camarades_collegues_complices_03b
+
+Émile a profité du télétravail pour jouer à des jeux avec les femmes de cette affaire.
 
 - atk_amis_camarades_collegues_complices_04
 
