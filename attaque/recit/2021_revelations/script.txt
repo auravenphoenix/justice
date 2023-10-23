@@ -805,6 +805,14 @@ Fort heureusement, le travail de Vivianne porte ses fruits.
 Elle décide de prendre de la distance avec Emile et de ne plus le cotoyer.
 Ainsi, le plan de Molly tombe à l'eau.
 
+- atk_molly_jalouse_03c
+
+Emile et un complice à lui ont profité du fait que Vivianne fasse des crises d'epilepsie pour la violer. (tac)
+  Durant le viol, Emile a frappée Vivianne. (tac)
+
+(Il s'est vraiment comporté comme un porc. (tic-cuisine)
+Triste de voir quelqu'un d'intellectuel et de si posé, tomber aussi bas. tac)
+
 - atk_molly_frein_location_01
 
 Molly use de son influence pour ralentir la mise en location de mon bien immobilier à Plaisir.
