@@ -991,3 +991,32 @@ Lystat voulaient leur faire avaler. Cela et bien sûr les faire adhèrer plus fa
 
 Par exemple, c'est le cas de Vivianne, Molly, de plusieurs actrices, victimes dans cette affaire.
 (Ce n'est pas le cas de Zoé et Megan.)
+
+- atk_loc_plaisir_construction_01
+
+A la livraison de mon logement à Plaisir, une partie mansardée, non prévue sur les plans d'orgine, a été constatée.
+(Cela engendre une perte d'espace lorsque l'on applique la loi Carrez.
+C'est une partie du logement qui offre moins de possibilités d'aménagements.)
+De ce défaut de construction, E&D est responsable.
+Eux-mêmes ont suivi les directives de Taoufik, qui a lui même été complice de Molly sur ce point.
+Cette dernière a été influencée par Marie Lystat.
+
+- atk_loc_plaisir_syndic_01
+
+Le syndicat actuel de la résidence de mon logement à Plaisir se trouve être complice de Molly et donc des Lystat.
+Ces derniers ont appliqué une influence dans la communication du syndic.
+Ainsi, je n'ai pas eu facilement les informations pour payer les charges de copropriétés.
+Cela a bien failli me mettre en difficultés lorsque l'on a fini par m'envoyer une demande de paiement le plus tôt possible.
+
+- atk_loc_plaisir_amel_taleb_01
+
+Pour la mise en location de mon logement à Plaisir, Amel Taleb a fait le jeu de Molly et dons des Lystat.
+Elle a suivi les directives/conseils de Molly pour freiner la mise en location du bien.
+- Me demander des ajouts assez facultatifs pour le logement. Ce qui repousse la mise en location.
+- Un absence de réponse à mes demandes écrites de rdv. Il fallait que j'appelle pour que cela avance.
+- Une absence de document dans la liste des docs à fournir. Ceci a été utilisé comme prétexte pour 
+ne pas établir de rdv pour la signature du mandat.
+- Une absence de réponse à mes emails sur la location (impossible d'avoir l'annonce réalisée).
+- Une absence de réponse à mes appels sur la location (impossible de savoir où cela en est).
+- L'annonce n'a été mise que sur un seul site d'annonce.
+- Des potentiels locataires ont été refusés sans véritable raison.
