@@ -1028,3 +1028,114 @@ et replongent dans les pratiques mafieuses.
 Molly n'a jamais eu l'intention d'abandonner la façon de vivre des Lystat, de mettre fin à l'empire créé, 
 malgré la nombreuse liste d'arguments que j'ai pu faire sur les sujets de la mafia et de la démocratie, 
 et malgré les fois où les Lystat ont mis sa vie et son intégrité physique en danger, ou celles de ses enfants et petits-enfants.
+
+#!>
+- atk_molly_lystat_01
+
+Molly a bien réussi à me berner pendant des mois, des années, grâce à la complicité de corrompus de la surveillance comme Rob.
+
+- atk_lionel_mafieux_01a
+
+Lionel fait partie des complices ayant abusé sexuellement des femmes sans retenue.
+Ses pratiques, tortures sexuelles violentes, ont fini par tuer Gabrielle.
+
+- atk_lionel_mafieux_01b  #legende
+
+Un mirmim est apparu pour appliquer la loi du talion sur Lionel.
+Ce mirmim a donc tué Lionel De Sequeira.
+Gabrielle a été ressucitée, libérée et soignée par le mirmim.
+Lionel De Sequeira a lui aussi été ressucité par le mirmim.
+
+- atk_lionel_mafieux_02  #legende
+
+Lionel organise une soirée raclette chez lui.
+C'est un rendez-vous piège. Les femmes, dont Vivianne, sont invitées en leur faisant croire 
+que je le suis aussi, alors que non. Un mirmim apparait.
+La soirée dégénère après un échange verbal entre le mirmim et Lionel.
+Le mirmim évite ainsi à Vivianne ou autre de tomber dans le piège de Lionel.
+Ce dernier a perdu un échange physique qu'il a eu avec le mirmim, 
+échange physique qu'il avait initié suite à l'échange verbal.
+
+- atk_emma_lystat_01
+
+La machination des Pellé et des Lystat a porté ses fruits : 
+Dans ses jeunes années, Emma a fini par voir en Alexandre Pellé une exception bienveillante 
+dans un monde de violences qu'elle a subies.
+Ajouté à cela un peu de copie, et Emma fini par être éprise d'Alexandre.
+Il devient ainsi un complice-gardien(chasse gardée) pour Victor Lystat, 
+et profite alors d'une relation partielle avec elle.
+
+Emma m'aimait et elle utilisait Océane Chevreuil comme intermédiaire.
+Elle ne venait pas me voir, car Victor Lystat ne voulait pas.
+Emma a fait quelques rêves à mon sujet ayant entretenu un peu la flamme, 
+  mais elle a fini par préférer Alexandre au bout d'un moment, 
+  avec qui elle a entretenu donc une relation partielle depuis ce jour.
+
+- atk_emma_lystat_02a
+
+Emma ne se préoccupait pas plus de moi que ça. (tic-écran)
+Sur le plan intellectuel, je me défends, mais sur le plan physique je ne suis pas à son goût.
+
+Etant soumise aux Lystat, elle appliquait leurs plans.
+  L'un des buts est de faire en sorte que ça casse entre moi et Vivianne/Anne.
+
+Ainsi, l'un des plans des Lystat qu'elle a mis a exécution a été de faire concurrence à Vivianne, 
+  et donc de faire croire qu'elle avait envie d'avoir une relation avec moi.
+Elle a joué la comédie en ce sens, et elle a donc menti à beaucoup de monde t beaucoup de fois.
+
+- atk_emma_lystat_02b
+
+Emma a osé manipuler mes sentiments depuis 2019 en utilisant la communication indirecte. 
+Ça la faisait chier d'être obligée de jouer la comédie, plutôt que de se comporter normalement.
+Elle le faisait pour protéger les malfaiteurs desquels elle était éprise (et auxquels elle était soumise).
+Elle a donc cherché à protéger ses intérêts, à couvrir des malfaiteurs pour lesquels elle a toujours refusé de porter plainte.
+  Quand bien même, elle était parfaitement au courant de leurs abus sur des femmes.
+  Pas très digne de son titre d'Ambassadrice de bonne volonté pour l'égalité H/F.
+
+- atk_emma_lystat_03a
+
+Dans l'intérêt des Lystat, elle a donc accepté de me faire croire qu'elle était attirée par moi à partir de 2019, 
+  et elle a accepté le plan des Lystat ayant pour but de faire croire à Vivianne/Anne que je ne voulais être qu'avec 
+  qu'une seule femme et que je l'avais choisie plutôt que Vivianne.
+Le but étant de jeter ensuite Vivianne dans les bras de son frère Alex Watson.
+  Dans l'espoir que Vivianne finisse par renoncer à moi, etc.
+
+- atk_emma_lystat_03b
+
+Emma a participé de participer à ce plan de pousser Vivianne dans les bras d'un autre pour qu'elle renonce à moi.
+Elle a donc continué de jouer la comédie.
+Ce fut particulièrement le cas, lorsque Vivianne essaya de se venger en lui faisant croire que j'étais mort.
+
+Emma a pleuré ma mort en 2021, mais en réalité elle ne s'en préoccupait pas plus que ça. (tic-écran)
+  Mais jouer le jeu forçait Vivianne à fréquenter un nouveau copain devant elle. 
+  Et bien sûr, celui choisi à l'époque n'était autre qu'Alex Watson.
+  Vivianne a ainsi été conduite à aller jusqu'au bout de sa mise en scène en se mariant avec le frère d'Emma.
+
+- atk_emma_lystat_04
+
+Emma serait tombée enceinte sur la demande des Lystat (tic-écran).
+
+- atk_emma_lystat_05a
+
+Je n'étais pas à son goût.
+Pas à la hauteur de Victor, Alexandre ou je ne sais qui.
+
+Cette affaire lui a permis de découvrir les mensonges des Lystat, d'Alexandre Pellé 
+qui s'est montré bien fourbe et qui s'est montré meilleur qu'il ne l'était sur le plan intellectuel.
+Au final, des gens à l'opposé de la sincérité, la créativité et les intérêts qu'ils présentaient.
+  Bref pas authentique, non sincère et bienveillant avec elle.
+
+- atk_emma_lystat_05b
+
+Ainsi, à part sur le plan physique, ce sont de bien laids manipulateurs (allant jusqu'à la considérer comme une agréable poupée), 
+  à l'opposé de ce qu'elle recherchait.
+Surtout, que ces messieurs lui ont fait bien du mal, les Lystat, dont Victor en premier, et que ce n'est pas des complices 
+  comme Alexandre qui l'ont protégée du danger.
+
+Malheureusement, malgré les souffrance subies et ces découvertes faites depuis un bon moment à présent, 
+  Emma est restée accrochée à ce genre de personnages en acceptant de manipuler mes sentiments, et en essayant de les couvrir, 
+    et de cacher le fait qu'elle a continué une relation avec eux (notamment Alexandre Pellé).
+  Elle s'est retrouvée aussi laide qu'eux, et loin de ce dont elle pouvait espérer comme personne à fréquenter. S'en rend-elle compte ? 
+  Ainsi, Emma a besoin d'être isolé de ces manipulateurs, et d'une aide psychologique pour éviter 
+    qu'elle soit à nouveau le jouet de ces messieurs subissant leurs envies (parfois violentes),
+    et de ne plus être un danger pour elle-même et pour d'autres.
