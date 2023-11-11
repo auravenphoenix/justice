@@ -1029,31 +1029,29 @@ Molly n'a jamais eu l'intention d'abandonner la façon de vivre des Lystat, de m
 malgré la nombreuse liste d'arguments que j'ai pu faire sur les sujets de la mafia et de la démocratie, 
 et malgré les fois où les Lystat ont mis sa vie et son intégrité physique en danger, ou celles de ses enfants et petits-enfants.
 
-#!>
 - atk_molly_lystat_01
 
 Molly a bien réussi à me berner pendant des mois, des années, grâce à la complicité de corrompus de la surveillance comme Rob.
 
 - atk_lionel_mafieux_01a
 
-Lionel fait partie des complices ayant abusé sexuellement des femmes sans retenue.
-Ses pratiques, tortures sexuelles violentes, ont fini par tuer Gabrielle.
+Lionel De Sequeira fait partie des complices ayant abusé sexuellement des femmes sans retenue, au moins en 2018.
+Ses pratiques, dont des tortures sexuelles violentes, ont fini par tuer Gabrielle.
 
 - atk_lionel_mafieux_01b  #legende
 
-Un mirmim est apparu pour appliquer la loi du talion sur Lionel.
-Ce mirmim a donc tué Lionel De Sequeira.
+Un mirmim est apparu pour appliquer la loi du talion contre Lionel, le conduisant à sa mort.
 Gabrielle a été ressucitée, libérée et soignée par le mirmim.
 Lionel De Sequeira a lui aussi été ressucité par le mirmim.
 
 - atk_lionel_mafieux_02  #legende
 
-Lionel organise une soirée raclette chez lui.
+En 2018, Lionel organise une soirée raclette chez lui.
 C'est un rendez-vous piège. Les femmes, dont Vivianne, sont invitées en leur faisant croire 
 que je le suis aussi, alors que non. Un mirmim apparait.
 La soirée dégénère après un échange verbal entre le mirmim et Lionel.
 Le mirmim évite ainsi à Vivianne ou autre de tomber dans le piège de Lionel.
-Ce dernier a perdu un échange physique qu'il a eu avec le mirmim, 
+Ce dernier a perdu lors d'un échange physique qui a eu lieu avec le mirmim, 
 échange physique qu'il avait initié suite à l'échange verbal.
 
 - atk_emma_lystat_01
@@ -1094,26 +1092,28 @@ Elle a donc cherché à protéger ses intérêts, à couvrir des malfaiteurs pou
 
 - atk_emma_lystat_03a
 
-Dans l'intérêt des Lystat, elle a donc accepté de me faire croire qu'elle était attirée par moi à partir de 2019, 
-  et elle a accepté le plan des Lystat ayant pour but de faire croire à Vivianne/Anne que je ne voulais être qu'avec 
+Dans l'intérêt des Lystat, Emma a donc accepté de me faire croire qu'elle était attirée par moi à partir de 2019.
+  Elle a accepté le plan des Lystat ayant pour but de faire croire à Vivianne/Anne que je ne voulais être qu'avec 
   qu'une seule femme et que je l'avais choisie plutôt que Vivianne.
 Le but étant de jeter ensuite Vivianne dans les bras de son frère Alex Watson.
   Dans l'espoir que Vivianne finisse par renoncer à moi, etc.
 
 - atk_emma_lystat_03b
 
-Emma a participé de participer à ce plan de pousser Vivianne dans les bras d'un autre pour qu'elle renonce à moi.
+Emma a accepté de participer à ce plan de pousser Vivianne dans les bras d'un autre pour qu'elle renonce à moi.
 Elle a donc continué de jouer la comédie.
-Ce fut particulièrement le cas, lorsque Vivianne essaya de se venger en lui faisant croire que j'étais mort.
+Ce fut particulièrement le cas, lorsque Vivianne essaya de se venger du plan précédemment cité,
+ en lui faisant croire que j'étais mort.
 
 Emma a pleuré ma mort en 2021, mais en réalité elle ne s'en préoccupait pas plus que ça. (tic-écran)
-  Mais jouer le jeu forçait Vivianne à fréquenter un nouveau copain devant elle. 
+  Mais pourquoi jouer ce jeu ? Car cela forçait Vivianne à fréquenter un nouveau copain devant elle. 
   Et bien sûr, celui choisi à l'époque n'était autre qu'Alex Watson.
   Vivianne a ainsi été conduite à aller jusqu'au bout de sa mise en scène en se mariant avec le frère d'Emma.
 
 - atk_emma_lystat_04
 
 Emma serait tombée enceinte sur la demande des Lystat (tic-écran).
+  Elle a osé me faire croire que j'étais le père d'au moins l'un de ses enfants alors que ce n'est pas le cas.
 
 - atk_emma_lystat_05a
 
