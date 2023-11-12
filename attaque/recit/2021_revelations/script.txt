@@ -1107,6 +1107,21 @@ Le mirmim évite ainsi à Vivianne ou autre de tomber dans le piège de Lionel.
 Ce dernier a perdu lors d'un échange physique qui a eu lieu avec le mirmim, 
 échange physique qu'il avait initié suite à l'échange verbal.
 
+- atk_lionel_mafieux_03a
+
+Lionel De Sequeira s'est fait agent de corruption des Lystat et de leur réseau.
+Il est allé en Chine pour continuer de profiter des orgies avec les femmes et autres avantages.
+Il était absent lors de l'opération d'arrestation par les autorités chinoises, 
+ce qui fait qu'il n'y a pas été emprisonné.
+
+- atk_lionel_mafieux_03b
+
+Lionel a fait de la corruption en France,
+  avec l'argent du réseau des Lystat,
+  et/ou en couchant avec des femmes.
+
+Il a tué d'autres personnes que Gabrielle.
+
 - atk_emma_lystat_01
 
 La machination des Pellé et des Lystat a porté ses fruits : 
