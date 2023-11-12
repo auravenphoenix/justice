@@ -1151,3 +1151,7 @@ Les enfants de Vivianne, Emma, etc ont été mal éduqués.
   Les garçons suivent tristement le même chemin que leurs pères. (grossier, etc)
   Les Lystat et/ou leurs complices s'en sont pris aux filles en très bas âge. tic-cuisine
     (harcèlement, voire attouchements sexuels.)
+
+- atk_lystat_nouvelle_generation_02
+
+Parmi Vivianne&co, au moins Molly s'est montrée trop autoritaire avec les enfants.
