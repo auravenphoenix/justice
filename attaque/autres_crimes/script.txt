@@ -89,6 +89,12 @@ Ainsi, ils ont fait assassiner :
 .Coluche
 .Eli Kakou
 
+- atk_autres_crimes__assassinats_02
+
+Les gens qui ne se plient pas aux Lystat&co sont tués. Ce fut le cas pour :
+.Gaspard Ulliel
+.Kazuki Takahashi
+
 - atk_autres_crimes__explosions_beyrouth_01
 
 Charles et son réseau sont responsables des explosions ayant eu lieu dans le port de Beyrouth en 2020.
