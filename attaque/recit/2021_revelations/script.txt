@@ -1140,6 +1140,14 @@ Malheureusement, malgré les souffrance subies et ces découvertes faites depuis
     qu'elle soit à nouveau le jouet de ces messieurs subissant leurs envies (parfois violentes),
     et de ne plus être un danger pour elle-même et pour d'autres.
 
+- atk_emma_lystat_06
+
+Emma a un problème d'alcoolisme.
+  Alexandre Pellé et autres complices sont au courant et en ont profité.
+  Alexandre Pellé a profité du problème d'alcool d'Emma, au moins une fois. 
+  Au passage, le fait que je ne sois pas un grand buveur de spiritueux faisait 
+    aussi que je n'intéressais pas Emma plus que ça. 
+
 - atk_lystat_nouvelle_generation_01
 
 Les enfants de Vivianne, Emma, etc ont été mal éduqués.
