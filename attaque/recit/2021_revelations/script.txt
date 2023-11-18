@@ -399,7 +399,7 @@ etc
 A chaque endroit où je me suis rendu il y en avait au moins un : Lycée, IUT, UTC, Sud de la France, Smith College, CAPFI, SG, 
 CTIG, Netatmo...
 
-- atk_amis_camarades_collegues_complices_02
+- atk_amis_camarades_collegues_complices_02a
 
 Cette accusation concerne aussi :
   CTIG:
@@ -414,6 +414,19 @@ Cette accusation concerne aussi :
     .Wallen
     .Rani
     .Guillaume
+    .Vincent Gonin
+    .Elias
+
+- atk_amis_camarades_collegues_complices_02b
+
+Parmis ces collègues complices des Lystat et de leur réseau, certains ont profité régulièrement d'activités 
+avec les femmes du réseau des Lystat:
+.(Vivi)Anne s'est entraînée à l'escrime GN avec Emile.
+.Il y a eu des escape games.
+...
+
+Le but étant de trouver un complice-gardien pour chacune, surtout pour (Vivi)Anne qui menace les Lystat de révéler 
+leurs méfaits aux autorités.
 
 - atk_amis_camarades_collegues_complices_03a
 
@@ -768,7 +781,7 @@ et être traduit en justice pour exploitation de la faiblesse d'une personne et 
 Ils ont également joué les copieurs-profiteurs, en reprenant des parties de mon histoire personnelle par exemple, 
 mes idées, mes réalisations, etc. Bref, la stratégie de séduction débile des Lystat pour sympathiser avec leurs proies.
 
-- atk_dictateur_dictateur_et_demi_04
+- atk_dictateur_dictateur_et_demi_04a
 
 Parmi ces complices des Lystat, on retrouve des Youtubers, dont voici quelques noms:
 
@@ -777,6 +790,18 @@ Parmi ces complices des Lystat, on retrouve des Youtubers, dont voici quelques n
 - Léo Grasset de la chaîne Dirtybiology.
 - Louis-San de la chaîne Louis-San.
 - Charles Gave.
+
+- atk_dictateur_dictateur_et_demi_04b
+
+Pour éviter qu'ils ne m'aident trop, Vivianne&co ont cherché à mettre le grappin sur Kytaro, Kamalthero, ...
+  Leur stratégie : faire croire que j'étais mort en 2021...
+Les Lystat se sont assurés d'avoir vraiment la main sur eux (trop risqué par rapport à Anne).
+  Ils leur ont dit que je n'étais pas mort.
+  Ils leur ont proposé la manipulation de ces femmes en échange du surpaiement, qu'ils ont accepté.
+  Ce deal a été accepté avant de rencontrer physiquement Vivianne&co.
+Des femmes comme des hommes, ils ont reçu mes idées...
+Certains Youtubers sont dans l'hypocrisie, le déni. tic-cuisine
+  Bref, ils essayent juste de sauver leur peau. tic-cuisine
 
 - atk_molly_jalouse_01
 
@@ -1026,6 +1051,32 @@ ne pas établir de rdv pour la signature du mandat.
 - L'annonce n'a été mise que sur un seul site d'annonce.
 - Des potentiels locataires ont été refusés sans véritable raison.
 
+- atk_chine_orgie_incendiaire_01a
+
+Alors que Vivianne&co sont en Chine, une nouvelle orgie est organisée.
+Charles et Marie sont présents.
+(Ce qui assez surprenant. Ils auraient réussi à échapper à la surveillance en France, malgré les méfaits qu'ils ont causés...)
+Lionel est présent à cette sauterie.
+Il va trop loin dans les pratiques sexuelles, qui sont évidemment violentes.
+Par conséquent, Claire finit par succomber à ce qu'il lui fait subir.
+Molly et d'autres victimes subissent à nouveau des violences.
+Parmi les pratiques faites sur les corps des femmes, des accessoires flamboyant (bougie) ou de la cire chaude sont utilisés.
+Un accident conduit à un incendie.
+
+- atk_chine_orgie_incendiaire_01b  #legende
+
+Un mirmim est apparu. Il a condamné l'orgie et ses pratiquants.
+Il a aidé face à l'incendie.
+Une bagarre a eu lieu entre le mirmim et les Lystat&co.
+Il a ressucité les victimes.
+
+- atk_chine_orgie_incendiaire_01c
+
+(Charles et Marie n'ont rien reproché à Lionel pour avoir tué leur fille, etc.
+Surprenant de la part de personnes qui ont cru que leur fils de 10 ans avait 
+une responsabilité dans l'accident ayant fait perdre à Marie son enfant à naître, il y a des années, 
+et contre qui ils en ont voulu...)
+
 - atk_juin_2023_01
 
 En juin 2023, Molly met en place un plan, pour que Anne (Vivianne), et peut-être d'autres qui sont tentées de quitter leur sordide réseau,
@@ -1068,7 +1119,7 @@ Le mirmim fait des révélations qui font péter un câble à Molly.
   Du coup, Molly se lance dans une folle vengeance. Le mirmim lui applique la loi du talion et Molly succombe face à Kyriele.
   Le mirmim ressucite les morts.
 
-- atk_juin_2023_04  #legende
+- atk_juin_2023_04a  #legende
 
 En représailles à la vengeance de Molly, Marie a déclenché une ou des bombes dans une stratégie de terre brûlée.
   Il y eut des blessées et des morts parmi les femmes, dont Molly et Vivianne.
@@ -1077,10 +1128,28 @@ En conséquence, le mirmim a fait brûler la demeure des Lystat.
   Sa stratégie de la terre brulée a pour but d'être sûr que ce lieu n'abrite plus les réunions sordides et criminelles des Lystat&co.
   (Parce qu'après Juin 2021 et Juin 2023, y'en a assez !)
 
+- atk_juin_2023_04b  #legende
+
+L'explosion(s) a engendré un éboulement.
+Ce qui a accru les dégâts, les menaces et les conséquences physiques sur les personnes présentes sur les lieux.
+
 - atk_juin_2023_05
 
 De nouveau, pompiers et policiers sont appelés sur place pour gérer la situation,
 et relever faits et témoignages de cet évènement.
+
+- atk_juin_2023_06
+
+A nouveau, les malfaiteurs ont conduit les femmes à se marier avec un Lystat ou un complice-gardien.
+Tom Felton avec Vivianne, ...
+
+Le but du mariage est de pouvoir plus facilement contrôler la personne et l'abuser avec moins de risques d'impunité.
+
+- atk_juin_2023_07
+
+Parmi les personnes invitées chez les Lystat, il y avait:
+.Tom Felton
+.Daniel Radcliffe
 
 - atk_molly_lystat_01
 
