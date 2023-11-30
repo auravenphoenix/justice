@@ -417,6 +417,12 @@ Cette accusation concerne aussi :
     .Vincent Gonin
     .Elias
 
+- atk_amis_camarades_collegues_complices_02aa
+
+Cette accusation concerne aussi :
+  Elitys:
+    .Rodolphe Vienco
+
 - atk_amis_camarades_collegues_complices_02b
 
 Parmis ces collègues complices des Lystat et de leur réseau, certains ont profité régulièrement d'activités 
@@ -492,6 +498,17 @@ C'est via Claire que Rani a reçu la demande de m'empoisonner au travail.
 Émile a fait partie de ceux ayant couché avec Claire même en 2023.
 L'un de ses objectifs était clairement de voir de qu'elle femme soumise 
   du réseau des Lystat il allait pouvoir être le compagnon.
+
+- atk_amis_camarades_collegues_complices_05c
+
+Emile fait croire qu'il ne boit pas d'alcool, alors que c'est tout le contraire.
+
+- atk_amis_camarades_collegues_complices_05d
+
+Pour essayer de bien se faire voir auprès de ces dames, Emile a fait croire qu'il était le développeur ayant 
+réalisé le module Plugin chez Netatmo, alors que c'est moi (les commit le prouve).
+C'est au cours d'une de nos discussions qu'il dit ne pas voir comment faire pour faire un chargement dynamique d'une 
+fonctionnalité. Je lui explique qu'il suffit de faire des plugins et que je sais comment faire.
 
 - atk_corruption_a_netatmo_01
 
@@ -875,6 +892,14 @@ Emile et un complice à lui ont profité du fait que Vivianne fasse des crises d
 
 (Il s'est vraiment comporté comme un porc. (tic-cuisine)
 Triste de voir quelqu'un d'intellectuel et de si posé, tomber aussi bas. tac)
+
+- atk_molly_jalouse_03d
+
+Emile a essayé de profiter d'une autre femme (soumise du réseau) lors de ce GN, 
+  vu que ça n'avait pas marché avec Vivianne.
+Ainsi, il a essayé de violer Gabrielle du Smith College.
+Un mirmim est aussi intervenu pour l'en empêcher.
+  A l'issue d'une altercation, entre le mirmim et Emile, ce dernier renonce.
 
 - atk_molly_frein_location_01
 
