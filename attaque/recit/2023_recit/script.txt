@@ -83,7 +83,7 @@ Les personnes souhaitant s'opposer et dénoncer les Lystat se retrouvent être l
 Heureusement, la volonté qui dirige les mirmims aide et soutienne celles et ceux réclamant justice, 
 qui font leur possible pour briser le plafond de verre et faire éclater la vérité à la lumière.
 
-- atk_recit__resume_05a  #legende
+- atk_recit__resume_04a  #legende
 
 Plusieurs femmes apprécient la compagnie du mirmim et sa fréquentation.
 Mais elles ne sont pas pour autant prêtes à renoncer à la façon de vivre des Lystat.
@@ -101,7 +101,7 @@ Ainsi, les Lystat s'acharneront à des batailles perdues d'avance contre le mirm
   mais surtout à faire en sorte que ces femmes renoncent à sortir avec moi, 
   et à se liguer contre eux.
 
-- atk_recit__resume_05b  #legende
+- atk_recit__resume_04b  #legende
 
 Il faut ainsi comprendre que toutes les autres femmes vicimes des Lystat sont restées 
 à leurs côtés à mener leur plan pour que les choses restent ainsi, malgré tous les méfaits 
@@ -110,16 +110,19 @@ L'emprise et les menaces des Lystat n'excusant plus rien au bout d'un moment.
 
 Célèbre ou pas célèbre, 
 prétendant m'aimer ou non, 
-ces femmes complices ont accepté de miser sur les Lystat plutôt que sur la vertue et la justice.
+ces femmes complices ont accepté de miser sur les Lystat plutôt que sur la vertue, la justice et 
+  une volonté bienveillante qui les a bien souvent protégées, soignées et ressucitées.
 
-- atk_recit__resume_06  #legende
+- atk_recit__resume_05a
 
 Cela fait bien des années que les femmes sont au courant de comportements innaceptables et monstrueux fait par les Lystat.
 Tout d'abord, le parasitage économique pratiqué depuis des années.
 2015~ fermer les yeux sur les gestes pédophiles contre leurs propres enfants.
-2018 orgie violente sur orgie violente
-  meurtres
-fin 2018 Une grande révélation est faite dénonçant les méfaits des Lystat, la manipulation des femmes concernées, etc.
+2018 
+  Il y a eu l'organisation d'orgies violentes sur orgies violentes.
+  Ils ont commis des meurtres
+fin 2018 
+  Une grande révélation est faite dénonçant les méfaits des Lystat, la manipulation des femmes concernées, etc.
   Il est attendu d'elles une prise de conscience, et une résolution à faire tomber les Lystat et leur réseau.
   Malheureusement, la prise de conscience ne se fera que pour Anne et Chloé.
 2019
@@ -127,7 +130,10 @@ fin 2018 Une grande révélation est faite dénonçant les méfaits des Lystat, 
   Les corrompus dans la surveillance font bien trainer l'affaire et prennent des décisions incohérentes ne serait ce que la 
     protection des victimes.
   Femmes et agents corrompus n'espèrent qu'une chose que je commette un faux pas, ou bien que je renonce à retrouver Vivianne 
-    et comprendre pourquoi une surveillance me concernant, dont je sens la présence.
+    et comprendre pourquoi il y a une surveillance me concernant, dont je sens la présence.
+
+- atk_recit__resume_05b
+
 2021
   La corruption de la surveillance fait que les Lystat et leurs complices jouissent non seulement d'une impunité 
     mais aussi d'une liberté dans leurs actions. Ce qui leur permet de continuer de tirer les ficelles du monde.
@@ -141,3 +147,36 @@ fin 2018 Une grande révélation est faite dénonçant les méfaits des Lystat, 
   Les Lystat ont assassiné plusieurs femmes victimes (complices ou non), ainsi que les enfants qu'elles ont eu avec eux
     (donc la potentielle nouvelle génération de Lystat).
   Malgré tout cela, aucune autre femme ne semble vouloir rejoindre Anne et Chloé dans la dénonciation des Lystat.
+
+- atk_recit__manipulactrice_01  #legende
+
+Le cas d'Emma Watson.
+
+Jusque dans les années 2010, je n'étais pas intéressé par elle particulièrement.
+Je n'ai jamais eu de critique pour ou contre elle.
+
+Elle n'était pas intéressé par moi. Je n'étais pas à son goût (en tout cas pas entièrement), 
+elle avait d'autres hommes qui correspondaient mieux à la compagnie qu'elle souhaitait.
+Comme d'autres stars, elle pouvait se retrouvée enquiquinée par des curieux (des paparazis).
+  Elle aspirait à une discrétion de sa vie privée, et elle ne voulait certainement pas d'un fan qui lui colle après.
+
+Néanmoins, elle a fait tout son possible pour créer ce fan trop collant en attirant mon attention indirectement.
+Pour que j'interprète que je pouvais lui plaire.
+Que l'idée d'être avec elle me plaise.
+Cela en restant bien à l'écart d'une rencontre concrète,
+  et en continuant par contre de fréquenter mon frère Alexandre, 
+  qu'elle prenait pour ce qu'il n'était pas.
+Elle a également fait son possible pour que des femmes souhaitant sincèrement me voir, 
+  soient à l'écart de moi.
+Tout cela car elle suivait les plans des Lystat à qui elle obéissait.
+  Tristement ironique pour quelqu'un qui se fait le fer de lance de l'égalité homme-femme à travers le monde.
+
+Sa manipulation est odieuse.
+Et elle peut avoir honte d'avoir manipulé ainsi les sentiments d'une personne qui ne lui avait rien de demandé, 
+  qui pour une fois ne l'avait pas harcelé.
+Honte en pensant à toutes celles et ceux qui suivent ces discours sur l'égalité des genres.
+
+- atk_recit__manipulactrice_02  #legende
+
+Ce résumé sur Emma n'est qu'un cas illustrant le comportement de différentes actrices ayant sciemment 
+  choisi de protéger les Lystat.
