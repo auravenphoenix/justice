@@ -184,7 +184,7 @@ pour faire pression sur moi.
 
 Bref, la fin justifie les moyens pour ne pas se faire prendre, quite à mettre le monde sans dessus dessous.
 
-- atk_recit__manipulactrice_01  #legende
+- atk_recit__manipulactrice_01a  #legende
 
 Le cas d'Emma Watson.
 
@@ -366,3 +366,12 @@ Donc le gars, c'est très bien que je ne suis pas un sale type, mais essaye de m
 Aussi, il n'a pas le choix, les Lystat demandent. Il est pieds et poings liés. 
 Il a bien compris qu'il n'avait pas intérêt à ce que Vivianne me retrouve, qu'elle continue de collaborer avec la surveillance 
 de bonne volonté.
+
+- atk_recit__molly_gouts_et_loisirs_01
+
+Molly est fan de rugby et elle aime bien les animaux.
+
+- atk_recit__2018_taoufik_cpa_01
+
+En 2018, Taoufik avait joué les CPA sur Vivianne.
+Un mirmim était apparu en réponse, pour l'arrêter et le faire payer.
