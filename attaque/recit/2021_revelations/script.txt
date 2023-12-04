@@ -897,8 +897,8 @@ Ainsi, le plan de Molly tombe à l'eau.
 
 - atk_molly_jalouse_03c
 
-Emile et un complice à lui ont profité du fait que Vivianne fasse des crises d'epilepsie pour la violer. (tac)
-  Durant le viol, Emile a frappée Vivianne. (tac)
+Emile et un complice à lui ont profité du fait que Vivianne fasse des crises d'epilepsie pour essayer de la violer. (tac)
+  Durant sa tentative Emile a frappé Vivianne. (tac)
 
 (Il s'est vraiment comporté comme un porc. (tic-cuisine)
 Triste de voir quelqu'un d'intellectuel et de si posé, tomber aussi bas. tac)
@@ -910,6 +910,10 @@ Emile a essayé de profiter d'une autre femme (soumise du réseau) lors de ce GN
 Ainsi, il a essayé de violer Gabrielle du Smith College.
 Un mirmim est aussi intervenu pour l'en empêcher.
   A l'issue d'une altercation, entre le mirmim et Emile, ce dernier renonce.
+
+- atk_molly_jalouse_03e
+
+Pablo, de chez Netatmo, est le complice qui a aidé Emile a essayer de la violer.
 
 - atk_molly_frein_location_01
 
