@@ -55,6 +55,12 @@ Charles n'a pas toléré sa rebellion.
 A la mort de sa soeur, Molly reste fidèle à Charles, Philippe et leur empire.
 Elle ne suit pas sa soeur, et ne cherche pas à rendre justice contre ses assassins qu'elle sait être Charles&co.
 
+- atk_recit__resume_03aa
+
+Philippe est responsable des harcèlements et viols que Molly a subi étant jeune par des délinquants.
+  Il dirigeait les opérations.
+Molly en est ressortie avec au moins un handicap physique.
+
 - atk_recit__resume_03b
 
 Molly a fait des études de business notamment.
@@ -375,3 +381,88 @@ Molly est fan de rugby et elle aime bien les animaux.
 
 En 2018, Taoufik avait joué les CPA sur Vivianne.
 Un mirmim était apparu en réponse, pour l'arrêter et le faire payer.
+
+- atk_recit__philippe_endoctrine_comme_les_autres_01
+
+Philippe était rentré au service des Lystat il y a longtemps.
+  C'est ainsi qu'il a connu Charles et que leur histoire a commencé.
+Les Lystat ont toujours eu des intentions pédophiles et ont pratiqué des actes pédophiles sur des enfants.
+  Romain, fils de Philippe et Marie, a participé aussi à ce genre de pratiques.
+
+Philippe avait lui-même subi des actes pédophiles étant enfant.
+  Il a compris qu'il avait lui aussi subi le schéma d'élevage des Lystat,
+  qui conduit a vouloir se faire justice soi-même, et qu'il n'y aurait que comme ça qu'on peut avoir une vraie justice.
+
+- atk_recit__mauvais_managers_01
+
+Une entreprise d'informatique a été créée, basée sur mes idées et mes réalisations, sans mon autorisation.
+Molly, Vivianne et d'autres femmes complices ont monté cette entreprise.
+Elles ont en plus embauché des hommes que je n'aurais jamais embauché pour travailler avec les équipes 
+sur les différents projets. Par exemple: Sylvestre Antoine, Lionel De Sequeira, Antoine Duong.
+Après tout ce que j'ai pu dire sur Antoine Duong et Lionel De Sequeira, je ne comprends pas comment des 
+personnes ont pu laissé ces individus participer à une entreprise qui serait une surprise pour moi.
+Deviner que ces individus antipathiques travaillaient sur mes idées, avec des personnes que j'avais envie de revoir, 
+  relevait plus du cauchemar de mon point de vue.
+Par conséquent, voir ces types comme des collaborateurs professionnels étaient un signal d'alarme !
+Le pire étant que ces charognards avaient un poste de manager.
+
+Certains de ces hommes étaient de mauvais développeurs C++ : Sylvestre Antoine n'a pas fait 
+de C++ depuis des années, et Lionel De Sequeira encore moins.
+
+- atk_recit__mauvais_managers_02a
+
+Antoine Duong s'est fait passé pour l'auteur d'une partie d'arba ou cmtk, ou équivalent.
+Comme d'autres, il s'est comporté en mauvais manager en prenant exemple sur Victor Lystat.
+Ce type avait été manager à la Société Générale, donc il savait un minimum ce qu'était le management.
+Simplement, les Lystat demandent, ils exécutent.
+Les Lystat demandaient un management brutal:
+  toujours dans la logique d'un monde violent.
+  parce qu'ils ne savent pas eux-mêmes bien manager.
+Ce management concernait les équipes françaises comme étrangères, dont chinoises.
+Antoine Duong a fait partie des corrompus suivant les femmes envoyées en Chine 
+  et qui ont essayé de corrompre au maximum les personnes influentes chinoises.  
+
+- atk_recit__mauvais_managers_02b
+
+Antoine Duong a été méprisant, désagréable et insultant.
+On peut dire qu'il a fait du harcèlement au travail, dont du harcèlement physique.
+C'était déjà un mec méprisant avant les Lystat.
+En gros, lui et les Lystat se sont bien trouvés.
+
+- atk_recit__mauvais_managers_03
+
+Il y a les Lystat et les personnes compatibles avec eux.
+Ensemble, ils finissent par bien se trouver.
+C'est à cause de cet archetype d'individus que les Lystat ont toujours trouver de bons petits lieutenants 
+pour les suivent et porter leur idéologie et leurs détestables pratiques.
+
+- atk_recit__mauvais_managers_04
+
+Comme dit précédemment, Sylvestre Antoine a travaillé dans cette entreprise.
+Il y a travaillé en tant que manager, alors qu'il a laissé le C++ derrière lui depuis bien longtemps.
+Il a bien sûr mis en oeuvre le management à la Lystat, avec harcèlement physique en prime.
+
+- atk_recit__mauvais_managers_05
+
+Lionel De Sequeira a travaillé aussi dans cette entreprise.
+Il y a travaillé en tant que manager, alors que le C++ n'a jamais vraiment été une corde de son arc.
+Il a bien sûr mis en oeuvre le management à la Lystat, avec harcèlement physique en prime.
+
+- atk_recit__mauvais_managers_06
+
+Romain Levavasseur a travaillé comme traducteur dans cette entreprise.
+  Il a lui aussi fait preuve d'harcèlement physique en son sein.
+
+- atk_recit__mauvais_managers_07
+
+Dans cette entreprise, la misogynie était de mise.
+Par exemple, les hommes n'hésitaient pas être méprisant et rabaissant envers (Vivi)Anne.
+  Une manière de plus pour lui mettre la pression sur les épaules et essayer de la contrôler, la faire renoncer, etc.
+
+- atk_recit__chaine_manipulatrice_01
+
+Marie a influencé Molly, Claire, etc.
+Molly influençait Ambre, etc. Elle influençait aussi Vivianne comme elle pouvait.
+
+Claire a bien souvent était celle qui sudoyait les collègues de faire ceci ou cela contre moi.
+Par exemple c'est Claire qui a demandé à Rani de tenter de m'assassiner avec du poison.
