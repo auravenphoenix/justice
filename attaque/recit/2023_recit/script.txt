@@ -466,3 +466,48 @@ Molly influençait Ambre, etc. Elle influençait aussi Vivianne comme elle pouva
 
 Claire a bien souvent était celle qui sudoyait les collègues de faire ceci ou cela contre moi.
 Par exemple c'est Claire qui a demandé à Rani de tenter de m'assassiner avec du poison.
+
+- atk_recit__collegues_cpa_01
+
+D'autres collègues de travail ayant cédé aux tentations des Lystat:
+.Edouard (Netatmo)
+.Pierre (Netatmo)
+.Pierre Ferte (Elitys)
+  Claire a été l'une de ses tentatrices.
+  Il était prévu qu'il me mette des batons dans les roues pour l'entretien annuel avec Elitys en 2023.
+    L'un des objectifs: m'empêcher d'avoir une augmentation. Toujours dans l'esprit d'essayer de me mettre à genou financièrement.
+
+- atk_recit__rob_agent_corrompu_01
+
+Rob est un des agents corrompus de la surveillance qui a eu un rôle important dans cette affaire.
+En résumé, c'est un élément important ayant perturbé pas mal la bonne progression de cette affaire, 
+  et qui a permis aux Lystat et leur réseau une liberté d'action qu'il n'aurait pas dû avoir.
+Il a aussi une responsabilité dans l'exploitation des femmes plutôt que dans leur protection dans cette affaire.
+
+- atk_recit__rob_agent_corrompu_02
+
+Rob est de ceux ayant essayé de me mettre des batons dans les roues au travail.
+Il a abusé les femmes complices de cette affaire : comme par exemple Vivianne et Molly.
+
+- atk_recit__coucheries_01
+
+Différents collègues ont couché avec Vivianne, Emma, Claire, Molly, etc.
+
+- atk_recit__chloe_nicolas_lystat_01
+
+Nicolas Lystat joue les copieurs-profiteurs avec Chloé au moins en 2018.
+Il parvient à la séduire et l'abuser.
+Il l'abusera sexuellement.
+Comme les autres femmes en 2018, Chloé se fait manipuler par Nicolas Lystat.
+Elle subit les horreurs du week-end du 03-04 novembre 2018.
+Chloé était sensé se marier avec Nicolas Lystat le 01 décembre 2018 en même temps que Benoît, etc.
+L'intervention du mirmim a tout changé pour Chloé, qui a rompu avec Nicolas 
+et a cherché à se prémunir des Lystat à partir de ce moment.
+
+- atk_recit__manipulation_pro_01
+
+On m'a manipulé pour me faire louper la soirée de Noël Elitys en 2022.
+
+- atk_recit__choc_frontal_sequelles_01
+
+A la suite du choc frontal avec Andy il y a des années, Molly a eu un nouvel handicap.
