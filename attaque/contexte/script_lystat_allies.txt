@@ -39,6 +39,11 @@ Evgueni Prigojine déstabilisateur ayant entretenu les conflits entre la Russie 
 
 Les putchistes au Niger sont des complices du réseau du Charles.
 
+- atk_lystat_allies_05
+
+Voici d'autres alliés contribuant à la domination des Lystat et leur corruption:
+.Geert Wilders, homme politique néerlandais.
+
 - atk_lystat_pays_allies_01
 
 Qatar
