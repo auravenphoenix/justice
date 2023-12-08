@@ -504,6 +504,13 @@ Chloé était sensé se marier avec Nicolas Lystat le 01 décembre 2018 en même
 L'intervention du mirmim a tout changé pour Chloé, qui a rompu avec Nicolas 
 et a cherché à se prémunir des Lystat à partir de ce moment.
 
+- atk_recit__chloe_nicolas_lystat_02
+
+Nicolas s'en était pris violemment à Chloé.
+Il avait fini par la tuer.
+Le mirmim est intervenu pour appliquer la loi du talion.
+Chloé puis Nicolas ont été ressucités par le mirmim.
+
 - atk_recit__manipulation_pro_01
 
 On m'a manipulé pour me faire louper la soirée de Noël Elitys en 2022.
@@ -511,3 +518,77 @@ On m'a manipulé pour me faire louper la soirée de Noël Elitys en 2022.
 - atk_recit__choc_frontal_sequelles_01
 
 A la suite du choc frontal avec Andy il y a des années, Molly a eu un nouvel handicap.
+
+- atk_recit__molly_subie_inceste_01
+
+Molly a été violée par son père.
+Son psy, à l'époque, était un corrompu du réseau de Charles.
+  Il ne disait pas que c'était anormal comme relation, et il ne condamnait pas ce qu'elle a subi.
+
+- atk_recit__conflit_avec_surveillance_corrompus_01a
+
+La surveillance a essayé de me faire croire que personne ne veut me revoir (ni femme, ni enfant).
+
+- atk_recit__conflit_avec_surveillance_corrompus_01b
+
+La surveillance continue de manipuler mon quotidien de manière négative pour des raisons présentées comme louables ou pas.
+Elle continue de me mettre des batons dans les roues avec la mise en location de mon bien.
+Elle continue d'essayer d'atteindre mes finances. (nouveau prélèvement)
+Elle continue de laisser les politiques dire/faire n'importe quoi.
+  Exemple: Joe Biden critiquant Xi Jingping.
+  Si la surveillance (us) était vraiment purgée, elle n'aurait pas laissé Joe Biden dire cela.
+    C'était pour que je devine les manipulations des Lystat et de leur réseau sur la maison blanche ? 
+    Argument ridicule. Tu ne pourris pas les relations entre puissances économiques majeures qui ont des effets 
+    néfastes sur la population de ton pays, juste pour faire comprendre une mauvaise influence à UNE personne logeant 
+    en France. Tu trouves un autre moyen pour le faire comprendre, et au pire les Etats-Unis sont assez grand 
+    pour faire des reproches à ce réseau mafieux directement, et ils peuvent parler avec les pays en coulisse 
+    pour leur expliquer les couac dans leurs relations (ça s'appelle la diplomatie). Ils n'ont pas besoin 
+    d'un gars et de ses vidéos pour cela.
+  La surveillance (us) n'a donc aucune excuse pour laisser ce genre d'indicents médiatiques se laisser produire.
+Elle continue d'essayer de me faire croire que personne ne voudrait me revoir. (Ce qui est faux de mon interprétation personnel.)
+
+- atk_recit__conflit_avec_surveillance_corrompus_02  #legende
+
+Zoé n'est pas la réincarnation de Morganne.
+J'ai pourtant prévenu que c'était déconseillé de se prendre pour une main du destin.
+Ce mensonge vient du réseau de Charles, dont la surveillance corrompue.
+
+- atk_recit__zoe_endoctrinee_01
+
+Il y a plusieurs années, Zoé a été droguée et alcoolisée pour mieux l'abuser. Et ça a marché, elle a préféré avec ces imbéciles.
+
+Ses parents sont complices du coup.
+(Parce que quand on laisse sa fille mineure avec des zigotos comme les Lystat...)
+
+- atk_recit__gaetan_michaud_complice_01
+
+Gaetan (Netatmo) a été un CPA avec une femme travaillant sur les projets arba (ou équivalent).
+Il l'a séduite en faisant croire qu'il avait fait un code dont je suis l'auteur.
+
+- atk_recit__gaetan_michaud_complice_02
+
+Gaetan (Netatmo) a fait croire qu'il avait débloqué JLink, plutôt que moi, alors qu'il n'avait jamais vu le code lui-même.
+
+- atk_recit__faux_messies_01
+
+La surveillance corrompue a utilisé mes propos pour créer des messages "prophétiques" pour manipuler les croyants à travers le monde, 
+et conduire des populations dans une mauvaise direction.
+
+- atk_recit__faux_messies_02
+
+Il y a des complices qui ont le plus grand des culots en se faisant passer pour le messie auprès de croyants.
+C'est une mise en scène des Lystat dont ils acceptent la proposition.  ((oO  y'en qui n'ont pas froid aux yeux.))
+
+C'est le cas de Lionel de Sequeira, qui s'est fait passé pour le messie en 2022.
+Il a convaincu en parlant de la vache rousse en reprenant ma blague (la 'vache qui rit'), 
+  et mon interpréation sérieuse l'origine de la lettre A symbole de taureau.
+Le destin s'est manifesté et a épinglé Lionel, notamment en montrant que son explication sérieuse était incomplète.
+  (De mon côté, je n'ai compris que la seconde partie, l'adjectif rousse, la couleur rouge qu'en 2023.)
+
+Ce qu'il a dit n'était pas forcément faux, mais le fait que lui et ses complices en profitent pour conduire les croyants 
+à comettre des actes qu'ils n'auraient pas dû faire, ça ne passe pas.
+  Le mirmim s'est manifesté pour lui ordonner d'arrêter cette odieuse manipulation.
+    Excusez du peu, mais avec leurs manipulations y'a eu des drames, des morts, ex: israel-gaza.
+    Le mirmim a dénoncé "publiquement" ces conneries auprès des croyants qui se sont chargés de lui faire payer.
+Le mirmim a appelé les autorités pour que Lionel soit arrêté, ce qui a été fait.
+Sa manipulation lui a vallu l'ire des croyants qui lui ont fait payé physiquement.
