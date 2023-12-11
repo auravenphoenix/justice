@@ -774,3 +774,33 @@ Des ambulances et les autorités sont appelées sur place.
   Le mirmim finira par ressuciter les malfaiteurs.
 Chloé et les enfants se téléportent chez eux le plus tôt possible pour trouver refuge.
 Mais, Charles ne compte pas mettre fin à sa traque si facilement.
+
+- atk_recit__traque_incessante_05  #legende
+
+Charles et ses complices traquent Chloé et les enfants même chez eux.
+  Ils mènent l'assaut sur la demeure qui est alors saccagée. Chloé et les enfants sont tués à nouveau.
+  Le mirmim les ressucitent. Lui et Chloé mènent tout de suite la contre-attaque.
+  Le mirmim fait s'abattre sa faux et les 72, tandis que Chloé utilise ses pouvoirs pour rendre
+    les coups des assaillants, équipés d'armes à feu.
+
+Charles et leurs complices sont blessés.
+Le mirmim les tue toujours dans l'esprit de la loi du talion...
+  Charles a été blessé par Kyriele, fini avec sa faux, avant d'être ressucité, une fois de plus.
+  Après cela, cette crapule a été téléportée sans papiers et sans téléphone ailleurs.
+    Livré à lui-même, il devait demander à autrui de l'aide pour rentrer chez lui.
+
+Des brûlures et autres blessures n'ont pas été soignées par le mirmim.
+Les coups portés par Chloé, donc non donnés par le mirmim, n'ont pas été soignés.  ((faut pas rêver.))
+(les gens assuments leurs actions: les assaillants comme Chloé.
+ La seule limitation étant que le destin ne laissera jamais un coup injuste être porté par magie ou avec un artefact.)
+
+- atk_recit__traque_incessante_06  #legende
+
+Impossible pour Chloé et les enfants de rester au village que Charles a bien sous contrôle.
+Elle et les enfants sont obligés de déménager à l'improviste donc.
+
+Mais où aller ? Toute la France est sous l'influence des Lystat.
+Toute peut-être pas. Il existe en Bretagne un lieu parfait pour se réfugier.
+Le mirmim décide de les téléporter chez ma grand-mère biologique.
+La maison est très isolée. C'est un avantage pour Chloé et les enfants, car le mirmim peut les 
+  protéger avec la magie facilement et discrètement surtout.
