@@ -804,3 +804,21 @@ Toute peut-être pas. Il existe en Bretagne un lieu parfait pour se réfugier.
 Le mirmim décide de les téléporter chez ma grand-mère biologique.
 La maison est très isolée. C'est un avantage pour Chloé et les enfants, car le mirmim peut les 
   protéger avec la magie facilement et discrètement surtout.
+
+- atk_recit__secte_lystat_01  #legende
+
+Bien avant que je ne devine le destin à l'automne 2021, le mirmim était apparu dans le village 
+auprès des personnes concernées, pour spécifier qu'il ne fallait pas construire de bâtiments de culte, 
+le destin n'en veut pas.
+
+- atk_recit__secte_lystat_02  #legende
+
+Malgré l'interdiction du destin via le mirmim, Charles et ses complices ont ordonné la poursuite de la 
+construction d'un temple dans le village.
+
+Après avoir fait explosé un restaurant dans le village, un lieu de vie et de partage, 
+après avoir traqué vivement Chloé et les enfants, les conduisant à fuir leur lieu de vie,
+  le destin a manifesté sa colère.
+
+Un mirmim est apparu sur le chantier du temple en construction.
+  Il s'est transformé en phénix. L'oiseau flamboyant a alors réduit en cendres le lieu de culte indésiré.
