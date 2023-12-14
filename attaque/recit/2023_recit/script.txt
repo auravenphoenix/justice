@@ -822,3 +822,67 @@ après avoir traqué vivement Chloé et les enfants, les conduisant à fuir leur
 
 Un mirmim est apparu sur le chantier du temple en construction.
   Il s'est transformé en phénix. L'oiseau flamboyant a alors réduit en cendres le lieu de culte indésiré.
+
+- atk_recit__traque_incessante_07a #legende
+
+Evidemment, les Lystat et leur réseau ont cherché et trouvé où Chloé et les enfants étaient.
+  Ils voulaient attaquer la demeure en Bretagne, mais comme le mirmim protégeait les lieux,
+    ils ont dû plannifier un assaut important.
+  Parmi les assaillants se trouvent des personnes qui avaient déjà croisé le feu avec le mirmim.
+    Ces derniers n'ont pas accepté leur défaite et surtout ils sont résolus à ne pas admettre leurs erreurs.
+Insupportable acharnement aveugle mené par Charles, Philippe et co.
+
+Il est temps de mettre fin à cette guerre acharnée contre ma famille.
+  Il est temps d'arrêter de croire qu'ils finiront par comprendre par l'expérience que la réaction du destin sera 
+    autant inexorable que leur action sera impériale/despotique.
+    Fini donc d'attendre une reddition pacifique de leur part.
+  De leur côté, il est temps qu'ils comprennent que la pression psychologique et la stratégie de l'usure de fonctionnera pas.
+    Ils tomberont avant.
+    Il est temps qu'ils comprennent que s'ils sont vraiment dans une traque incessante, la plus grande des mesures sera prise contre eux.
+Par conséquent, le mirmim a mis en garde les assaillants. 
+Ceux qui mèneront bataille contre eux périreront et ne se relèveront pas.
+
+- atk_recit__traque_incessante_07b  #legende
+
+Charles et Philippe faisaient partie des assaillants.
+Dès le début, histoire de couper court, le mirmim les a vaincus très rapidement avec Kyriele.
+Fini de faire dans la dentelle et de laisser le temps de faire comprendre.
+S'ils ont toujours pas compris tant pis pour eux.
+
+- atk_recit__traque_incessante_07c  #legende
+
+Pour cette bataille, des engins militaires ont été utilisés tels que des hélicoptères et/ou des tanks.
+Du côté du mirmim, les formes animales ont été déployées pour faire face à ce calibre d'ennemis.
+Ainsi, le phénix s'est déployé sans retenue.
+Il a réalisé une grande boule de feu, une technique connue du réseau des Lystat depuis décembre 2018.
+  Cette boule de feu a balayé le champs de bataille aérien et terrestre.
+
+Cette bataille lancée par Charles et ses complices a tourné au massacre pour eux.
+
+- atk_recit__traque_incessante_07d  #legende
+
+La bataille a lieu aussi au sein de la demeure de Bretagne.
+A l'intérieur, Vivianne attaque ma grand-mère et les enfants.
+
+Comment cela a pu arriver ? 
+Anne s'était présentée chez ma grand-mère en se présentant de leur côté.
+En réalité, Anne a cru les mensonges des Lystat, notamment sa mère, qui leur avait dit que si 
+  elle parvenait à tuer les enfants, etc, 
+  ils la laisseraient sortir avec moi.
+
+Ainsi, Anne étaient venus avec ses enfants pour demander la protection du mirmim.
+Il s'agissait en fait d'une inflitration. Anne avait accepté de prendre de faux médicaments, 
+laissant Vivianne prendre le contrôle et tuer ses cibles.
+
+- atk_recit__traque_incessante_07e  #legende
+
+Cerbère et Fenrir se sont manifestés en réponse à l'assaut de Vivianne. 
+Sans hésitation, ils ont attaqué Vivianne jusqu'à ce que mort s'en suive.
+Anne a été ressucitée à la fin.
+Les personnes victimes de l'assaut de Vivianne ont été soignées et ressucitées également.
+
+- atk_recit__traque_incessante_08  #legende
+
+Dans cette traque incessante, d'autres femmes opposées aux Lystta, comme Chloé, ont été pourchassées.
+.Rose
+.Gabriel
