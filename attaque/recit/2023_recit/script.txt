@@ -883,6 +883,66 @@ Les personnes victimes de l'assaut de Vivianne ont été soignées et ressucité
 
 - atk_recit__traque_incessante_08  #legende
 
-Dans cette traque incessante, d'autres femmes opposées aux Lystta, comme Chloé, ont été pourchassées.
+Dans cette traque incessante, d'autres femmes opposées aux Lystat, comme Chloé, ont été pourchassées.
 .Rose
 .Gabriel
+.Korra
+
+- atk_recit__assassinat_de_noel_01  #legende
+
+Le 08 décembre 2018, Charles, Philippe et leurs complices prévoient de m'assassiner.
+  J'allais sur Orléans ce jour là. (J'y ai effectué des achats de Noël et j'ai discuté 
+    un peu avec les gilets jaunes faisant une manifestation à Place d'Arc.)
+  Il était prévu que Philippe utilise une arme à feu longue portée pour m'abattre.
+  Beaucoup de complices étaient au courant de ce projet d'assassinat : 
+    les Pellé, des "amis" dont Maud Pelin par exemple, etc.
+  Molly était complice aussi de cette opération des Lystat.
+
+Le mirmim s'est manifesté pour faire avorter leur tentative.
+  Il s'est battu avec Philippe&co. Le mirmim a utilisé Kyriele dans l'esprit de la loi du talion.
+  Puis, il les a ressucité.
+Les autorités ont été convoquées sur place par le mirmim.
+
+- atk_recit__sea_sex_and_drugs_and_cigarettes_01
+
+Les Lystat étaient des consommateurs d'alcool déraisonnables. 
+Ils fumaient et consommaient de la drogue.
+
+Ils ont fait en sorte que les femmes qu'ils souhaitaient contrôler tombent aussi dans leurs travers.
+Par exemple, Vivianne et Emma fument des cigarettes.
+Emma a un problème avec l'alcool.
+
+Ces traits étaient utilisés pour argumenter qu'elles n'étaient pas compatibles avec moi, etc.
+
+- atk_recit__2018_raclette_chez_lionel_01  #legende
+
+En 2018, Lionel de Sequeira organise une soirée raclette chez lui.
+  Aux femmes, il fait croire que je suis invité.
+  Vivianne et d'autres sont manipulées par ce mensonge.
+  Etant donné que Lionel a dit que j'étais invité, 
+    le mirmim se permet une apparition chez lui lors de la dite soirée.
+  Au programme, raclette, jeux vidéo dont Mario Kart, etc.
+  La soirée dégénère lorsque le mirmim fait une révélation sur l'absence de Gabriel 
+    à cette soirée, et pourquoi elle n'est plus avec Lionel.
+    En gros, Gabriel n'est pas satisfaite de Lionel dans leur relation, dans l'intime y compris.
+  Les autorités sont appelées sur place par le mirmim.
+  Le plan de Lionel consistant à trouver une nouvelle femme à abuser dans son lit 
+    a ainsi été déjoué par le mirmim.
+
+- atk_recit__russes_corrompus_01
+
+Des russes corrompus ont profité du harem des Lystat en 2018, notamment le 05 décembre 2018.
+
+- atk_recit__excommunicado_01  #legende
+
+Après la bataille en Bretagne, le mirmim est apparu auprès de Molly.
+  Utiliser Vivianne, sa fille, aussi vilement et sournoisement a particulièrement déplu au destin.
+
+Le mirmim a retiré à Molly son collier avec une croix chrétienne et lui a fait la morale,
+  à peu près en ces termes :
+  "J'en ai assez que tu te pavannes avec des symboles avec lesquels tu n'es pas en accord, 
+    avec lesquels ton mode de vie est en contradiction."
+
+La manipulation de Molly avait conduit à l'exécution de personnes innocentes dont mes enfants par Vivianne.
+Pour lui faire comprendre ce qu'elle avait déchainé, le mirmim a blessé Molly jusqu'à l'agonie avec Kyriele.
+Une fois morte, le mirmim l'a ressucitée.
