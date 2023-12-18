@@ -574,7 +574,7 @@ Gaetan (Netatmo) a fait croire qu'il avait débloqué JLink, plutôt que moi, al
 La surveillance corrompue a utilisé mes propos pour créer des messages "prophétiques" pour manipuler les croyants à travers le monde, 
 et conduire des populations dans une mauvaise direction.
 
-- atk_recit__faux_messies_02
+- atk_recit__faux_messies_02a
 
 Il y a des complices qui ont le plus grand des culots en se faisant passer pour le messie auprès de croyants.
 C'est une mise en scène des Lystat dont ils acceptent la proposition.  ((oO  y'en qui n'ont pas froid aux yeux.))
@@ -592,6 +592,18 @@ Ce qu'il a dit n'était pas forcément faux, mais le fait que lui et ses complic
     Le mirmim a dénoncé "publiquement" ces conneries auprès des croyants qui se sont chargés de lui faire payer.
 Le mirmim a appelé les autorités pour que Lionel soit arrêté, ce qui a été fait.
 Sa manipulation lui a vallu l'ire des croyants qui lui ont fait payé physiquement.
+
+- atk_recit__faux_messies_02b  #legende
+
+Le jour où Lionel a été dénoncé par le mirmim comme faux messie,
+  il donnait son avis sur l'actualité politique et géopolitique.
+
+Pour démontrer la supercherie, le mirmim a fait appel à Gabriel, la téléportant devant l'assistance.
+  Le mirmim a invité Gabriel a faire part de son témoignage.
+  Gabriel a alors révélé aux personnes écoutant Lionel, que ces propos venaient en fait d'une autre personne que Lionel copiait.
+    Les réflexions originelles peuvent être trouvées sur internet comme l'a prouvé Gabriel devant tout le monde.
+Gabriel a aussi témoigné du comportement abjecte de Lionel envers elle et d'autres femmes,
+  ainsi que sa complicité avec de grands mafieux cherchant à abuser de la foi des croyants.
 
 - atk_recit__faux_messies_03
 
@@ -986,6 +998,28 @@ Le mirmim a fait cela pour dénoncer les hausses d'électricité dûes aux déci
 
 Cette hausse était un moyen de pression contre moi. Essayer de grignoter mon épargne davantage.
 Puis, me pousser à renoncer face à la détresse des gens qui subissent leurs politiques désastreuses.
+
+- atk_recit__noelysee_03  #legende
+
+Lors de cette soirée de Noël à l'Elysée, une cérémonie religieuse juive a été organisée.
+(Cela n'aurait pas dû se faire, étant donné que l'Elysée est un monument de l'exécutif politique français.
+Quelconque cérémonie religieuse n'aurait donc pas dû s'y produire.)
+
+L'assistance invitée dans les lieux a eu droit à une homélie de l'un de mes clones, complice des Lystat.
+Ce dernier se faisait passer pour le messie attendu de la communauté juive.
+Il s'est permis de faire des déclarations communautaristes flattant la communauté juive.
+Plus précidément, il a encouragé les juifs en Israël à lutter contre les palestiniens, 
+  et qu'il fallait refuser la solution à deux états.
+On peut remarquer facilement que flatter une partie de l'humanité seulement est source de division 
+  et peut aisément attirer l'animosité d'autres communautés contre les juifs.
+  Ces propos apportent donc plus de discorde que d'humanisme pour les peuples,
+    et attire le danger contre les juifs. (Tu parles d'un sauveur !)
+Evidemment, ces propos servent les projets mégalomaniques des Lystat se rêvant en dieux du monde.
+  (Ils aspiraient à long terme se servir des croyances juives comme prophéties de 
+    l'émergence d'homo deus en terre de Judée.)
+
+Le mirmim a dévoilé cet usurpateur qu'il a bien remis à sa place.
+  Bien sûr, la supercherie et les idées délirantes des Lystat ont été condamnées par la même occasion.
 
 - atk_recit__hextech_01  #legende
 
