@@ -888,6 +888,19 @@ Dans cette traque incessante, d'autres femmes opposées aux Lystat, comme Chloé
 .Gabriel
 .Korra
 
+- atk_recit__secte_lystat_03  #legende
+
+En juin 2023, les Lystat ont organisé une nouvelle réunion, manipulant Vivianne/Anne et autres.
+Au cours de cette réunion, différents règlements de compte ont eu lieu entre les Lystat, Molly, etc.
+Les Lystat ont été jusqu'à utiliser des explosifs à cette occasion.
+
+Chez les Lystat, le destin a exprimé son mécontentement vis à vis de cette méthode.
+Il l'a également exprimé du côté du village du sud.
+
+En effet, les Lystat avaient lancé la reconstruction du temple (pour faire chier le monde).
+  Ce bâtiment avait pourtant été interdit et détruit une première fois par le phénix.
+  Par conséquent, cette seconde construction d'un temple a été détruite par le phénix à nouveau.
+
 - atk_recit__assassinat_de_noel_01  #legende
 
 Le 08 décembre 2018, Charles, Philippe et leurs complices prévoient de m'assassiner.
@@ -946,3 +959,56 @@ Le mirmim a retiré à Molly son collier avec une croix chrétienne et lui a fai
 La manipulation de Molly avait conduit à l'exécution de personnes innocentes dont mes enfants par Vivianne.
 Pour lui faire comprendre ce qu'elle avait déchainé, le mirmim a blessé Molly jusqu'à l'agonie avec Kyriele.
 Une fois morte, le mirmim l'a ressucitée.
+
+- atk_recit__noelysee_01  #legende
+
+En 2022, les Lystat&co se payent une soirée de Noël à l'Elysée. ((rien que ça))
+  Molly, Vivianne, Emma ses frères, et bien des complices y participent.
+  Les Pellé (Alexandre, Fabienne et Raymond), Taoufik, Youssef pour donner quelques noms.
+  Des employés de l'entreprise d'informatique y sont aussi (et ils se demandent comment ça se fait qu'ils aient accès à l'Elysée.) 
+Le mirmim apparaît. Il fait un discours, présentant les Lystat comme les plus grands voleurs, etc parasites économiques.
+  Il rétablit la vérité sur l'auteur d'arba&co. Il fustige le management brutal et le harcèlement au travail (surtout des imbéciles). 
+  Il condamne Molly pour sa manipulation à m'avoir envoyé dans le sud de la France au même moment, 
+    pour éviter que je sois dans leur pattes sur Paris. 
+  Bref c'est le bordel et ça dégénère. 
+Charles et Philippe se sont attaqués au mirmim. Cerbère et Fenrir s'en sont pris à aux en retour.
+  D'autres assauts ont eu lieu contre le mirmim qui a alors déployé Kyriele.
+
+Les personnes décédées ont été ressucitées.
+Charles, Philippe et autres agresseurs téléportés dans du fumier dans un endroit où 
+  ils étaient obligés de demander l'aide d'autrui.
+
+- atk_recit__noelysee_02  #legende
+
+En utilisant Kyriele, le mirmim a provoqué une coupure de courant.
+Le mirmim a fait cela pour dénoncer les hausses d'électricité dûes aux décisions de l'exécutif qui ne protègent pas les français...
+  Beaucoup ont perdu leur travail (boulangers par exemple), à cause des hausses de coups.
+
+Cette hausse était un moyen de pression contre moi. Essayer de grignoter mon épargne davantage.
+Puis, me pousser à renoncer face à la détresse des gens qui subissent leurs politiques désastreuses.
+
+- atk_recit__hextech_01  #legende
+
+Le village du sud de la France profite d'une source d'énergie liée à la nature.
+Cette dernière permet aux habitants de profiter d'une électricité via des symboles mis en réseau.
+  Le fonctionnement d'un tel système nécessite de la végétation.
+    Des symboles de "collecte d'énergie" sont placés sur les arbres, par exemple, dans l'esprit de la photosynthèse.
+    Ces derniers sont ensuite reliés à des objets marqués par des symboles de "réceptacles d'énergie".
+    Ces objects peuvent être utilisés ensuite comme source d'électricité.
+
+Ce moyen de collecte d'énergie est un don de la nature.
+L'efficience de ce système dépend donc de la volonté de celle-ci.
+
+- atk_recit__hextech_crisis_01  #legende  
+
+Il est arrivé que la nature ait coupé ou réduit l'efficacité de ce réseau d'énergie à différentes dates.
+Cela dans le but de manifester son mécontentement vis à vis des Lystat et de leur réseau de complices.
+
+- atk_recit__empathie_es_tu_la_01  #legende  
+
+Ugo, le fils de Vivianne et de Benoît, a un handicap de naissance.
+C'est un handicap voulu par la nature pour calmer, attendrir, susciter l'empathie de la famille Lystat. tic-cuisine
+Malheureusement, ca ne les a pas arrêté, et ils ont continué d'être brutaux avec leurs enfants.
+
+(Au passage, c'est une preuve supplémentaire pour ces impériaux, que le destin peut saboter
+leur sombre eugénisme quand il veut.)
