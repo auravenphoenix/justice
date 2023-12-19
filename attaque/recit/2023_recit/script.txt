@@ -964,7 +964,7 @@ En 2018, Lionel de Sequeira organise une soirée raclette chez lui.
 
 Des russes corrompus ont profité du harem des Lystat en 2018, notamment le 05 décembre 2018.
 
-- atk_recit__excommunicado_01  #legende
+- atk_recit__excommunicado_01a  #legende
 
 Après la bataille en Bretagne, le mirmim est apparu auprès de Molly.
   Utiliser Vivianne, sa fille, aussi vilement et sournoisement a particulièrement déplu au destin.
@@ -977,6 +977,12 @@ Le mirmim a retiré à Molly son collier avec une croix chrétienne et lui a fai
 La manipulation de Molly avait conduit à l'exécution de personnes innocentes dont mes enfants par Vivianne.
 Pour lui faire comprendre ce qu'elle avait déchainé, le mirmim a blessé Molly jusqu'à l'agonie avec Kyriele.
 Une fois morte, le mirmim l'a ressucitée.
+
+- atk_recit__excommunicado_01b  #legende
+
+Le mirmim a offert le collier de Molly à Ugo le fils de Vivianne, 
+  et il lui a dit qu'il était sien à présent.
+(Une sorte d'héritage anticipé, dans une "famille" où l'esprit de famille est un peu mort.)
 
 - atk_recit__noelysee_01  #legende
 
@@ -1162,3 +1168,37 @@ Gabriel est bisexuelle. Elle a été abusée par au moins une complice du résea
 Chez Netatmo, Baptiste, poussé par Victor Lystat, a fait bien des choix de développement informatique
   opposés à ceux que j'ai fait. (par exemple pour arba)
   Le but était d'essayer de créer la discorde, voire de saboter un peu l'organisation des nouveaux modules.
+
+- atk_recit__pas_un_mensonge_jusqu_a_preuve_du_contraire_01
+
+Molly pouvait déduire toute seule que Charles et Philippe avaient mis en scène les violences qu'elle a subie jeune (tic-cuisine), 
+  comme elle-même a fait subir des violences similaires à sa fille. tic-cuisine
+Charles pouvait détuire tout seul que je n'étais pas la cause de sa perte de Morganne, 
+  qu'il l'avait perdu tout seul.
+Philippe pouvait déduire tout seul que la famille Lystat était responsable des injustices qu'il a subies il y a des années.
+etc
+
+A l'issue de mes interprétations, mes investigations, chacune de ces personnes avaient toutes les pièces d'un puzzle 
+  qui une fois formé, démontrait qu'une bonne partie de leurs choix de vie était basé sur un/des mensonges, des erreurs de leur part. 
+Ils le sentaient bien, mais ils n'ont jamais voulu aller jusqu'au bout eux-mêmes, car il aurait fallu 
+  admettre les erreurs et toute l'entreprise de leur vie perdait son sens.
+  De quoi faire partir en crise de sens des psychés déjà bien perturbées.
+  Ils ont préféré rester dans l'erreur et le mensonge pour rester maître d'une situation agréable (tac) 
+    même si elle est mal fondée.
+
+- atk_recit__satan_claus_01  #legende
+
+Fin 2018, Chloé (et d'autres) sont résignées à poursuivre en justice les Lystat et leurs complices.
+  Un jeune avocat est en charge de les aider dans leur combat juridique.
+  Celui-ci visite Chloé à Noël. Il est en réalité un complice payé par les Lystat qui a accepté de suivre leur plan.
+  Il essaye alors de violer Chloé.
+  L'idée étant de la soumettre. tic-cuisine
+  (Au passage, la tentative montre à Chloé que les Lystat peuvent toujours l'atteindre où qu'elle soit. 
+    intimidation et pression psychologique)
+  Chloé ne se laisse pas faire. Elle utilise notamment ces pouvoirs pour repousser son assaillant.
+  Ce dernier passe alors au plan B bien connu des Lystat : "si tu ne soumets pas alors tue. Si tu ne contrôles pas alors détruis".
+  Il finit par tuer Chloé. Le mirmim apparaît pour neutraliser le criminel.
+  Kyriele met alors l'assassin à l'état d'agonie. 
+  Les autorités ont été convoquées sur les lieux du crime.
+    Le mirmim enjoint l'avocat à avouer ses méfaits avant de mourir.
+  Chloé est ressucitée par le mirmim, puis l'avocat.
