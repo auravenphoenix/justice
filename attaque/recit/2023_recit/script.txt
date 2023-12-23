@@ -1202,3 +1202,37 @@ Fin 2018, Chloé (et d'autres) sont résignées à poursuivre en justice les Lys
   Les autorités ont été convoquées sur les lieux du crime.
     Le mirmim enjoint l'avocat à avouer ses méfaits avant de mourir.
   Chloé est ressucitée par le mirmim, puis l'avocat.
+
+- atk_recit__2018_sylvestre_assassin_01  #legende
+
+Le destin profite de mes larmes pour mettre en copie (Vivi)Anne, Chloé, et autres.
+Les femmes se demandent 'T'es où ?', le mirmim répond que je suis chez S&A, que ça fait la n-ième fois que je fais de 
+l'escalade en espérant la voir, que si je pleure c'est que je n'ai plus moyen d'envoyer de messages via LinkedIn à Vivianne...
+Vivianne n'est pas contente. Elle contactera Sylvestre & Agathe pour des explications.
+Ces derniers sont un peu coincés. Ils décident de proposer un rdv à Vivianne qui lui permettra à coup sûr de me voir.
+C'est un piège et pas que pour abuser d'elle au lit cette fois-ci.
+(Hors de question de la laisser me retrouver, les mensonges seraient révélés, etc.)
+Sylvestre profite de l'occasion pour tuer Vivianne. 
+
+- atk_recit__2018_sylvestre_assassin_02  #legende
+
+Le mirmim apparaît applique la loi du talion et tue donc Sylvestre.
+Vivianne est ressucitée par le mirmim. Ce dernier conseille Vivianne de ne plus approcher Sylvestre et Agathe, trop dangereux 
+  comme elle vient de l'apprendre de la plus fatale des manières.
+Sylvestre est ressucité après cela.
+Chloé a demandé la même chose que Vivianne, un rendez-vous via Sylvestre & Agathe pour me retrouver.
+Sylvestre prévoyait aussi de la tuer.
+Au cours d'une discution avec Chloé, Sylvestre vend un peu la mèche.
+Chloé saisit l'horreur. Elle parvient à quitter les lieux du rendez-vous piège sans être blessée.
+
+- atk_recit__resume_06
+
+Chloé est ma cousine.
+  Ces parents sont des pourris, et Chloé a été endoctrinée comme les autres.
+Après l'Apocalypse, Chloé, Gabriel, Korra et Rose n'ont pas porté plainte contre les Lystat. 
+  Et elles ont continué à les cotoyer et à coucher avec eux. tic-cuisine
+  Elles jouaient double jeu : plan A (Aymeric), plan B (les Lystat).
+  Leur excuse pour ne pas être considérées comme complices des Lystat est la manipulation,
+  En plus, elles auraient décidé de ne plus croire les Lystat à partir de Juin 2021.
+    Je ne demande qu'à y croire. Mais dans ce cas, pourquoi les Lystat 
+      ont continué de commettre des méfaits après Juin 2021, en 2022 et en 2023 ? 
