@@ -1363,3 +1363,9 @@ Mamie Paulette avait dit à Chloé et autres que j'étais passé la voir...
 
 En effet, Grâce à ma grand-mère, le mirmim n'a même pas eu besoin d'intervenir pour déjouer la sordide manipulation des Pellé.
 (Merci mamie. :D)
+
+- atk_recit__faux_enterrement_01
+
+Plusieurs personnes, sachant très bien que je ne suis pas mort, sont présentes à mon faux enterrement :
+.Daniele Dufresne présente à ce faux enterrement.
+.Des collègues de travail présents aussi. (Kévin W)
