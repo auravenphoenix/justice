@@ -904,13 +904,26 @@ laissant Vivianne prendre le contrôle et tuer ses cibles.
 - atk_recit__traque_incessante_07e  #legende
 
 Cerbère et Fenrir se sont manifestés en réponse à l'assaut de Vivianne. 
-Sans hésitation, ils ont attaqué Vivianne jusqu'à ce que mort s'en suive.
-Anne a été ressucitée à la fin.
-Les personnes victimes de l'assaut de Vivianne ont été soignées et ressucitées également.
+Sans hésitation, ils ont attaqué Vivianne pour la neutraliser.
+Le mirmim est ensuite apparu pour lui faire la morale, et lui expliquer à quel point il était ridicule de croire 
+  que tuer mes enfants lui permettrait d'être avec moi.
+Après cela, le mirmim a achevé Vivianne avec Kyriele.
+Les personnes victimes de l'assaut de Vivianne ont été soignées et ressucitées.
+Anne a été ressucitée également à la fin.
+
+- atk_recit__traque_incessante_07f  #legende
+
+Emmanuel Macron a une responsabilité dans cette bataille impliquant du matériel et du personnel militaire de l'armée française.
+Par conséquent, un mirmim est apparu face à lui à nouveau, pour lui redonner la leçon qu'il n'avait visiblement pas assimilée 
+  en décembre 2018.
+La décision de Macron avait été implacable, celle du mirmim l'était tout autant.
+Kyriele s'est alors abbatu sur l'irresponsable français ayant accepté d'user d'une force armée contre femmes et enfants de sa patrie.
+Il fut ressucité à la fin de la bataille avec de nouvelles cicatrices.
 
 - atk_recit__traque_incessante_08  #legende
 
 Dans cette traque incessante, d'autres femmes opposées aux Lystat, comme Chloé, ont été pourchassées.
+.La mère de Chloé
 .Rose
 .Gabriel
 .Korra
