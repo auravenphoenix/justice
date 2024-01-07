@@ -1203,9 +1203,9 @@ Fin 2018, Chloé (et d'autres) sont résignées à poursuivre en justice les Lys
     Le mirmim enjoint l'avocat à avouer ses méfaits avant de mourir.
   Chloé est ressucitée par le mirmim, puis l'avocat.
 
-- atk_recit__2018_sylvestre_assassin_01  #legende
+- atk_recit__2018_sylvestre_assassin_01a  #legende
 
-Le destin profite de mes larmes pour mettre en copie (Vivi)Anne, Chloé, et autres.
+Début octobre 2018, le destin profite de mes larmes pour mettre en copie (Vivi)Anne, Chloé, et autres.
 Les femmes se demandent 'T'es où ?', le mirmim répond que je suis chez S&A, que ça fait la n-ième fois que je fais de 
 l'escalade en espérant la voir, que si je pleure c'est que je n'ai plus moyen d'envoyer de messages via LinkedIn à Vivianne...
 Vivianne n'est pas contente. Elle contactera Sylvestre & Agathe pour des explications.
@@ -1213,6 +1213,10 @@ Ces derniers sont un peu coincés. Ils décident de proposer un rdv à Vivianne 
 C'est un piège et pas que pour abuser d'elle au lit cette fois-ci.
 (Hors de question de la laisser me retrouver, les mensonges seraient révélés, etc.)
 Sylvestre profite de l'occasion pour tuer Vivianne. 
+
+- atk_recit__2018_sylvestre_assassin_01b
+
+L'assassinat de Vivianne par Sylvestre s'est fait en parallèle de ma visite chez Rémy Thomasse et sa femme.
 
 - atk_recit__2018_sylvestre_assassin_02  #legende
 
@@ -1228,11 +1232,76 @@ Chloé saisit l'horreur. Elle parvient à quitter les lieux du rendez-vous pièg
 - atk_recit__resume_06
 
 Chloé est ma cousine.
-  Ces parents sont des pourris, et Chloé a été endoctrinée comme les autres.
-Après l'Apocalypse, Chloé, Gabriel, Korra et Rose n'ont pas porté plainte contre les Lystat. 
+  Son père, mon oncle et frère de Charles, est un pourri qui a appliqué l'endoctrinement des Lystat sur sa fille Chloé.
+Après l'Apocalypse, Chloé, Gabriel, Korra et Rose n'ont pas porté plainte contre les Lystat.
   Et elles ont continué à les cotoyer et à coucher avec eux. tic-cuisine
   Elles jouaient double jeu : plan A (Aymeric), plan B (les Lystat).
   Leur excuse pour ne pas être considérées comme complices des Lystat est la manipulation,
-  En plus, elles auraient décidé de ne plus croire les Lystat à partir de Juin 2021.
+  en plus, elles auraient décidé de ne plus croire les Lystat à partir de Juin 2021.
     Je ne demande qu'à y croire. Mais dans ce cas, pourquoi les Lystat 
       ont continué de commettre des méfaits après Juin 2021, en 2022 et en 2023 ? 
+
+- atk_recit__clarification_apocalypse_01
+
+Durant l'apocalypse, le 05 décembre 2018, le mirmim a dit qu'il fallait me faire DEVINER les horribles 
+  méfaits des Lystat qui doivent être alors condamnés.
+Si on doit me faire deviner, c'est que le destin ne veut pas que l'on vienne me dire directement.
+Ainsi, il est inutile de croire qu'il est possible de venir retrouver.
+Par conséquent, toute proposition d'un tel ou d'un autre organisant un rendez-vous pour me voir est inexorablement voué à l'échec.
+  Si c'est sincère, le mirmim ne laissera pas la rencontre se faire.
+  Sinon, il s'agit ni plus ni moins d'un piège.
+
+- atk_recit__pere_fouettard_01
+
+Pour Noël 2018, les Lystat organisent un grande fête pour ravir les petits et les grands.
+Ils ont loué une salle, un lieu, pour leurs festivités. Du cirque est même prévu pour l'occasion.
+Ils font croire que je suis invité, mais ce n'est pas le cas, évidemment.
+Ils font croire à Jys, ma fille, qu'elle va enfin pouvoir revoir son papa.
+Bien sûr, ils vont jusqu'au bout de la mise en scène, en insistant bien sur mon absence.
+Celles qui croyaient me voir sont attristées, à commencer par Jys.
+
+Molly est en première ligne dans cette entreprise visant à désespérer femmes et enfants.
+
+- atk_recit__pere_fouettard_02
+
+Avec l'envie sans limite des Lystat et leur manque de retenu, cet évènement devient un vrai foutoir.
+Aucun respect n'est fait pour les lieux et les biens empruntés qu'ils abiment allégrement.
+Les propres et bien habillés Lystat révèlent leur instinct et leur soif de faire des conneries.
+  Tels des vampires révélant leur dents réclamant grand soif et agissant bestialement pour l'assouvir.
+
+- atk_recit__pere_fouettard_03
+
+Au cours de la soirée, la suite du plan des Lystat passe à l'étape suivante.
+Le jeune avocat qui apporte ses services à Chloé et autres dans cette affaire est de la partie.
+C'est un complice des Lystat a qui ils ont donné un objectif bien précis : remettre la main sur Chloé.
+  Il est loin de donner les bons conseils pour elle, comme par exemple porter plainte contre Charles&co (qui le paye).
+  Cet avocat corrompu essaye donc de s'en prendre à Chloé, en essayant de l'abuser, notamment sexuellement.
+    (Cela soutient la thèse des Lystat, avec un homme de plus montrant que tous les hommes sont des pourceaux avec les femmes.)
+
+- atk_recit__pere_fouettard_04a  #legende
+
+Chloé, enceinte, se défend face à son avocat abuseur.
+Le mirmim apparait pour lui donner un coup de main.
+L'apparition du mirmim n'est pas du goût des Lystat bien sûr.
+La fête bascule dans un affrontement. Les lieux sont déjà dégradés de toute manière.
+
+- atk_recit__pere_fouettard_04b  #legende
+
+La fusillade des Lystat conduit à la mort d'au moins Chloé.
+Ayant osé gâcher le Noël de bien des victimes, le mirmim se la joue père fouettard pour faire payer aux Lystat 
+  leurs incivilités et leurs crimes.
+Tolminah forme le manche du fouet dont les croissants de Kyriele forment les maillons.
+Ainsi équipé, le mirmim effectue sa chasse aux vampires.  #Castlevania
+
+- atk_recit__pere_fouettard_04c  #legende
+
+Tandis que le phénix éclaire le ciel nocturne avec sa fameuse grande boule de feu,
+  les Lystat et leurs complices agonisent, jusqu'à ce que mort s'en suive.
+
+Les autorités sont arrivés sur les lieux, après avoir été appelées par le mirmim.
+Le mirmim ressucite les victimes, puis les malfaiteurs.
+
+- atk_recit__pere_fouettard_05  #legende
+
+A la fin, Jys est contente d'avoir son papa pour Noël via le mirmim.
+Après un tel évènement, il est évident que Chloé doit changer d'avocat.
