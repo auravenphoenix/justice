@@ -373,6 +373,11 @@ Aussi, il n'a pas le choix, les Lystat demandent. Il est pieds et poings liés.
 Il a bien compris qu'il n'avait pas intérêt à ce que Vivianne me retrouve, qu'elle continue de collaborer avec la surveillance 
 de bonne volonté.
 
+- atk_recit__emile_cote_obscur_a_fond_02
+
+Emile a été formé et encouragé par les Lystat à profiter des femmes telles que Vivianne, Emma et autres.
+Emile, encouragé par Maurad Lystat, a cherché à sortir avec Julia, en usant de la même approche utilisée avec les endoctrinées.
+
 - atk_recit__molly_gouts_et_loisirs_01
 
 Molly est fan de rugby et elle aime bien les animaux.
@@ -458,6 +463,10 @@ Romain Levavasseur a travaillé comme traducteur dans cette entreprise.
 Dans cette entreprise, la misogynie était de mise.
 Par exemple, les hommes n'hésitaient pas être méprisant et rabaissant envers (Vivi)Anne.
   Une manière de plus pour lui mettre la pression sur les épaules et essayer de la contrôler, la faire renoncer, etc.
+
+- atk_recit__mauvais_managers_08
+
+Des harcèlements ont eu lieu au sein de cette entreprise informatique.
 
 - atk_recit__chaine_manipulatrice_01
 
@@ -906,7 +915,7 @@ Dans cette traque incessante, d'autres femmes opposées aux Lystat, comme Chloé
 .Gabriel
 .Korra
 
-- atk_recit__secte_lystat_03  #legende
+- atk_recit__secte_lystat_03a  #legende
 
 En juin 2023, les Lystat ont organisé une nouvelle réunion, manipulant Vivianne/Anne et autres.
 Au cours de cette réunion, différents règlements de compte ont eu lieu entre les Lystat, Molly, etc.
@@ -918,6 +927,13 @@ Il l'a également exprimé du côté du village du sud.
 En effet, les Lystat avaient lancé la reconstruction du temple (pour faire chier le monde).
   Ce bâtiment avait pourtant été interdit et détruit une première fois par le phénix.
   Par conséquent, cette seconde construction d'un temple a été détruite par le phénix à nouveau.
+
+- atk_recit__secte_lystat_03b  #legende
+
+Le mirmim explique aux villageois que, pour la 3è fois, le destin ne veut pas de temple.
+Il explique également que les auteurs de la destruction du restaurant peu avant la 1è destruction du temple 
+  sont les Lystat&co, et non le Phénix comme ils ont voulu le faire croire.
+  Il explique la traque contre Chloé et les enfants, etc.
 
 - atk_recit__assassinat_de_noel_01  #legende
 
