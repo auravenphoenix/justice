@@ -1480,3 +1480,32 @@ Moi et Benoît Lystat sommes des jumeaux homozygotes.
   Benoît est dyslexique. Benoît a subi une modification génétique post-mitose. (La nature l'a voulu ainsi. (tic-cuisine))
 
 Victor Lystat était très proche des chiens. Il se voyait bien en chien.
+
+- atk_recit__manipulation_corde_sensible__le_pardon_01
+
+Les Lystat disposaient de plusieurs jeux d'acteurs pour manipuler leurs victimes.
+Ils étaient capables de dire qu'il faut donner une nouvelle chance.
+A destination de Molly par exemple, ils pouvaient dire que le pardon fait partie des principes chrétiens.
+Et du coup si elle se voulait être bonne chrétienne, il fallait qu'elle trouve le chemin, la force de leur pardonner.
+
+Ils étaient capable de se comporter en garçons regrettant leurs petites bêtises, 
+  cherchan ainsi à avoir un processus de rédemption comme celui d'un gamin ayant fait une simple bêtise. 
+Et ainsi, obtenir un pardon facile, rapide. 
+Mais non ! Ils n'ont pas fait une petite bêtise. Ils ont commis des crimes et des délits. Ce sont des mafieux.
+
+- atk_recit__manipulation_corde_sensible__le_pardon_02
+
+Parler d'un chemin vers le pardon, c'est bien.
+Mais il faut d'abord parler des étapes de la rédemption. Rédemption devant être faite par la partie coupable.
+Seulement après tu peux penser le pardon. Face à une absence de rédemption, face à un déni du mal fait, tu réclames justice (non vengeance).
+Accorder le pardon, sans rédemption préalable en contre-partie, c'est prendre le risque que les mêmes causes produisent les mêmes effets.
+C'est se mettre en danger, dans le cas de grands maux.
+
+(https://www.youtube.com/watch?v=8SVOST6BZPc : " comment pardonner ? " "les étapes du pardon")
+
+- atk_recit__manipulation_corde_sensible__le_pardon_03
+
+La rédemption comprend les points suivants:
+.une reconnaissance de ses mauvaises actions et omissions, avec sincérité.
+.travailler à une nouvelle version de soi-même (qui aura moins de chances de reproduire les mêmes maux).
+.faire réparation du mal commis.
