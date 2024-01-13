@@ -92,7 +92,7 @@ Là où pour tout un chacun ce sont simplement des codes de civilités, pour eux
   du vampire face à l'esclave,
   du bourgeois face à la plèbe.
 
-- atk_global__vampire_comme_figure_divine_05
+- atk_global__vampire_comme_figure_divine_05a
 
 Présentés ainsi, ils ont l'air d'être des caricatures de méchants de série pour ados, voire pour enfants.
   Normal, ce sont des sales gosses.
@@ -100,3 +100,18 @@ Présentés ainsi, ils ont l'air d'être des caricatures de méchants de série 
     (Ils continuent ainsi de coller avec l'image du vampire. Dracula aime sucer le sang de jeunes vierges.)
   Comment ça se fait que ça marche ? Ils ont de l'argent. Argent qu'ils utilisent pour corrompre, par exemple pour que leurs "bêtises", leurs crimes 
     ne soient pas présentés à la lumière de la justice.
+
+- atk_global__vampire_comme_figure_divine_05b
+
+L'argent ça s'épuise. Comment ça dure depuis des générations et des générations ? 
+  Le commerce. Plus le monde est marchandise, plus ils ont de moyens de renflouer les caisses du marchand.
+    Si la façon principale de fonctionner du monde est le monde marchand, alors ils restent dominants dans ce monde.
+    C'est pour cela que leur stratégie est de pousser à une logique de consommation et de faire en sorte 
+      que toujours plus d'éléments de la vie deviennent des objets marchands, jusqu'aux corps humain.
+      L'ultra-libéralisme économique fait leur lit. 
+      Le capitalisme leur moyen de ponctionner les "impots" que ces nobles privés modernes s'octroient.
+  La finance débridée et les constructions économiques absurdes sont leurs moyens de vampiriser les peuples,
+    pour alimenter leur façon de vivre.
+    Par exemple, faire en sorte que les pays empruntent uniquement sur les marchers financiers avec des taux, etc.
+
+(https://www.dailymotion.com/video/x4du7uh : "LES GUIGNOLS DE L'INFO ---- World Company : Les apparatchiks du capitalisme")
