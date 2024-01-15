@@ -84,7 +84,94 @@ Les Lystat cultivent le rapport olympien: seuls les dieux sont sur l'Olympe et j
 Ils sont en contact uniquement avec des humains choisis. Mais pas choisis/Elus pour leurs vertues 
   mais pour leurs vices ou au moins leur soumission.  #AlitaBattleAngel
 
-- atk_global__vampire_comme_figure_divine_04
+- atk_global__vampire_comme_figure_divine_04a
+
+Leur aspiration à être des êtres supérieurs les poussent fatalement à voir le monde avec le prisme de la loi du plus fort.
+Quel risque y aurait-il à être du mauvais côté de la barrière quand on est un dieu ? 
+  Ou du moins que le contrôle les institutions, la politique, les journaux, etc.
+Cela est de même au niveau personnel.
+Si tu es toujours le meilleur, il n'y a rien à craindre.
+  Surtout qu'ils sont toujours près à tuer, contrairement aux citoyens raisonnables.
+Un individu te contrariant ? Il suffit de le faire taire si l'on ne parvient pas à le soudoyer.
+Si tu as toujours de l'argent, il suffit de corrompre avec. Une fois que la personne a fauté, il suffit de la faire chanter.
+(En échange d'une somme intéressante un jour, les gens perdent leurs libre-arbitre.
+ Trop tard après pour se rendre compte qu'ils ont fait mauvaise affaire. Ils ont bien faiblement vendue leur intégrité, leur vie.)
+
+- atk_global__vampire_comme_figure_divine_04b
+
+Ils se prennent pour des gens au dessus de la société, 
+mais ils sont justes à part, incompatible avec elle, et dangereux pour elle.
+
+Non humain, donc incapable de se comporter comme un humain.
+Comme ils cherchent à se distinguer des humains, ils ne sont pas dans le rapprochement social.
+Ils sont incompatibles avec la société, ils ne savent pas se comporter ainsi.
+Tel le vampire, ils mimiquent les humains pour se fondre parmis eux. #DemonSlayerMuzan
+Ils utilisent des individus qu'ils prennent pour modèles qu'ils copient. 
+  Ces derniers sont isolés le plus possible pour vampiriser et copier leur façon d'être.
+  L'isolement permet d'être sûr que la personne ne les croise pas et que les victimes ne se rendent pas compte 
+    des vrais auteurs de leurs idées, propos.
+  Tels des démons infiltrant le monde des hommes et ne sachant pas comment se comporter comme tel.
+
+- atk_global__vampire_comme_figure_divine_04c
+
+Conséquence pour eux, ils n'ont pas d'identité.
+Pour passer pour le meilleurs auprès de telle ou telle personne, ils s'inventent toujours un rôle collant bien avec la 
+personne.
+Le problème est qu'il est difficile de dire que sa couleur préférée est le bleu un jour et le vert un autre jour.
+Il n'y a pas de sincérité, pas de volonté construite. Par conséquent, peu de choses s'attachent dans leur moi.
+Ils ne savent du coup pas être eux-mêmes, car ils ne savent pas qui ils sont.
+Ils ne peuvent pas le savoir, vu qu'ils ne se sont jamais vraiment forgés, 
+à part pour coller au parfait petit Lystat de la famille Lystat poursuivant les objectifs de la famille Lystat.
+Le reste n'est qu'instinct primaire ou caprice gamin. Ils ne sont pas adultes, vu qu'ils n'acceptent pas les responsabilités, 
+  les conséquences de leurs actes.
+Ce sont des pages noires vierges (ou presque).
+
+- atk_global__vampire_comme_figure_divine_04d
+
+Ils mentent tellement sur qui ils sont, ils fondent tellement leur actions et décisions 
+sur du mimétisme de cibles modèles isolés, que d'une certaine manière, 
+ils sentent bien qu'ils n'arrivent pas être naturels avec les autres.
+
+Ainsi, ils ne peuvent jamais restés bien longtemps auprès d'une personne, même une qu'ils prétendent aimer, 
+au risque que leur manque de naturel n'éclate au grand jour.
+Une fois que l'espionnage de leurs cibles modèles à suffisamment apporté de matière à copier, 
+ils font la tournée de leur harem à travers le monde, jouant leur petit jeu mensonger.
+
+L'autre conséquence est qu'il vampirise mentalement les personnes qu'ils cotoient qu'ils soumettent pour 
+que la personne ne les lache pas si conflit il y avait, etc.
+
+- atk_global__vampire_comme_figure_divine_04e
+
+Les Lystat ne cultivent pas de racines culturelles, 
+  ou juste pour construire une image de juif victime.
+
+Ils sont hors sol et vivent hors sol.
+Logeant d'hôtel en hôtel à travers le monde quand ils ne sont pas dans la demeure familiale sur l'île de Beauté.
+  Les hotels leur permettent de faire tout ce qu'ils veulent sans avoir à entretenir quoi que ce soit.
+    De sombres activités peuvent s'y passer sans que cela ne laisse grand trace vu qu'ils vont de chambre en chambre, 
+    et qu'ils payent pour couvrir leurs méfaits. #JohnWickContinental
+
+- atk_global__vampire_comme_figure_divine_04f
+
+Ce terrible prisme conduit à l'extrême à la loi de la jungle, et extrêmistes, sans limite, ils le sont. 
+Loi de la jungle qui conduit à la baisse de la culture, qui produit les précieux objets qu'ils peuvent chérir ou aimer consommer.
+Les premiers à disparaître sont souvent les plus riches car les moins utiles en cas d'affaiblissement culturel.
+Mais cela, ils ne pensent pas jusque là. Ils voient juste une belle fracture sociale, entre d'un côté des néo-nobles 
+et de l'autre une masse contrôlée et condamnée à produire et servir ce qu'ils souhaitent.
+Ils se disent qu'ils auront toujours assez d'argent pour entretenir un certain luxe.
+
+Là où ils pensent mal, c'est que de l'autre côté il n'y aurait pas l'envie, le moral pour cela, surtout 
+que la violence à laquelle ils aspirent pour le monde ne favorise aucune stabilité.
+Sans stabilité et sans liberté, pourquoi entreprendre ?
+
+Bref, les ambitions des Lystat, sans limites, sans retenues et surtout sans restropective sur leurs décisions, 
+entrainent le monde culturel en premier, jusqu'à l'entièreté de la civilisation, à la destruction. 
+Pour finir dans une barbarie plus ou moins contrôlée. 
+
+Mais ils seraient des dieux. #sarcasme
+(Tel, Sauron et Saroumane à la tête des orcs, des goblins, etc à la tête d'un monde ravagé.)
+
+- atk_global__vampire_comme_figure_divine_05
 
 Les habits des Lystat ne sont pas dénués de code.
 Chacun d'entre eux aime s'habiller en costume de luxe tel un noble, un comte (Dracula), Charles s'ajoute aussi un chapeau assorti.
@@ -92,7 +179,7 @@ Là où pour tout un chacun ce sont simplement des codes de civilités, pour eux
   du vampire face à l'esclave,
   du bourgeois face à la plèbe.
 
-- atk_global__vampire_comme_figure_divine_05a
+- atk_global__vampire_comme_figure_divine_06a
 
 Présentés ainsi, ils ont l'air d'être des caricatures de méchants de série pour ados, voire pour enfants.
   Normal, ce sont des sales gosses.
@@ -101,7 +188,7 @@ Présentés ainsi, ils ont l'air d'être des caricatures de méchants de série 
   Comment ça se fait que ça marche ? Ils ont de l'argent. Argent qu'ils utilisent pour corrompre, par exemple pour que leurs "bêtises", leurs crimes 
     ne soient pas présentés à la lumière de la justice.
 
-- atk_global__vampire_comme_figure_divine_05b
+- atk_global__vampire_comme_figure_divine_06b
 
 L'argent ça s'épuise. Comment ça dure depuis des générations et des générations ? 
   Le commerce. Plus le monde est marchandise, plus ils ont de moyens de renflouer les caisses du marchand.
@@ -115,3 +202,14 @@ L'argent ça s'épuise. Comment ça dure depuis des générations et des génér
     Par exemple, faire en sorte que les pays empruntent uniquement sur les marchers financiers avec des taux, etc.
 
 (https://www.dailymotion.com/video/x4du7uh : "LES GUIGNOLS DE L'INFO ---- World Company : Les apparatchiks du capitalisme")
+
+- atk_global__vampire_comme_figure_divine_07
+
+Toutes leurs méthodes sordides pour vivre de cette manière, 
+ils se les transmettent de génération en génération, notamment via un livre.
+
+Un livre pour connaître les ficelles et leviers de l'argent.
+Un livre pour conduire une femme ou un homme sous son emprise.
+Un livre pour endoctriner la génération suivante et leurs faire embrasser ces sordides objectifs.
+Un livre pour corrompre les citoyens avec le vice.
+Et dans la soumission les liés.  #winkLOTR
