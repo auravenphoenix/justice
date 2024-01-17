@@ -1509,3 +1509,33 @@ La rédemption comprend les points suivants:
 .une reconnaissance de ses mauvaises actions et omissions, avec sincérité.
 .travailler à une nouvelle version de soi-même (qui aura moins de chances de reproduire les mêmes maux).
 .faire réparation du mal commis.
+
+- atk_recit__manigance_tt_off_01a
+
+Le 09 janvier 2024, j'étais en télétravail.
+Un message de Pablo, bien avant le daily ce jour-ci, suggère de déplacer le daily dans l'après-midi.
+Je l'approuve et d'autres personnes de l'équipe aussi.
+A 11h environ, Un message de Clément propose alors à l'équipe de faire le daily à 14h.
+Je l'approuve et d'autres personnes de l'équipe aussi.
+La réunion est bien décalée à 14h comme le montre le calendrier de l'entreprise.
+
+A 14h, je suis présent sur place à la réunion et chacun fait son résumé comme d'habitude.
+
+- atk_recit__manigance_tt_off_01b
+
+Le même jour, un message de Clément pour moi à 12h, me demande si j'étais "Off" ? 
+Je lui réponds que je l'étais à moitié vu que j'étais en télétravail le matin. Je comprends Off pour "non présent sur site", mais pas "absent".
+
+- atk_recit__manigance_tt_off_02
+
+16 Janvier 2024
+Clément me demande de corriger le tableau des demandes de congés et télétravail, car j'ai écrit "TT" au lieu de "Absent"
+Un de ses commentaires dans le tableau, dit que je n'étais pas au "daily".
+Ce qui est faux, j'étais présent au daily meeting, l'après-midi avec tous les autres.
+Je lui explique que c'est une mauvaise compréhension et que ma réponse "à moitié", non explicite, était pour dire télétravail.
+
+- atk_recit__manigance_tt_off_03
+
+Si cet épisode, cette mécompréhension de ma part et ma réponse non explicite, sont utilisés pour me faire passer pour 
+  un mec qui n'est pas venu au daily, abandon de poste ou je ne sais quoi, c'est une grossière manipulation.
+  Non je n'ai fait aucun abandon de poste chez Netatmo ou ailleurs, le 9 janvier ou tout autre jour.
