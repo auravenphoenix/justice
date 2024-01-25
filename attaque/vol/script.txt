@@ -1431,6 +1431,18 @@ J'ai émis l'idée de faire une entreprise dans l'architecture, aménagement du 
 J'ai aussi émis l'idée de développer ce genre d'activité au Mexique pour développer le travail là-bas.
 Les accusés ont fait du profit et compte encore exploiter ces idées, notamment Morgan avec l'entreprise dans le bâtiment.
 
+- vol_architecture_04
+
+Ma prise de conscience sur les difficultés écologiques lorsque je suis dans le sud de la France, 
+  m'amène à une certaine curiosité sur les solutions d'architecture et d'environnement.
+  J'essaye d'imaginer un mode de vie et notamment quelles constructions raisonnables et durables faudrait-il adopter 
+    pour un vivre ensemble éco-logique.
+  Cette réflexion ce fait avec le désir de travailler une esthétique dans les architectures (pas juste des blocs de béton, etc).
+    Pour ne plus regarder systématiquement vers le passé, pour trouver de la culture dans l'architecture 
+    Pouvoir se dire qu'on a du patrimoine au présent.
+Tout cela est repris par les accusés, notamment dans la création d'une entreprise d'architecture et d'aménagement du territoire.
+De cette entreprise, basée sur ma conviction et mes idées, les accusés ont fait du profit et cherchent à continuer à en faire.
+
 - vol_ecriture_01a
 
 L'ensemble de mes textes, mes idées écrites, pensés dans le cadre d'ateliers d'écriture 
@@ -1636,3 +1648,40 @@ Les accusés ont fait du profit et compte encore exploiter mes idées.
 
 L'évènement culturel 'Gouter la Culture' organisé à Vélizy-Villcaboublay en 2023, 
 était l'une de mes idées.
+
+- vol__point_sur_mes_projets_01a
+
+Projets informatiques:
+  Boite a outils:
+    .arba: arba-core, ..., arba-appt
+    .arba-aloc (allocators)
+    .arba-dnum (decorated number)
+    .arba-gral (grid algorithm) : spread_exploration...
+    .cmtk
+    .bashtlk (bash toolkit)
+      Notamment, des fonctions permettant d'utiliser 'pass', outil de gestion de mot de passe, comme gestionnaire de clés SSH.
+
+- vol__point_sur_mes_projets_01b
+
+Projets informatiques:
+  Outils:
+    .dirarchy (temgen)
+    .cmakepj
+
+- vol__point_sur_mes_projets_02
+
+Projets informatiques:
+  Outils:
+    application de visualisation de logs
+
+- vol__point_sur_mes_projets_03
+
+Jeux de société:
+  .Labicot v2
+  Outils:
+    .mazegen
+
+- vol__point_sur_mes_projets_04
+
+Fiction:
+  .Histoire de Fantasy : Loyann, Jys, Mey, Aleck et bien d'autres.
