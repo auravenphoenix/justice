@@ -1571,4 +1571,8 @@ Si cet épisode, cette mécompréhension de ma part et ma réponse non explicite
 
 Emile Gaultier est l'un des complices de cette manigance cherchant à me piéger et me salir.
 
-- atk_recit___01
+- atk_recit__lystat_arnaqueur_01
+
+Une école a été réalisée dans le village du sud de la France.
+  Quand Charles avait la confiance du village, il détenait une influence sur l'école.
+  Un jour, il est parti avec la caisse de l'école, laissant son personnel, les élèves et leurs familles dans le désarroi.
