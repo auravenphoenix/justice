@@ -920,6 +920,17 @@ La décision de Macron avait été implacable, celle du mirmim l'était tout aut
 Kyriele s'est alors abbatu sur l'irresponsable français ayant accepté d'user d'une force armée contre femmes et enfants de sa patrie.
 Il fut ressucité à la fin de la bataille avec de nouvelles cicatrices.
 
+- atk_recit__traque_incessante_07g  #legende
+
+Sur le champs de bataille, le mirmim a appliqué son pouvoir de distortion temporelle, ralentissant le temps sur le territoire.
+Cela permet aux personnes se battant à ses côtés d'esquiver les attaques, notamment les projectiles,
+  dont ils sont les cibles.
+Ainsi, le camp du mirmim échappe facilement aux missiles, aux drones, etc.
+
+Charles et Philippe étaient présent sur le champs de bataille, équipées de leurs armures et armes high tech.
+  Ils ont subi les effets de la distortion temporelle.
+  Et ils ont subi les taillades de Kyriele qui échappait à l'effet de la distortion, comme les personnes du côté du mirmim.
+
 - atk_recit__traque_incessante_08  #legende
 
 Dans cette traque incessante, d'autres femmes opposées aux Lystat, comme Chloé, ont été pourchassées.
@@ -1559,3 +1570,5 @@ Si cet épisode, cette mécompréhension de ma part et ma réponse non explicite
 - atk_recit__manigance_tt_off_04
 
 Emile Gaultier est l'un des complices de cette manigance cherchant à me piéger et me salir.
+
+- atk_recit___01
