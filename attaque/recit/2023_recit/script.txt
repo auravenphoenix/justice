@@ -1687,3 +1687,11 @@ Vivianne et Emma ont osé se faire passer pour les auteures de mes fictions.
   Vivianne pour au moins Francassia.
   Et Emma pour au moins l'histoire de Fantasy avec les Esprits.
   L'une des deux pour au moins les histoires de Morganne(-Aymeric), avec Azul etc.
+
+- atk_recit__michel_onfray_cible_des_lystat_01
+
+Michel Onfray:
+  Charles et Philippe "ont attaqué sa vie":
+    .Philippe est responsable de la mort de sa femme, Marie-Claude Ruel.
+    .Charles a essayé de tuer Michel.
+Le destin a soutenu Michel dans ces épreuves, notamment grâce au mirmim.
