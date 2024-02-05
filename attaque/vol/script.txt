@@ -1685,3 +1685,14 @@ Jeux de société:
 
 Fiction:
   .Histoire de Fantasy : Loyann, Jys, Mey, Aleck et bien d'autres.
+
+- vol__point_sur_mes_projets_05
+
+Fiction:
+  .recueil nouvelles tissées/liées
+    .vitiligo
+
+- vol__point_sur_mes_projets_06
+
+Jeux vidéo:
+  .Labyrinthe de Glace
