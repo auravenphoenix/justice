@@ -1695,3 +1695,14 @@ Michel Onfray:
     .Philippe est responsable de la mort de sa femme, Marie-Claude Ruel.
     .Charles a essayé de tuer Michel.
 Le destin a soutenu Michel dans ces épreuves, notamment grâce au mirmim.
+
+- atk_recit__essa_vampire_economique_01
+
+L'agence immobilière ESSA, qui se charge de la location de mon bien à Plaisir, a réalisé un prélèvement de 780,00€ 
+de mon compte vers ma locataire. Cela devrait être l'inverse, je devrais être crédité de 780,00€, 
+loyer versé par ma locataire.
+Certes il y a les frais d'honoraire de 480,00€
+(Visite, constitution du dossier, rédaction du bail + Réalisation de l'état des lieux d'entrée).
+Je devrais tout de même être crédité de 300,00€.
+
+Bref, un mauvais de coup de plus se rajoute à cette mise en location.
