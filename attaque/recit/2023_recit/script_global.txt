@@ -171,13 +171,26 @@ Pour finir dans une barbarie plus ou moins contrôlée.
 Mais ils seraient des dieux. #sarcasme
 (Tel, Sauron et Saroumane à la tête des orcs, des goblins, etc à la tête d'un monde ravagé.)
 
-- atk_global__vampire_comme_figure_divine_05
+- atk_global__vampire_comme_figure_divine_05a
 
 Les habits des Lystat ne sont pas dénués de code.
 Chacun d'entre eux aime s'habiller en costume de luxe tel un noble, un comte (Dracula), Charles s'ajoute aussi un chapeau assorti.
 Là où pour tout un chacun ce sont simplement des codes de civilités, pour eux c'est le code distingué 
   du vampire face à l'esclave,
   du bourgeois face à la plèbe.
+
+- atk_global__vampire_comme_figure_divine_05b
+
+Les Lystat aspirent tellement à devenir des êtres dominant l'humanité, dépassant eux-mêmes la nature humaine, 
+  qu'ils travaillent à se forger vampire jusque dans leur alimentation.
+  Ainsi, Charles et ses enfants
+    boivent du sang humain,   (tic-cuisine)
+    et mangent de la chaire humaine.   (tic-cuisine)
+  En étant cannibalistes, ils espérent faire jaillir quelconque mutation faisant de génération en génération 
+    un corps considérant naturel l'être humain comme proie, collant avec l'idée de leur modèle vampirique.
+  Ils ne cherchent pas à être seulement vampire dans l'esprit, avec son comportement, sa capacité de séduction sur l'être humain, 
+    son emprise sur autrui.
+    Ils cherchent vraiment à avoir un corps, une nature de vampire.
 
 - atk_global__vampire_comme_figure_divine_06a
 
