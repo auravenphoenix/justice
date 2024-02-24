@@ -15,7 +15,7 @@ Voici pourquoi, j'ai imaginé à l'époque du sud de la France un château au se
     (Dans une mesure raisonnable, il pourrait servir de lieu de locations pour des évènements d'ordre privée.)
   En aucun cas, je n'ai imaginé ce château pour lieu de vie personnel, pour moi ou pour quelconque individu.
 
-- atk_politique__monument_patrimonial_d_interet_publique_01b
+- atk_philo_pol__monument_patrimonial_d_interet_publique_01b
 
 Il y a aussi un argument philosophique avec ce projet.
   Inviter les citoyens, les talents, à oeuvrer à un but plus grand que soi, commun.
@@ -24,7 +24,7 @@ Il y a aussi un argument philosophique avec ce projet.
     oeuvrant dans un but commun.
   Ici, la réalisation d'un monument patrimonial et culturel d'intérêt publique.
 
-- atk_politique__philosophie_avec_le_destin_01
+- atk_philo_pol__philosophie_avec_le_destin_01
 
 Depuis 2021, je pense, je réfléchis à une philosophie de vie et de mort (ça va ensemble) avec une 
   volonté extraordinaire de l'ordre du cosmos (divine pour ceux qui préfère), que je désigne par les termes 'destin' ou 'nature'.
