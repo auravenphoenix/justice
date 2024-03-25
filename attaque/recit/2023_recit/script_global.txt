@@ -1483,7 +1483,7 @@ Ainsi, on va expliquer dans je ne sais qu'elle rhétorique, que le peuple a mal 
 
 L'un des plus grand mépris de démocratie des dernières décennies, est la mise de côté du choix du peuple français concernant 
   le référundum de 2005 dont la question portait sur l'établissement d'un traité établissant une Constitution pour l'Europe. tac
-  Le non l'a emporté. Cependant, on a retrouvé la chose avec le traité de Lisbonne, signé par Nicolas Sarkozy.
+  Le 'non' l'a emporté. Cependant, on a retrouvé la chose avec le traité de Lisbonne, signé par Nicolas Sarkozy.
 Comment cela a-t-il été conduit ? Avec la stratégie de la pomme pourrie. tic-cuisine
   Voter Sarkozy en 2007, c'était faire de lui le président de la République, mais cela impliquait aussi une acceptation 
     du traité de Lisbonne dans le package... (Pas vraiment ce qui était mis en avant.)
@@ -1492,18 +1492,74 @@ Et aujourd'hui, notre fameux Macron, qui parlait de diriger davantage avec le pe
   annonçant même l'utilisation du référundum, où est-il ? 
   Cet outil démocratique aurait été pertinent par exemple, sur certains points des questions migratoires.
 
+- atk_global__marionnetisme_politique_02c3
 
-les mécanismes de conservations du pouvoir:
-.le peuple ne sait pas s'exprimer:
-  "regardez, dans la rue, ils cassent. c'est bien la preuve que l'avis du peuple n'est pas à prendre tout à fait en compte."
-  "le citoyen ne voit que son intérêt court-termiste et égoïste, il n'a pas la vision, la hauteur."
-  Ça serait diablement ironique de présenter pareil propos.
-  Si un citoyen, le chef d'Etat, a une bonne vision, alors il devrait être en mesure de comprendre les mécanismes et les raisonnements
-    qui lui ont permis de construire cette fameuse vision et permettre aux citoyens de faire de même.
-    Le peuple pourrait ainsi décider allègrement et sur bon nombre de sujets comme on l'attend dans une démocratie.
-    Bref, il n'y a pas d'arguments pour dire que les gens, la masse ne sait pas penser la politique.
-    Oui, il est difficile de construire et maintenir un peuple citoyen, mais ce n'est pas impossible.
-    Si seulement il y avait la volonté d'y parvenir.
+Autre manière pour mater le peuple, soutenir qu'il ne sait pas s'exprimer. tic-cuisine
+  Qu'il ne sait pas penser le sujet politique correctement. Cette stratégie poussée à l'extrême, 
+    conduit les populations les unes contre les autres, ajoutant donc la discorde pour mieux régner.
+
+Ainsi, à grands coups de réthorique, on fait croire à chaque citoyen qu'il n'a pas les capacités 
+  pour discuter les sujets politiques. tic-cuisine
+  On conplexifie les dossiers, on conplexifie le vocabulaire, on rend la chose tentaculaire, 
+    tel un kraken cherchant à noyer son lecteur pour le faire renoncer.
+  On profite durant les débats que des détails soient compliqué à vérifier à l'instant t, 
+    le spectateur ne prendra pas le temps de regarder plus tard et en attendant il se laissera emporter par le flux de la parole.
+    Le but étant d'impressionner d'une manière ou d'une autre. La première en donnant l'idée que la personne sait 
+      et que celui qui écoute ne suit que difficilement, qu'il aurait intérêt à laisser le parleur gérer la chose.
+    La seconde est littéralement qu'il ne reste qu'une impression : des étiquettes, des formules.
+      pas vraiment des clefs de compréhensions. tic-cuisine
+    Ainsi, le but est moyennement de convaincre, en invitant celui qui écoute à nous suivre dans notre raisonnement.
+
+- atk_global__marionnetisme_politique_02c3
+
+Si le peuple veut se mêler de la chose publique, et manifester son mécontentement, on dit qu'il 
+  ne sait pas s'exprimer. Les gens sont présentés en une masse beuglante.
+  Au préalable de cela, les discussions avec les représentants (députés, syndicaux) sont inexistants, ou stériles.
+    Ne laissant d'autre choix au peuple que la rue pour s'exprimer.
+  Drôle de pouvoir par le peuple pour le peuple.
+
+- atk_global__marionnetisme_politique_02c4
+
+Si les manifestations ne se taisent pas avec le temps, alors les Lystat et leur complices politiques poussent 
+  des groupes de casseurs (ex: les black blocks) à commettre du grabuge.
+    En argumentant, qu'il n'y aurait que comme ça qu'on puisse se faire entendre.
+    Dans un gouvernement par le peuple pour le peuple, non. Ce sont les représentants qui vont à la rencontre du 
+    peuple pour comprendre ce qu'ils veulent, trouver des consensus suivant les contraintes, etc.
+  En attendant, les images violentes et les blocages sont bien mis en avant dans les médias, 
+    plus que les revendications (tic-cuisine), dans le but de réduire la parole des manifestants.
+    Les non-manifestants ont une mauvaise vision de leur concitoyens.
+    Et ainsi, la discorde est créé au sein de la population.
+    (Au passage, cette violence est montrée aux femmes victimes de l'emprise des Lystat, pour leur montrer la violence du genre humain, 
+     que la démocratie ne marche pas, que la mafia c'est bien mieux, que leur projet eugénique et élitiste c'est cool, etc.)
+
+- atk_global__marionnetisme_politique_02c5
+
+Un exemple: 
+"regardez, dans la rue, ils cassent. c'est bien la preuve que l'avis du peuple n'est pas à prendre tout à fait en compte."
+"le citoyen ne voit que son intérêt court-termiste et égoïste, il n'a pas la vision, la hauteur."
+Ça serait diablement ironique de présenter pareil propos.
+Si un citoyen, le chef de l'Etat par exemple, a réussi lui à se construire une bonne vision, 
+  alors il devrait être en mesure de comprendre les mécanismes et les raisonnements
+  qui lui ont permis de construire cette fameuse vision et permettre aux citoyens de faire de même.
+  Le peuple pourrait ainsi décider allègrement et sur bon nombre de sujets comme on l'attend dans une démocratie.
+  Bref, il n'y a pas d'arguments pour dire que les gens, la masse ne sait pas penser la politique.
+  Oui, il est difficile de construire et maintenir un peuple citoyen, mais ce n'est pas impossible.
+  Si seulement il y avait la volonté d'y parvenir.
+
+- atk_global__marionnetisme_politique_02c6
+
+La vision d'Emmanuel Macron ne s'est pas construite d'une base raisonnable.
+  Elle lui vient d'un malsain-esprit (tic-cuisine), celui des Lystat. tic-cuisine
+
+La même volonté arrogante, méprisante, qui l'a conduit dans l'impasse politique en 2018.
+  Il aura fallu mon conseil fin 2018, début 2019, pour que l'homme reconnaisse qu'il falait quérir les requêtes du peuple.
+  "Pour le conflit avec les GJ, j'ai une idée, vieille comme 1789.", disais-je à l'époque. "Ressortez les cahiers de doléances !"
+  C'est ainsi que le Grand Débat a été mis en place... 
+    qui s'est muée en grande synthèse macroniste.
+
+Entre temps, le mouvement avait été sali, des personnes avaient été blessées.
+  Tout ça car la volonté des Lystat est dictatoriale, et qu'il n'ai jamais venu 
+    à l'idée de ces vampires comme de leur pantin élyséen de composer avec la volonté des citoyens.
 
 }}
 
@@ -1557,3 +1613,46 @@ C'est une déclaration dangereuse sur plusieurs points.
   Pour un dirigeant qui avait essayé de peser diplomatiquement sur la question du nucléaire iranien, c'est plutôt contradictoire.
   De toute manière, ce personnage ne donne pas une ligne, une direction politique, mais juste du 'en meme temps' macronien, 
     dans le seul intérêt de ces soutiens secrets mondialistes et obscurantistes.
+
+{{
+
+- atk_global__instigateurs_de_guerres_03
+
+https://www.bfmtv.com/international/europe/ukraine/on-calcule-un-proche-de-vladimir-poutine-evoque-la-possibilite-d-envoyer-une-bombe-nucleaire-sur-paris_AV-202403210374.html
+
+Piotr Tolstoï, est un complice du réseau des Lystat.
+  Ses déclarations récentes dans les médias alimentent la peur d'un conflit généralisé, 
+    dans le but de faire monter justement une escalade dangereuse.
+    En effet, de telles déclarations, et la peur quelle peut provoquer, 
+    laisse penser qu'il n'y a plus la voie pour la diplomatie.
+    Cela est en contradiction avec les annonces encore récentes de Vladimir Poutine, 
+      disant être prêt à venir à la table des négociations.
+  Instigateur de guerre, il participe ainsi, comme BHL, à un discours belliqueux occultant la voie du dialogue.
+  J'encourage depuis le début de ce conflit qui n'a lieu qu'à cause des Lystat et de la volonté chaotique de leur réseau, 
+    à un dialogue, une désescalade qui peut avoir lieu.
+    Les causes du conflits de départ sont connues, et peuvent être amplement appaisées.
+    Et un cheminement, sans doute long, mais pacifique peut être dessiné pour en finir avec les affrontements actuels, 
+      et l'atmosphère de guerre froide, entretenue depuis par des agents du chaos apatriotes.
+
+- atk_global__instigateurs_de_guerres_04
+
+https://www.youtube.com/watch?v=qhU2k6K4oC4 : " Attentat de Moscou : « Des victimes ont été tuées par balle, d'autres par les fumées de l’incendie » "
+
+Les auteurs de l'attentat à Moscou essayent de provoquer la guerre aussi.
+
+"Ils se dirigeaient vers l'Ukraine", mais c'est de la mise en scène. tic-cuisine
+  L'idée est de pousser la Russie à être plus agressive sur l'Ukraine. tic-cuisine, confirmation: tic-cuisine
+  Il ne faut pas oublier que Daesh (l'EI) n'est qu'un pantin géopolitique comme le Hamas.
+    Son but est d'être dangereux, quand ils ont besoin d'une étiquette de victime ou de mener une guerre contre une cible. tac
+    Au passage, le 11/9 n'est qu'une instrumentalisation permettant au réseau de l'ombre de mener les Etats-Unis dans une bataille là où 
+      ça les arrangeait. tic-cuisine, confirmation: tac
+    Permettant en retour de créer une aversion contre l'occident, pour construire un ennemi encore plus gros contre l'occident. tic-cuisine
+    Une escalade de la violence, pour rendre le monde plus violent, et contrôler les civilisations, faire que la loi du plus fort règne, 
+      car ils ne sont forts qu'à ça, et parce qu'ils se nourrissent du chaos, comme déjà expliqué. tic-cuisine
+
+L'Ukraine n'a pas vraiment à s'offusquer.
+  "Préparé du côté ukrainien" ne veut pas dire que les autorités ukrainiennes sont impliquées.
+  C'est comme les passeurs en méditerrannée. tic-cuisine
+    Ils ne sont pas liés, du moins officiellement aux autorités publiques des états du nord de l'Afrique...
+
+}}
