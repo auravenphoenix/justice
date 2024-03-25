@@ -1263,7 +1263,7 @@ Séduction/Marchandage de l'ambitieux cherchant le pouvoir.
   .Les politiciens peuvent céder au sentiment de puissance, de privilégié, et donc adhérer à cette vision élitiste. #neonoblesse
   .Comprenant qu'essayer de changer cela est un combat, risqué pour leur carrière, 
   ils acceptent la situation, ne voulant pas retourner dans les couches inférieures de la société.
-  Ils préfèrent ne pas faire partie des abusés, et donc cède face aux pratiques des abuseurs.
+  Ils préfèrent ne pas faire partie des abusés, et donc cèdent face aux pratiques des abuseurs.
 
 - atk_global__marionnetisme_politique_01c
 
@@ -1373,8 +1373,6 @@ Tu accordes donc un avantage, puis un autre, tu gagnes la confiance du peuple,
 
 https://www.huffingtonpost.fr/environnement/video/dans-le-massif-des-vosges-la-fronde-des-randonneurs-contre-la-privatisation-de-la-montagne_229975.html
 
-{{
-
 - atk_global__marionnetisme_politique_01i
 
 Une autre stratégie pour empêcher une bonne mesure d'aboutir : le sabotage de la proposition de loi.
@@ -1383,14 +1381,14 @@ possèdera les propriétés adéquat permettant de régler une problématique ou
 mais en réalité, il y a un déséquilibre, une fausse note, volontairement placé(e) rendant la loi 
 injuste, voire délétère pour le public ou le privé.
 L'intérêt est soit de saboter la France, tout en faisant croire qu'on a essayé de faire ce qu'il fallait, 
-soit de faire stagner la situation dont on souhaite sortir, en espérant que la loi soit annuler, par exemple 
+soit de faire stagner la situation dont on souhaite sortir, en espérant que la loi soit annulée, par exemple 
 par le conseil constitutionnel.
 
 - atk_global__marionnetisme_politique_01i2
 
 Un exemple : 
-Le texte, qui interdit en France l'utilisation de mots comme "steak" ou "escalope" pour des produits végétaux, 
-"défavorise complètement l'industrialisation française" vu que le texte ne s'applique qu'aux entreprises françaises.
+Le texte, qui interdit en France l'utilisation de mots comme "steak" ou "escalope" pour des produits végétaux.
+En effet, ce texte "défavorise complètement l'industrialisation française" vu que le texte ne s'applique qu'aux entreprises françaises.
 C'est ridicule, il faut que la mesure s'applique sur tout le territoire à toute entreprise y vendant ses produits.
 Il faut être incompétent ou saboteur pour laisser passer un déséquilibre pareil dans une loi économique.
 
@@ -1409,7 +1407,7 @@ Pour cela il y a deux choses à faire, discréditer l'opposition, discréditer l
 La création de l'ennemi politique (rien qu'un autre pantin):
 
 Première étape pour discréditer l'opposition, il faut en créer une qui soit sous contrôle.
-En d'autres termes, il faut créer un pantin politique qui s'oppose à la politique souhaité mais qui s'oppose mal.
+En d'autres termes, il faut créer un pantin politique qui s'oppose à la politique souhaitée mais qui s'oppose mal.
 C'est la stratégie de la création de l'ennemi, politique en l'occurrence.
 
 Cet adversaire politique déborde toujours. Il doit avoir au moins une casserole qui permette de le discréditer facilement.
@@ -1420,10 +1418,10 @@ Si l'adversaire politique est construit en ce sens, alors les Lystat et leur ré
   sur la scène publique. Il va prendre de la place pour écraser, étouffer, les oppositions et les alternatives sincères. tic-cuisine
 Aussi, pour salir les bonnes propositions, ils les mettent dans la bouche de ces oppositions pilotées. 
   Ainsi, on s'est retrouvé avec le souverainisme comme une idée nationaliste (donc un peu fasciste. de repli sur soi, xénophobe.)
-    Alors qu'encore une fois, ça n'a rien à voir, le souverainisme est dans la ligné du principe "Cultivons nos différences", 
-      dans le but que soi-même soi une richesse pour l'autre et vice-versa. tic-cuisine
-  Celui qui parle de quitter l'UE s'est retrouvé considété comme un xénophobe. On écoute celui qui évoque cela que d'une oreille.
-    Même si on ne trouverait pas d'arguments à redire, on n'oserait pas en parler plus autour de soi.
+    Alors qu'encore une fois, ça n'a rien à voir. Le souverainisme est dans la ligné du principe "Cultivons nos différences", 
+      dans le but que soi-même soit une richesse pour l'autre et vice-versa. tic-cuisine
+  Celui qui parle de quitter l'UE s'est retrouvé considérer comme un xénophobe. On écoute celui qui évoque cela que d'une oreille.
+    Même si on ne trouverait pas d'arguments à redire, on n'oserait pas en parler plus que cela autour de soi.
       Trop compliqué à aborder, donc trop long. On a pas envie de passer pour une mauvaise personne (facho, etc) auprès de son entourage.
   (C'est aussi le problème d'avoir une mauvaise culture de débat...)
 
@@ -1454,20 +1452,21 @@ Une mise en scène de l'opposition pilotée est de toujours s'opposer à contre-
 
 - atk_global__marionnetisme_politique_02b3
 
-En conséquence, un parti, une opposition, raisonnable, portant des sujets raisonnables mais faussement portés par des oppositions 
+En conséquence, un parti, une opposition, raisonnable, portant des sujets raisonnables, mais aussi faussement portés par des oppositions 
   nauséabondes, sont très vite discrédités, taggés similairement. C'est alors la croix et la bannière pour arriver à faire 
   entendre leur propositions. Déjà car ils sont injustement peu invitées, alors que les opposants pilotés ont de la place. tic-cuisine
-    Ironique, quand les politiques complices au pouvoir cherche à faire reculer la voix du RN.
-    Et c'est d'autant plus compliqué, vu que lorsqu'ils sont invités, ils doivent passer la moitié de leur temps de parole à expliquer 
-      qu'ils sont dignes d'écoute. tic-cuisine
+    Ironique, quand on pense aux politiques complices au pouvoir disant chercher à faire reculer la voix du RN.
+  Et c'est d'autant plus compliqué pour les vrais opposants, vu que lorsqu'ils sont invités, 
+    ils doivent passer la moitié de leur temps de parole à expliquer qu'ils sont dignes d'écoute. tic-cuisine
 
 Par exemple:
 C'est le cas de l'UPR, parti classé en divers par le même ministère de l'intérieur, qui est raillé d'extrême droite 
-  et tout ce qu'il va avec. A cause des oppositions contrôlées à qui on a dit de dire pareil pour que cela soit sali. tic-cuisine
+  et tout ce qu'il va avec. 
+  Cela à cause des oppositions contrôlées à qui on a dit de dire pareil pour que cela soit sali. tic-cuisine
 
 - atk_global__marionnetisme_politique_02c1
 
-Une autre stratégie est à mener avec le peuple. tic-cuisine
+Une autre stratégie est à mener contre le peuple. tic-cuisine
   En effet, les représentants, les élus et les partis ne suffisent pas.
   Il faut décrédibiliser, rabaisser le peuple. Donner à chaque citoyen le sentiment que toute action partant d'eux-mêmes est impossible, 
     qu'ils ne peuvent avoir du poids qu'avec des structures déjà établies, ... et déjà sous contrôle, ou mis à la marge
@@ -1475,8 +1474,8 @@ Une autre stratégie est à mener avec le peuple. tic-cuisine
 
 - atk_global__marionnetisme_politique_02c2
 
-Ainsi, on va expliquer dans je ne sais qu'elle rhétorique, que le peuple a mal voté.
-  Si le peuple a voté majoritairement ceci, qui n'arrange pas les affaires des corrompus du pouvoir, 
+Ainsi, on va expliquer dans je ne sais quelle rhétorique, que le peuple a mal voté.
+  Si le peuple a voté majoritairement ceci, qui n'arrange pas les affaires des corrompus au pouvoir, 
     c'est qu'il n'a pas bien compris, qu'il a été réactionnaire, qu'il n'a cherché qu'à exprimer son ressentiment 
     contre le pouvoir en place, mais que ça ne veut pas dire qu'il a vraiment voté pour la proposition 
     opposée, donc il a mal voté. tic-cuisine
@@ -1500,7 +1499,7 @@ Autre manière pour mater le peuple, soutenir qu'il ne sait pas s'exprimer. tic-
 
 Ainsi, à grands coups de réthorique, on fait croire à chaque citoyen qu'il n'a pas les capacités 
   pour discuter les sujets politiques. tic-cuisine
-  On conplexifie les dossiers, on conplexifie le vocabulaire, on rend la chose tentaculaire, 
+  On complexifie les dossiers, on complexifie le vocabulaire, on rend la chose tentaculaire, 
     tel un kraken cherchant à noyer son lecteur pour le faire renoncer.
   On profite durant les débats que des détails soient compliqué à vérifier à l'instant t, 
     le spectateur ne prendra pas le temps de regarder plus tard et en attendant il se laissera emporter par le flux de la parole.
@@ -1510,29 +1509,30 @@ Ainsi, à grands coups de réthorique, on fait croire à chaque citoyen qu'il n'
       pas vraiment des clefs de compréhensions. tic-cuisine
     Ainsi, le but est moyennement de convaincre, en invitant celui qui écoute à nous suivre dans notre raisonnement.
 
-- atk_global__marionnetisme_politique_02c3
+- atk_global__marionnetisme_politique_02c4
 
 Si le peuple veut se mêler de la chose publique, et manifester son mécontentement, on dit qu'il 
-  ne sait pas s'exprimer. Les gens sont présentés en une masse beuglante.
+  ne sait pas s'exprimer. Les gens sont présentés comme une masse beuglante.
   Au préalable de cela, les discussions avec les représentants (députés, syndicaux) sont inexistants, ou stériles.
     Ne laissant d'autre choix au peuple que la rue pour s'exprimer.
   Drôle de pouvoir par le peuple pour le peuple.
 
-- atk_global__marionnetisme_politique_02c4
+- atk_global__marionnetisme_politique_02c5
 
 Si les manifestations ne se taisent pas avec le temps, alors les Lystat et leur complices politiques poussent 
   des groupes de casseurs (ex: les black blocks) à commettre du grabuge.
     En argumentant, qu'il n'y aurait que comme ça qu'on puisse se faire entendre.
     Dans un gouvernement par le peuple pour le peuple, non. Ce sont les représentants qui vont à la rencontre du 
     peuple pour comprendre ce qu'ils veulent, trouver des consensus suivant les contraintes, etc.
+    Même si à la base, s'ils sont représentants, ils connaissent normalement déjà un peu les problèmes...
   En attendant, les images violentes et les blocages sont bien mis en avant dans les médias, 
     plus que les revendications (tic-cuisine), dans le but de réduire la parole des manifestants.
     Les non-manifestants ont une mauvaise vision de leur concitoyens.
     Et ainsi, la discorde est créé au sein de la population.
-    (Au passage, cette violence est montrée aux femmes victimes de l'emprise des Lystat, pour leur montrer la violence du genre humain, 
+    (Au passage, cette violence est montrée aux femmes victimes sous l'emprise des Lystat, pour leur montrer la violence du genre humain, 
      que la démocratie ne marche pas, que la mafia c'est bien mieux, que leur projet eugénique et élitiste c'est cool, etc.)
 
-- atk_global__marionnetisme_politique_02c5
+- atk_global__marionnetisme_politique_02c6
 
 Un exemple: 
 "regardez, dans la rue, ils cassent. c'est bien la preuve que l'avis du peuple n'est pas à prendre tout à fait en compte."
@@ -1546,7 +1546,7 @@ Si un citoyen, le chef de l'Etat par exemple, a réussi lui à se construire une
   Oui, il est difficile de construire et maintenir un peuple citoyen, mais ce n'est pas impossible.
   Si seulement il y avait la volonté d'y parvenir.
 
-- atk_global__marionnetisme_politique_02c6
+- atk_global__marionnetisme_politique_02c7
 
 La vision d'Emmanuel Macron ne s'est pas construite d'une base raisonnable.
   Elle lui vient d'un malsain-esprit (tic-cuisine), celui des Lystat. tic-cuisine
@@ -1558,10 +1558,8 @@ La même volonté arrogante, méprisante, qui l'a conduit dans l'impasse politiq
     qui s'est muée en grande synthèse macroniste.
 
 Entre temps, le mouvement avait été sali, des personnes avaient été blessées.
-  Tout ça car la volonté des Lystat est dictatoriale, et qu'il n'ai jamais venu 
-    à l'idée de ces vampires comme de leur pantin élyséen de composer avec la volonté des citoyens.
-
-}}
+  Tout ça car la volonté des Lystat est dictatoriale, et qu'il n'ait jamais venu 
+    à l'idée de ces vampires, comme de leur pantin élyséen, de composer avec la volonté des citoyens.
 
 - atk_global__instigateurs_de_guerres_01a
 
@@ -1614,8 +1612,6 @@ C'est une déclaration dangereuse sur plusieurs points.
   De toute manière, ce personnage ne donne pas une ligne, une direction politique, mais juste du 'en meme temps' macronien, 
     dans le seul intérêt de ces soutiens secrets mondialistes et obscurantistes.
 
-{{
-
 - atk_global__instigateurs_de_guerres_03
 
 https://www.bfmtv.com/international/europe/ukraine/on-calcule-un-proche-de-vladimir-poutine-evoque-la-possibilite-d-envoyer-une-bombe-nucleaire-sur-paris_AV-202403210374.html
@@ -1643,8 +1639,9 @@ Les auteurs de l'attentat à Moscou essayent de provoquer la guerre aussi.
 "Ils se dirigeaient vers l'Ukraine", mais c'est de la mise en scène. tic-cuisine
   L'idée est de pousser la Russie à être plus agressive sur l'Ukraine. tic-cuisine, confirmation: tic-cuisine
   Il ne faut pas oublier que Daesh (l'EI) n'est qu'un pantin géopolitique comme le Hamas.
-    Son but est d'être dangereux, quand ils ont besoin d'une étiquette de victime ou de mener une guerre contre une cible. tac
-    Au passage, le 11/9 n'est qu'une instrumentalisation permettant au réseau de l'ombre de mener les Etats-Unis dans une bataille là où 
+    Son but est d'être dangereux, quand les Lystat ont besoin à un endroit d'une étiquette de victime 
+      ou bien de mener une guerre contre une cible. tac
+    Au passage, le 11 Septembre n'est qu'une instrumentalisation permettant au réseau de l'ombre de mener les Etats-Unis dans une bataille là où 
       ça les arrangeait. tic-cuisine, confirmation: tac
     Permettant en retour de créer une aversion contre l'occident, pour construire un ennemi encore plus gros contre l'occident. tic-cuisine
     Une escalade de la violence, pour rendre le monde plus violent, et contrôler les civilisations, faire que la loi du plus fort règne, 
@@ -1654,5 +1651,3 @@ L'Ukraine n'a pas vraiment à s'offusquer.
   "Préparé du côté ukrainien" ne veut pas dire que les autorités ukrainiennes sont impliquées.
   C'est comme les passeurs en méditerrannée. tic-cuisine
     Ils ne sont pas liés, du moins officiellement aux autorités publiques des états du nord de l'Afrique...
-
-}}
