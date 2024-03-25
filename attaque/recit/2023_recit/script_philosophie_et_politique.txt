@@ -24,12 +24,45 @@ Il y a aussi un argument philosophique avec ce projet.
     oeuvrant dans un but commun.
   Ici, la réalisation d'un monument patrimonial et culturel d'intérêt publique.
 
+- atk_philo_pol__quel_vivre_ensemble_01a
+
+Je ne sacrifirai pas l'art et la culture sur l'autel du principe 'toujours plus de population'.
+  Je préfère 1000 personnes ayant accès au confort minimal + accès aux arts et et autres activités culturelles, 
+  que 10000 personnes vivant à peine avec le confort minimal, et où la société n'imaginent que des solutions minimales.
+    (cubique, béton gris, ça suffira, etc.)
+    (2 patates et un peu de lentilles, toujours ainsi, ça suffira.)
+
+- atk_philo_pol__quel_vivre_ensemble_02a
+
+Le travail sur la sobriété est important (c'est même d'actualité).
+  Cela permet de se préparer à faire face à la perte. Savoir que l'on peut vivre en ayant quasiment tout perdu.
+  Il n'y a rien de plus dangereux que quelqu'un qui ne soit pas près à perdre dans la vie. Surtout lorsqu'il a de nombreuses possessions.
+
+#epicurisme
+
+- atk_philo_pol__quel_vivre_ensemble_02b
+
+On n'est pas obligé de vivre dans le sacrifice permanent, et la souffrance de la privation.
+On peut chercher la satisfaction, le plaisir dans le cadre raisonnable de la vertue.
+
+#hédonisme
+
+Ainsi, la fête en commun est aussi bien une action hédoniste, 
+  qu'une réponse à la quête d'action collective large dans un but plus grand que soi.
+  (A l'opposé de la fête d'entre-soi, voire élitiste méprisant.)
+
+- atk_philo_pol__quel_vivre_ensemble_02c
+
+Epicurisme et hédonisme ne se contredisent pas dans ma façon de vivre, ils s'accordent dans un équilibre.
+
+======
+
 - atk_philo_pol__philosophie_avec_le_destin_01
 
 Depuis 2021, je pense, je réfléchis à une philosophie de vie et de mort (ça va ensemble) avec une 
   volonté extraordinaire de l'ordre du cosmos (divine pour ceux qui préfère), que je désigne par les termes 'destin' ou 'nature'.
 
-Serait-ce un culte, une secte ? Non, ce serait philosophie de vie (tic-cuisine).
+Serait-ce un culte, une secte ? Non, ce serait unr philosophie de vie (tic-cuisine).
   pas de rites
   pas (vraiment) de prière, mais un dialogue avec le destin direct sans intermédiaire.
   pas de pretres usant d'argument d'autorité, mais des profs/philosophes/sages faisant école et transmettant.
