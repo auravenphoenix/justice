@@ -1781,12 +1781,12 @@ Un mirmim est apparu auprès des hommes pour les recadrer.
 Il fallait qu'ils comprennent leur erreur, et qu'ils voient qu'ils menaient le même comportement pervers que les démons Lystat.
 Il vaut mieux qu'ils travaillent à ne pas tomber dans ces travers, aux effets délétères en cascade, pour eux et pour les autres.
 
-- atk_recit__netatmo_saboteurs_01
+- atk_recit__netatmo_en_croisade_01
 
 Depuis que je travaille chez Netatmo, cette entreprise a diffamé plusieurs fois contre moi 
   et a essayé de se débarasser de moi plusieurs fois.
 
-- atk_recit__netatmo_saboteurs_02a
+- atk_recit__netatmo_en_croisade_02a
 
 Netatmo a essayé de me dégouter du travail à faire de la même manière que le CTIG.
   En effet, dès le premier mois, un collègue part dans une autre boîte, 
@@ -1796,11 +1796,11 @@ Netatmo a essayé de me dégouter du travail à faire de la même manière que l
     Un foutoir et un foutage de gueule ahurissant.
   Cette tâche m'a été demandée alors que je n'ai pas eu le droit tellement à des présentations du testbench comme Gaëtan...
 
-- atk_recit__netatmo_saboteurs_02b
+- atk_recit__netatmo_en_croisade_02b
 
 Netatmo s'est permis de faire siennes des idées et conseils techniques et de gestion de projet informatique que j'ai eu.
 
-- atk_recit__netatmo_saboteurs_02c
+- atk_recit__netatmo_en_croisade_02c
 
 Netatmo s'est permis de faire preuve de harcèlement contre moi.
   Un exemple:
@@ -1808,13 +1808,13 @@ Netatmo s'est permis de faire preuve de harcèlement contre moi.
   Autre exemple:
     l'abus de la communication indirecte, alors que j'essaye de me concentrer sur mon travail.
 
-- atk_recit__netatmo_saboteurs_03a
+- atk_recit__netatmo_en_croisade_03a
 
 Netatmo a voulu faire croire que j'étais un glandeur :
   que je serais un mec qui va boire un verre en plein mileu de la journée plutôt que de bosser.
   que je serais un mec qui joue au jeux vidéos plutôt que de bosser.
 
-- atk_recit__netatmo_saboteurs_03b
+- atk_recit__netatmo_en_croisade_03b
 
 Netatmo a voulu faire croire que j'étais quelqu'un ayant menacé au moins un autre collègue.
   En effet, j'aurais menacé de "casser des gueules".
@@ -1822,7 +1822,7 @@ Netatmo a voulu faire croire que j'étais quelqu'un ayant menacé au moins un au
   Il s'agit d'une boutade au sein de l'équipe.
   Leur accusation est une déformation hors contexte.  #Richelieu
 
-- atk_recit__netatmo_saboteurs_04
+- atk_recit__netatmo_en_croisade_04
 
 Philippe Citroen, a été un complice du réseau des Lystat.
   C'était Philippe qui l'a convaincu d'agir en son sens.
